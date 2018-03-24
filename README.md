@@ -8,11 +8,11 @@ To run the full pipeline program:
 
     sh run.sh <mode>
     
-If <mode> is 'chunk' the program will recreate the previously extracted chunks.
+If \<mode\> is 'chunk' the program will recreate the previously extracted chunks.
 The scripts used for this, chunklink.pl, may not work with newer versions of
 Perl without some effort.
 
-If <mode> is anything else, the chunking process will be skipped.
+If \<mode\> is anything else, the chunking process will be skipped.
 
 
 ### Directory Sctructure ###
