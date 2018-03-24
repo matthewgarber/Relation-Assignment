@@ -4,6 +4,11 @@ Term: Spring 2017
 COSI 137b Information Extraction  
 Assignment #4: Relation Extraction
 
+This program performs relation extraction on the included NYT data set using
+MALLET, specifically MALLET's MaxEnt classifier. After extracting features
+and training a classifier on the training set, the program will score the
+classifier on the dev and test sets and print the results.
+
 To run the full pipeline program:
 
     sh run.sh <mode>
