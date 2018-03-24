@@ -1,0 +1,60 @@
+NYT20001230.1309.0093_B-NP NEWS_I-NP STORY_I-NP1 2000-12-30_B-NP 14:23:00_I-NP1
+
+A5284_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP a_I-NP BC-SEATTLE-ELEPHANT-NYT_I-NP &LR_I-NP1 ;_O 12-30_B-NP 0473_I-NP1
+
+BC-SEATTLE-ELEPHANT-NYT_B-NP1
+
+RARE_B-NP BABY_I-NP ELEPHANT_I-NP1 DELIGHTS_B-VP1 SEATTLE_B-NP1
+
+&UR_B-NP1 ;_O By_B-NP SAM_I-NP HOWE_I-NP VERHOVEK_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP N.Y_I-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &QC_I-NP1 ;_O &LR_B-NP1 ;_O &QL_B-NP1 ;_O
+
+SEATTLE_B-NP1 __B-VP1 The_B-NP answers_I-NP1 to_B-PP1 the_B-NP three_I-NP most_I-NP commonly_I-NP asked_I-NP questions_I-NP1 at_B-PP1 the_B-NP Woodland_I-NP Park_I-NP Zoo_I-NP1 in_B-PP1 Seattle_B-NP1 these_B-NP days_I-NP1 are_B-VP1 :_O one_B-NP1 COMMA_O 235_B-NP pounds_I-NP1 ;_O two_B-NP COMMA_I-NP 22_I-NP months_I-NP1 (_O the_B-NP longest_I-NP pregnancy_I-NP1 of_B-PP1 any_B-NP mammal_I-NP1 in_B-PP1 the_B-NP world_I-NP1 )_O ;_O three_B-NP1 COMMA_O natural_B-NP insemination_I-NP1 COMMA_O after_B-SBAR1 her_B-NP 8COMMA800-pound_I-NP mother_I-NP1 was_B-VP transported_I-VP1 2COMMA000_B-NP miles_I-NP1 for_B-PP1 a_B-NP tryst_I-NP1 in_B-PP1 Missouri_B-NP1 ._O
+
+The_B-NP questions_I-NP concern_I-NP1 a_B-NP baby_I-NP Asian_I-NP elephant_I-NP1 COMMA_O the_B-NP first_I-NP one_I-NP1 born_B-VP1 at_B-PP1 the_B-NP zoo_I-NP1 in_B-PP1 its_B-NP 100-year_I-NP history_I-NP1 ._O
+
+The_B-NP 8-week-old_I-NP elephant_I-NP1 has_B-VP quickly_I-VP become_I-VP1 a_B-NP local_I-NP sensation_I-NP1 COMMA_O and_O her_B-NP presence_I-NP1 has_B-VP doubled_I-VP1 the_B-NP normal_I-NP attendance_I-NP figures_I-NP1 and_O inspired_B-VP1 some_B-NP visitors_I-NP1 to_B-VP wait_I-VP1 as_B-ADVP long_I-ADVP1 as_B-SBAR1 two_B-NP hours_I-NP1 __B-VP1 yes_B-INTJ1 COMMA_O often_B-ADVP1 in_B-PP1 the_B-NP rain_I-NP1 at_B-PP1 this_B-NP time_I-NP1 of_B-PP1 year_B-NP1 __B-VP1 to_B-VP look_I-VP1 at_B-PP1 her_B-NP1 ._O
+
+The_B-NP three_I-NP questions_I-NP1 are_B-VP1 :_O How_B-ADVP much_I-ADVP1 did_O she_B-NP1 weigh_B-VP1 at_B-PP1 birth_B-NP1 ?_O
+
+How_B-ADVP long_I-ADVP1 was_O she_B-NP1 in_B-PP1 there_B-NP1 ?_O
+
+How_B-ADVP1 was_O she_B-NP1 conceived_B-VP1 ?_O
+
+The_B-NP answer_I-NP1 to_B-PP1 the_B-NP last_I-NP question_I-NP1 is_B-VP1 of_B-PP1 particular_B-NP interest_I-NP1 to_B-PP1 elephant_B-NP experts_I-NP1 around_B-PP1 the_B-NP world_I-NP1 COMMA_O who_B-NP1 consider_B-VP1 any_B-NP successful_I-NP experiment_I-NP1 in_B-PP1 breeding_B-NP1 an_B-NP important_I-NP victory_I-NP1 because_B-SBAR1 elephants_B-NP1 are_B-VP1 endangered_B-ADJP1 COMMA_O especially_B-ADVP1 the_B-NP Asian_I-NP species_I-NP1 COMMA_O whose_B-NP numbers_I-NP1 have_B-VP declined_I-VP1 steadily_B-ADVP1 to_B-PP1 about_B-NP 40COMMA000_I-NP1 in_B-PP1 the_B-NP wild_I-NP1 ._O
+
+The_B-NP baby_I-NP elephant_I-NP1 in_B-PP1 Seattle_B-NP1 is_B-VP1 one_B-NP1 of_B-PP1 three_B-NP Asian_I-NP elephants_I-NP1 born_B-VP1 in_B-PP1 North_B-NP American_I-NP zoos_I-NP1 this_B-NP year_I-NP1 COMMA_O one_B-NP1 of_B-PP1 which_B-NP1 died_B-VP1 shortly_B-ADVP1 after_B-PP1 birth_B-NP1 COMMA_O said_B-VP1 Mike_B-NP Keele_I-NP1 COMMA_O the_B-NP coordinator_I-NP1 for_B-PP1 the_B-NP elephant_I-NP species_I-NP survival_I-NP program_I-NP1 of_B-PP1 American_B-NP Zoo_I-NP and_I-NP Aquarium_I-NP Association_I-NP1 ._O
+
+Keele_B-NP1 COMMA_O an_B-NP assistant_I-NP director_I-NP1 at_B-PP1 the_B-NP Oregon_I-NP Zoo_I-NP1 in_B-PP1 Portland_B-NP1 COMMA_O said_B-VP1 that_B-SBAR1 artificial_B-NP insemination_I-NP1 had_B-VP worked_I-VP1 in_B-PP1 only_B-NP a_I-NP handful_I-NP1 of_B-PP1 cases_B-NP1 worldwide_B-NP1 ._O
+
+At_B-PP1 the_B-NP Seattle_I-NP zoo_I-NP1 COMMA_O efforts_B-NP1 to_B-VP artificially_I-VP inseminate_I-VP1 a_B-NP 21-year-old_I-NP Asian_I-NP elephant_I-NP1 failed_B-VP1 to_B-VP produce_I-VP1 a_B-NP pregnancy_I-NP1 after_B-PP1 six_B-NP years_I-NP1 ._O
+
+So_O in_B-PP1 September_B-NP 1998_I-NP1 COMMA_O the_B-NP zoo_I-NP1 loaded_B-VP1 the_B-NP elephant_I-NP1 COMMA_O whose_B-NP name_I-NP1 is_B-VP1 Chai_B-NP1 COMMA_O on_B-PP1 a_B-NP flatbed_I-NP truck_I-NP1 and_O sent_B-VP1 her_B-NP1 to_B-PP1 the_B-NP Dickerson_I-NP Park_I-NP Zoo_I-NP1 in_B-PP1 Springfield_B-NP1 COMMA_O Mo_B-NP1 ._O
+
+There_B-NP1 COMMA_O Chai_B-NP1 met_B-VP1 up_B-PRT1 with_B-PP1 Onyx_B-NP1 COMMA_O an_B-NP 11COMMA000-pound_I-NP sire_I-NP1 ._O
+
+Female_B-NP elephants_I-NP1 ovulate_B-VP1 once_B-ADVP1 every_B-NP 16_I-NP weeks_I-NP1 and_O then_B-VP have_I-VP1 only_B-NP about_I-NP a_I-NP 24-hour_I-NP window_I-NP1 to_B-VP become_I-VP1 pregnant_B-ADJP1 ._O
+
+After_B-SBAR1 the_B-NP first_I-NP attempt_I-NP1 failed_B-VP1 COMMA_O zoo_B-NP officials_I-NP1 said_B-VP1 Chai_B-NP1 appeared_B-VP1 to_B-VP enter_I-VP1 into_B-PP1 a_B-NP funk_I-NP1 in_B-PP1 her_B-NP unfamiliar_I-NP surroundings_I-NP1 and_O lost_B-VP1 about_B-NP 1COMMA000_I-NP pounds_I-NP1 ._O
+
+But_O in_B-PP1 the_B-NP second_I-NP cycle_I-NP1 COMMA_O in_B-PP1 January_B-NP 1999_I-NP1 COMMA_O she_B-NP1 became_B-VP1 pregnant_B-ADJP1 and_O quickly_B-ADVP1 regained_B-VP1 the_B-NP weight_I-NP1 ._O
+
+The_B-NP 22-month-long_I-NP gestation_I-NP1 ended_B-VP1 at_B-PP1 4:48_B-NP a.m_I-NP1 ._O
+
+on_B-PP1 Nov_B-NP1 ._O
+
+3_B-NP1 ._O
+
+The_B-NP birth_I-NP1 was_B-VP captured_I-VP1 on_B-PP1 a_B-NP video_I-NP1 COMMA_O which_B-NP1 is_B-VP1 available_B-ADJP1 at_B-PP1 the_B-NP Seattle_I-NP zoo_I-NP1 's_B-NP Web_I-NP site_I-NP1 COMMA_O www.zoo.org_B-NP1 ._O
+
+Another_B-NP frequent_I-NP question_I-NP1 is_B-VP1 this_B-NP1 :_O Does_O the_B-NP baby_I-NP1 have_B-VP1 a_B-NP name_I-NP1 ?_O
+
+Not_B-ADVP yet_I-ADVP1 ._O
+
+The_B-NP zoo_I-NP1 plans_B-VP1 to_B-VP have_I-VP1 a_B-NP contest_I-NP1 to_B-VP name_I-VP1 the_B-NP baby_I-NP1 beginning_B-PP1 in_B-PP1 February_B-NP1 COMMA_O David_B-NP L._I-NP Towne_I-NP1 COMMA_O president_B-NP1 and_O director_B-NP1 of_B-PP1 the_B-NP zoo_I-NP1 COMMA_O said_B-VP1 ._O
+
+The_B-NP person_I-NP1 who_B-NP1 submits_B-VP1 the_B-NP winning_I-NP name_I-NP1 COMMA_O which_B-NP1 Towne_B-NP1 said_B-VP1 should_O evoke_B-VP1 the_B-NP elephant_I-NP1 's_B-NP Asian_I-NP heritage_I-NP1 COMMA_O will_B-VP receive_I-VP1 a_B-NP trip_I-NP1 for_B-PP1 two_B-NP1 to_B-PP1 Thailand_B-NP1 COMMA_O where_B-ADVP1 Chai_B-NP1 is_B-VP1 from_B-NP1 ._O
+
+NYT-12-30-00_B-NP 1423EST_I-NP1
+

@@ -1,0 +1,72 @@
+NYT20001106.1705.0187_B-NP NEWS_I-NP STORY_I-NP1 2000-11-06_B-NP 18:26:00_I-NP1
+
+A9514_B-NP &Cx1f_I-NP1 ;_O tta-z_B-NP u_I-NP p_I-NP1 BC-BUSH-ART-NYT_B-NP &LR_I-NP1 ;_B-NP 11-06_I-NP 0696_I-NP1
+
+BC-BUSH-ART-NYT_B-NP1
+
+COMING_B-VP1 FULL_B-NP CIRCLE_I-NP1 COMMA_O BUSH_B-NP1 VOWS_B-VP1 TO_B-VP END_I-VP1 DISCORD_B-NP1 IN_B-PP1 WASHINGTON_B-NP1
+
+(_O EDS_B-NP1 :_O This_B-NP early_I-NP version_I-NP1 will_B-VP be_I-VP updated_I-VP1 from_B-PP1 Davenport_B-NP COMMA_I-NP Iowa_I-NP ._I-NP )_I-NP &QL_I-NP1 ;_O (_O ART_B-NP ADV_I-NP1 :_O Photos_B-NP NYT11_I-NP and_I-NP 25_I-NP1 are_B-VP being_I-VP sent_I-VP1 to_B-PP1 NYT_B-NP photo_I-NP clients_I-NP1 ._O
+
+Nonsubscribers_B-NP1 can_B-VP purchase_I-VP1 one-time_B-NP rights_I-NP1 by_B-PP1 calling_B-VP1 888-603-1036_B-NP or_I-NP 888-346-9867_I-NP ._I-NP )_I-NP &QL_I-NP1 ;_O &UR_B-NP1 ;_O By_B-NP FRANK_I-NP BRUNI_I-NP &QC_I-NP1 ;_O &LR_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP1 N.Y_B-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &QC_I-NP1 ;_O &LR_B-NP1 ;_O &QL_B-NP1 ;_O
+
+CHATTANOOGA_B-NP1 COMMA_O Tenn._B-NP1 __B-VP1 Nearly_B-NP 17_I-NP months_I-NP1 after_B-SBAR1 he_B-NP1 first_B-ADVP1 issued_B-VP1 his_B-NP call_I-NP1 for_B-PP1 a_B-NP ``_I-NP fresh_I-NP start_I-NP1 after_B-PP1 a_B-NP season_I-NP1 of_B-PP1 cynicism_B-NP1 COMMA_O ''_O Gov._B-NP George_I-NP W._I-NP Bush_I-NP1 ended_B-VP1 his_B-NP quest_I-NP1 for_B-PP1 the_B-NP presidency_I-NP1 Monday_B-NP1 on_B-PP1 a_B-NP nearly_I-NP identical_I-NP note_I-NP1 COMMA_O pledging_B-VP1 to_B-VP purge_I-VP1 Washington_B-NP1 of_B-PP1 what_B-NP1 he_B-NP1 cast_B-VP1 as_B-PP1 a_B-NP crippling_I-NP discord_I-NP1 ._O
+
+The_B-NP course_I-NP1 that_B-NP1 Bush_B-NP1 charted_B-VP1 over_B-PP1 his_B-NP final_I-NP hours_I-NP1 on_B-PP1 the_B-NP campaign_I-NP trail_I-NP1 COMMA_O plotted_B-VP1 with_B-PP1 as_B-NP much_I-NP concern_I-NP1 for_B-PP1 symbolism_B-NP1 as_B-PP1 for_B-PP1 raw_B-NP electoral_I-NP arithmetic_I-NP1 COMMA_O left_B-VP1 no_B-NP doubt_I-NP1 about_B-PP1 where_B-ADVP1 he_B-NP1 placed_B-VP1 the_B-NP blame_I-NP1 for_B-PP1 that_B-NP atmosphere_I-NP1 ._O
+
+His_B-NP first_I-NP major_I-NP rally_I-NP1 was_B-VP1 in_B-PP1 Tennessee_B-NP1 and_O his_B-NP last_I-NP1 was_B-VP planned_I-VP1 for_B-PP1 Arkansas_B-NP1 COMMA_O the_B-NP home_I-NP states_I-NP1 COMMA_O respectively_B-ADVP1 COMMA_O of_B-PP1 Vice_B-NP President_I-NP1 Al_B-NP Gore_I-NP and_I-NP President_I-NP Clinton_I-NP1 ._O
+
+The_B-NP Texas_I-NP governor_I-NP1 's_B-NP words_I-NP1 made_B-VP1 equally_B-ADJP clear_I-ADJP1 that_B-SBAR1 he_B-NP1 saw_B-VP1 himself_B-NP1 as_B-SBAR1 the_B-NP country_I-NP1 's_B-NP best_I-NP hope_I-NP1 for_B-PP1 bridging_B-VP1 ideological_B-ADJP1 divides_B-VP1 COMMA_O healing_B-VP1 partisan_B-NP wounds_I-NP1 and_O making_B-VP1 sure_B-ADJP1 that_B-SBAR1 Americans_B-NP1 could_B-VP gaze_I-VP1 upon_B-PP1 the_B-NP White_I-NP House_I-NP1 with_B-PP1 unfettered_B-NP respect_I-NP1 ._O
+
+``_O There_B-NP1 's_B-VP1 a_B-NP better_I-NP day_I-NP1 ahead_B-ADVP1 if_B-SBAR1 we_B-NP1 have_B-VP1 a_B-NP leader_I-NP1 who_B-NP1 's_B-VP1 willing_B-ADJP1 to_B-VP unite_I-VP1 the_B-NP country_I-NP1 COMMA_O to_B-VP bring_I-VP1 people_B-NP1 together_B-ADVP1 COMMA_O to_B-VP elevate_I-VP1 the_B-NP people_I-NP1 's_B-NP business_I-NP1 above_B-PP1 everyday_B-NP politics_I-NP1 COMMA_O ''_O Bush_B-NP1 said_B-VP1 at_B-PP1 a_B-NP rally_I-NP1 inside_B-PP1 a_B-NP hangar_I-NP1 at_B-PP1 the_B-NP airport_I-NP1 here_B-ADVP1 COMMA_O where_B-ADVP1 supporters_B-NP1 '_B-NP chants_I-NP1 evoked_B-VP1 the_B-NP nearness_I-NP1 of_B-PP1 the_B-NP moment_I-NP1 of_B-PP1 decision_B-NP1 ._O
+
+``_O One_B-NP more_I-NP day_I-NP1 !_O ''_O
+
+they_B-NP1 roared_B-VP1 ._O
+
+``_O One_B-NP more_I-NP day_I-NP1 !_O ''_O
+
+What_B-NP1 the_B-NP nation_I-NP1 needed_B-VP1 COMMA_O Bush_B-NP1 told_B-VP1 them_B-NP1 COMMA_O was_B-VP1 ``_O a_B-NP president_I-NP1 who_B-NP1 can_B-VP unite_I-VP1 this_B-NP nation_I-NP1 COMMA_O a_B-NP president_I-NP1 who_B-NP1 puts_B-VP1 aside_B-PRT1 the_B-NP endless_I-NP partisan_I-NP bickering_I-NP1 that_B-NP1 seems_B-VP1 to_B-VP gridlock_I-VP1 our_B-NP nation_I-NP1 's_B-NP capitol_I-NP1 COMMA_O a_B-NP president_I-NP1 who_B-NP1 puts_B-VP1 the_B-NP people_I-NP1 first_B-ADVP1 COMMA_O a_B-NP president_I-NP1 who_B-NP1 lifts_B-VP1 this_B-NP nation_I-NP1 's_B-NP spirits_I-NP1 ._O
+
+``_O I_B-NP1 'll_B-VP be_I-VP1 that_B-NP president_I-NP1 COMMA_O ''_O he_B-NP1 added_B-VP1 COMMA_O a_B-NP sentence_I-NP1 that_B-SBAR1 was_B-VP1 equal_B-NP parts_I-NP promise_I-NP1 and_O prediction_B-NP1 ._O
+
+It_B-NP1 underscored_B-VP1 the_B-NP optimism_I-NP1 that_B-SBAR1 Bush_B-NP1 has_B-VP1 COMMA_O from_B-PP1 the_B-NP very_I-NP beginning_I-NP1 COMMA_O sought_B-VP1 to_B-VP project_I-VP1 to_B-PP1 voters_B-NP1 ._O
+
+His_B-NP schedule_I-NP1 over_B-PP1 the_B-NP course_I-NP1 of_B-PP1 a_B-NP 16-hour_I-NP day_I-NP1 was_B-VP1 also_B-ADVP1 an_B-NP expression_I-NP1 of_B-PP1 that_B-NP confidence_I-NP1 ._O
+
+In_B-PP1 between_B-PP1 Tennessee_B-NP and_I-NP Arkansas_I-NP1 COMMA_O his_B-NP campaign_I-NP plane_I-NP1 touched_B-VP1 down_B-PRT1 in_B-PP1 Wisconsin_B-NP1 and_O Iowa_B-NP1 COMMA_O and_O while_B-SBAR1 any_B-NP one_I-NP1 of_B-PP1 those_B-NP four_I-NP states_I-NP1 could_B-VP wind_I-VP1 up_B-PRT1 providing_B-VP1 the_B-NP key_I-NP1 to_B-PP1 a_B-NP Bush_I-NP victory_I-NP1 COMMA_O none_B-NP1 have_B-VP1 as_B-NP many_I-NP electoral_I-NP votes_I-NP1 as_B-PP1 such_B-NP battlegrounds_I-NP1 as_B-PP1 Michigan_B-NP1 and_O Pennsylvania_B-NP1 ._O
+
+But_O they_B-NP1 are_B-VP1 genuine_B-NP tossups_I-NP1 that_B-NP1 were_B-VP initially_I-VP predicted_I-VP1 to_B-VP be_I-VP1 much_B-ADJP more_I-ADJP hospitable_I-ADJP1 to_B-PP1 Gore_B-NP1 ._O
+
+By_B-PP1 visiting_B-VP1 them_B-NP1 Monday_B-NP1 COMMA_O Bush_B-NP1 emphasized_B-VP1 the_B-NP breadth_I-NP1 of_B-PP1 his_B-NP appeal_I-NP1 and_O the_B-NP sometimes_I-NP surprising_I-NP vulnerability_I-NP1 of_B-PP1 the_B-NP vice_I-NP president_I-NP1 ._O
+
+He_B-NP1 did_B-VP not_I-VP let_I-VP1 his_B-NP assertion_I-NP1 of_B-PP1 strength_B-NP and_I-NP confidence_I-NP1 distract_B-VP1 him_B-NP1 from_B-PP1 the_B-NP important_I-NP business_I-NP1 of_B-PP1 beseeching_B-NP supporters_I-NP1 to_B-VP grant_I-VP1 him_B-NP1 victory_B-NP1 ._O
+
+With_B-PP1 just_B-NP 24_I-NP hours_I-NP1 before_B-PP1 Election_B-NP Day_I-NP1 COMMA_O Bush_B-NP1 in_B-PP1 many_B-NP ways_I-NP1 stripped_B-VP1 campaigning_B-VP1 to_B-PP1 its_B-NP essence_I-NP1 :_O coaxing_B-VP and_I-VP cajoling_I-VP COMMA_I-VP pleading_I-VP and_I-VP persuading_I-VP1 ._O
+
+``_O I_B-NP1 want_B-VP1 you_B-NP1 to_B-VP understand_I-VP1 that_B-SBAR1 I_B-NP1 can_B-VP n't_I-VP win_I-VP1 without_B-PP1 you_B-NP1 COMMA_O ''_O Bush_B-NP1 told_B-VP1 a_B-NP crowd_I-NP1 of_B-PP1 more_B-NP than_I-NP 1COMMA000_I-NP people_I-NP1 at_B-PP1 a_B-NP convention_I-NP center_I-NP1 in_B-PP1 Green_B-NP Bay_I-NP1 COMMA_O Wis._B-NP1 ``_O I_B-NP1 hope_B-VP1 you_B-NP1 redouble_B-VP1 your_B-NP efforts_I-NP1 to_B-VP make_I-VP1 sure_B-ADJP1 people_B-NP1 get_B-VP1 out_B-PP1 to_B-PP1 the_B-NP polls_I-NP1 ._O ''_O
+
+Minutes_B-NP1 later_B-ADVP1 COMMA_O he_B-NP1 added_B-VP1 :_O ``_O When_B-ADVP1 you_B-NP1 go_B-VP1 out_B-ADVP there_I-ADVP1 and_O tell_B-VP1 the_B-NP folks_I-NP1 where_B-ADVP1 we_B-NP1 stand_B-VP1 on_B-PP1 the_B-NP issues_I-NP1 and_O where_B-ADVP1 we_B-NP1 stand_B-VP1 when_B-ADVP1 it_B-NP1 comes_B-VP1 to_B-VP bringing_I-VP1 people_B-NP1 together_B-ADVP1 to_B-VP get_I-VP1 things_B-NP1 done_B-VP1 COMMA_O and_O you_B-NP1 tell_B-VP1 them_B-NP1 that_B-SBAR1 the_B-NP core_I-NP1 of_B-PP1 this_B-NP campaign_I-NP1 is_B-VP1 the_B-NP inherent_I-NP trust_I-NP1 in_B-PP1 the_B-NP American_I-NP people_I-NP1 COMMA_O I_B-NP1 believe_B-VP1 it_B-NP1 does_B-VP n't_I-VP matter_I-VP1 what_B-NP political_I-NP party_I-NP1 they_B-NP1 're_B-VP1 in_B-PP1 ._O
+
+They_B-NP1 're_B-VP going_I-VP1 to_B-VP come_I-VP1 our_B-NP way_I-NP1 ._O ''_O
+
+In_B-PP1 Chattanooga_B-NP1 COMMA_O Bush_B-NP1 repeatedly_B-ADVP1 needled_B-VP1 Gore_B-NP1 COMMA_O which_B-NP1 was_B-VP1 much_B-NP1 of_B-PP1 the_B-NP point_I-NP1 of_B-PP1 going_B-VP1 to_B-PP1 Tennessee_B-NP1 COMMA_O where_B-ADVP1 Gore_B-NP1 is_B-VP1 not_O at_B-ADVP all_I-ADVP1 certain_B-ADJP1 to_B-VP prevail_I-VP1 on_B-PP1 Tuesday_B-NP1 ._O
+
+The_B-NP Texas_I-NP governor_I-NP1 claimed_B-VP1 that_B-SBAR1 Gore_B-NP1 's_B-NP decades_I-NP1 of_B-PP1 experience_B-NP1 in_B-PP1 Washington_B-NP1 had_B-VP estranged_I-VP1 him_B-NP1 from_B-PP1 the_B-NP rest_I-NP1 of_B-PP1 the_B-NP country_I-NP1 by_B-PP1 making_B-VP1 him_B-NP1 too_B-ADJP trusting_I-ADJP1 of_B-PP1 federal_B-NP government_I-NP1 and_O too_B-ADJP fond_I-ADJP1 of_B-PP1 federal_B-NP spending_I-NP1 ._O
+
+``_O My_B-NP opponent_I-NP1 vows_B-VP1 to_B-VP carry_I-VP1 his_B-NP home_I-NP state_I-NP1 COMMA_O ''_O Bush_B-NP1 said_B-VP1 ._O
+
+``_O He_B-NP1 may_B-VP win_I-VP1 Washington_B-NP1 COMMA_O D.C._B-NP1 COMMA_O but_O he_B-NP1 's_B-VP not_I-VP going_I-VP1 to_B-VP win_I-VP1 Tennessee_B-NP1 ._O
+
+``_O He_B-NP1 forgot_B-VP1 his_B-NP roots_I-NP1 COMMA_O ''_O Bush_B-NP1 added_B-VP1 ._O
+
+``_O He_B-NP1 forgot_B-VP1 where_B-ADVP1 he_B-NP1 's_B-VP1 from_B-NP1 ._O
+
+He_B-NP1 trusts_B-VP1 Washington_B-NP1 ._O
+
+We_B-NP1 trust_B-VP1 the_B-NP people_I-NP1 ._O ''_O
+
+NYT-11-06-00_B-NP 1826EST_I-NP1
+

@@ -1,0 +1,60 @@
+NYT20001107.1907.0300_B-NP NEWS_I-NP STORY_I-NP1 2000-11-07_B-NP 19:07:00_I-NP1
+
+A0909_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP f_I-NP1 BC-WEB-TRACK-AD-COLUMN-N_B-NP 11-07_I-NP 0630_I-NP1
+
+BC-WEB-TRACK-AD-COLUMN-NYT_B-NP1
+
+ADVERTISING_B-NP1 :_O TRACKING_B-VP1 HOW_B-ADVP1 WEB_B-NP SURFERS_I-NP1 ENTER_B-VP1 SITES_B-NP1 MAY_B-VP HELP_I-VP1 AD_B-NP1
+
+BUYERS_B-NP &LR_I-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O By_B-NP STUART_I-NP ELLIOTT_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP N.Y_I-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O
+
+NEW_B-NP YORK_I-NP __I-NP1 Never_B-ADVP1 mind_B-VP1 those_B-NP points_I-NP1 of_B-PP1 light_B-NP1 a_B-NP former_I-NP president_I-NP1 talked_B-VP1 about_B-PP1 ._O
+
+A_B-NP research_I-NP company_I-NP1 is_B-VP proposing_I-VP1 that_B-SBAR1 ``_O points_B-NP1 of_B-PP1 presence_B-NP1 '_O '_O are_B-VP1 what_B-NP1 matter_B-VP1 COMMA_O at_B-ADVP least_I-ADVP1 when_B-ADVP1 it_B-NP1 comes_B-VP1 to_B-PP1 online_B-NP marketing_I-NP1 ._O
+
+The_B-NP company_I-NP1 COMMA_O Word_B-NP1 of_B-PP1 Net_B-NP1 COMMA_O is_B-VP introducing_I-VP1 a_B-NP system_I-NP1 meant_B-VP1 to_B-VP measure_I-VP1 the_B-NP various_I-NP points_I-NP1 at_B-PP1 which_B-NP1 computer_B-NP users_I-NP1 are_B-VP exposed_I-VP1 to_B-PP1 Web_B-NP sites_I-NP1 COMMA_O wherever_B-ADVP1 those_B-NP exposures_I-NP1 may_B-VP occur_I-VP1 ._O
+
+The_B-NP measurement_I-NP system_I-NP1 COMMA_O called_B-PP1 the_B-NP visibility_I-NP index_I-NP1 COMMA_O is_B-VP intended_I-VP1 to_B-VP provide_I-VP1 information_B-NP1 beyond_B-PP1 the_B-NP tracking_I-NP1 of_B-PP1 traffic_B-NP1 to_B-PP1 a_B-NP site_I-NP1 by_B-PP1 tracking_B-VP1 the_B-NP exposure_I-NP1 to_B-PP1 sites_B-NP1 through_B-PP1 search_B-NP engines_I-NP1 COMMA_O keyword_B-NP inquiries_I-NP1 COMMA_O listings_B-NP1 COMMA_O links_B-NP1 from_B-PP1 other_B-NP sites_I-NP and_I-NP category_I-NP listings_I-NP1 in_B-PP1 online_B-NP directories_I-NP1 ._O
+
+The_B-NP goal_I-NP1 of_B-PP1 the_B-NP index_I-NP1 is_B-VP1 to_B-VP help_I-VP1 advertisers_B-NP1 increase_B-VP1 their_B-NP visibility_I-NP1 online_B-VP1 by_B-PP1 spending_B-VP1 more_B-ADVP effectively_I-ADVP1 when_B-ADVP1 buying_B-VP1 banners_B-NP1 and_O other_B-NP types_I-NP1 of_B-PP1 interactive_B-NP advertisements_I-NP1 to_B-VP generate_I-VP1 traffic_B-NP1 ._O
+
+That_B-NP1 has_B-VP become_I-VP1 particularly_B-ADJP important_I-ADJP1 since_B-SBAR1 the_B-NP dot-com_I-NP shake-out_I-NP1 began_B-VP1 and_O advertisement_B-NP dollars_I-NP1 have_B-VP grown_I-VP1 increasingly_B-ADJP scarce_I-ADJP1 ._O
+
+``_O This_B-NP1 is_B-VP1 a_B-NP key_I-NP marketing_I-NP competitive-intelligence_I-NP tool_I-NP1 because_B-SBAR1 it_B-NP1 highlights_B-VP1 exposure_B-NP1 all_B-ADVP1 over_B-PP1 the_B-NP Internet_I-NP1 COMMA_O ''_O said_B-VP1 Astrid_B-NP van_I-NP Dorst_I-NP1 COMMA_O senior_B-NP analyst_I-NP1 for_B-PP1 the_B-NP e-marketing_I-NP intelligence_I-NP group_I-NP1 at_B-PP1 the_B-NP Gartner_I-NP Group_I-NP1 in_B-PP1 San_B-NP Jose_I-NP1 COMMA_O Calif_B-NP1 ._O COMMA_O who_B-NP1 was_B-VP briefed_I-VP1 about_B-PP1 the_B-NP index_I-NP1 by_B-PP1 Word_B-NP1 of_B-PP1 Net_B-NP1 before_B-PP1 its_B-NP public_I-NP introduction_I-NP1 ._O
+
+``_O You_B-NP1 will_B-VP see_I-VP1 more_B-NP1 of_B-PP1 this_B-NP1 as_B-SBAR1 Internet_B-NP metrics_I-NP1 reaches_B-VP1 the_B-NP next_I-NP level_I-NP1 of_B-PP1 maturity_B-NP1 COMMA_O ''_O she_B-NP1 added_B-VP1 ._O
+
+The_B-NP index_I-NP data_I-NP1 are_B-VP presented_I-VP1 as_B-PP1 scores_B-NP1 COMMA_O which_B-NP1 are_B-VP weighted_I-VP1 ._O
+
+The_O higher_O the_B-NP score_I-NP1 on_B-PP1 the_B-NP index_I-NP1 COMMA_O the_O more_O points_B-NP1 of_B-PP1 presence_B-NP1 for_B-PP1 a_B-NP site_I-NP1 and_O thus_O the_O more_O visible_O it_B-NP1 is_B-VP1 to_B-PP1 consumers_B-NP1 ._O
+
+The_B-NP Web_I-NP site_I-NP1 ranked_B-VP1 first_B-ADVP1 in_B-PP1 the_B-NP initial_I-NP visibility_I-NP index_I-NP1 COMMA_O with_B-PP1 a_B-NP score_I-NP1 of_B-PP1 973_B-NP1 COMMA_O is_B-VP1 www.aol.com_B-ADJP1 COMMA_O from_B-PP1 America_B-NP Online_I-NP1 ._O
+
+The_B-NP rest_I-NP1 of_B-PP1 the_B-NP top_I-NP five_I-NP1 are_B-VP1 www.zdnet.com_B-NP1 COMMA_O from_B-PP1 CNet_B-NP1 COMMA_O with_B-PP1 a_B-NP score_I-NP1 of_B-PP1 936_B-NP1 ;_O http_B-NP1 :_O COMMA_O also_B-ADVP1 from_B-PP1 America_B-NP Online_I-NP1 COMMA_O 925_B-NP1 ;_O www.msn.com_B-NP1 COMMA_O from_B-PP1 Microsoft_B-NP1 COMMA_O 922_B-NP1 ;_O and_O www.go.com_B-NP1 COMMA_O from_B-PP1 the_B-NP Walt_I-NP Disney_I-NP Co_I-NP1 ._O COMMA_O 915_B-NP1 ._O
+
+``_O The_B-NP real_I-NP value_I-NP1 of_B-PP1 our_B-NP technology_I-NP1 is_B-VP1 that_B-SBAR1 it_B-NP1 provides_B-VP1 a_B-NP way_I-NP1 to_B-VP measure_I-VP1 return_B-NP1 on_B-PP1 investment_B-NP1 for_B-PP1 your_B-NP marketing_I-NP campaigns_I-NP1 COMMA_O ''_O said_B-VP1 Eric_B-NP Sanders_I-NP1 COMMA_O chief_B-NP executive_I-NP1 at_B-PP1 Word_B-NP1 of_B-PP1 Net_B-NP1 in_B-PP1 Sherman_B-NP Oaks_I-NP1 COMMA_O Calif_B-NP1 ._O
+
+``_O Online_B-NP advertising_I-NP1 is_B-VP1 a_B-NP $_I-NP 5_I-NP billion_I-NP to_I-NP $_I-NP 7_I-NP billion_I-NP industry_I-NP1 COMMA_O and_O it_B-NP1 's_B-VP1 not_O nearly_B-ADJP accountable_I-ADJP enough_I-ADJP1 COMMA_O ''_O he_B-NP1 added_B-VP1 ._O
+
+``_O You_B-NP1 can_B-VP use_I-VP1 our_B-NP data_I-NP1 to_B-VP determine_I-VP1 which_B-NP1 of_B-PP1 your_B-NP marketing_I-NP1 spends_B-VP generate_I-VP1 sales_B-NP1 ._O ''_O
+
+The_B-NP index_I-NP1 is_B-VP also_I-VP intended_I-VP1 to_B-VP enable_I-VP1 advertisers_B-NP1 to_B-VP monitor_I-VP1 how_B-NP pervasive_I-NP1 the_B-NP mentions_I-NP1 of_B-PP1 Web_B-NP sites_I-NP1 operated_B-VP1 by_B-PP1 rivals_B-NP1 may_B-VP be_I-VP1 in_B-PP1 cyberspace_B-NP1 ._O
+
+``_O This_B-NP1 is_B-VP1 helpful_B-ADJP1 because_B-SBAR1 it_B-NP1 gives_B-VP1 you_B-NP1 a_B-NP sense_I-NP1 of_B-PP1 how_B-ADVP1 you_B-NP1 come_B-VP1 up_B-PRT1 against_B-PP1 your_B-NP competitors_I-NP1 COMMA_O ''_O said_B-VP1 Michele_B-NP Chaboudy_I-NP1 COMMA_O vice_B-NP president_I-NP1 for_B-PP1 marketing_B-NP1 at_B-PP1 MarketWatch.com_B-NP1 in_B-PP1 San_B-NP Francisco_I-NP1 COMMA_O which_B-NP1 operates_B-VP1 a_B-NP Web_I-NP site_I-NP1 in_B-PP1 the_B-NP crowded_I-NP field_I-NP1 of_B-PP1 financial_B-NP news_I-NP1 ._O
+
+``_O And_O it_B-NP1 can_B-VP help_I-VP1 you_B-NP1 plan_B-VP1 your_B-NP marketing_I-NP campaigns_I-NP1 COMMA_O ''_O she_B-NP1 added_B-VP1 COMMA_O ``_O because_B-SBAR1 you_B-NP1 can_B-VP actually_I-VP see_I-VP1 where_B-ADVP1 people_B-NP1 are_B-VP coming_I-VP1 to_B-PP1 your_B-NP site_I-NP1 from_B-PP1 ._O ''_O
+
+Chaboudy_B-NP1 described_B-VP1 herself_B-NP1 as_B-PP1 ``_O pretty_B-ADJP skeptical_I-ADJP1 '_O '_O about_B-PP1 new_B-NP measurements_I-NP1 ``_O because_B-SBAR1 I_B-NP1 've_B-VP seen_I-VP1 a_B-NP lot_I-NP1 of_B-PP1 them_B-NP1 ._O ''_O
+
+But_O data_B-NP1 that_B-NP1 Word_B-NP1 of_B-PP1 Net_B-NP1 has_B-VP shared_I-VP1 with_B-PP1 her_B-NP1 so_B-ADVP far_I-ADVP1 led_B-VP1 to_B-PP1 a_B-NP decision_I-NP1 ``_O to_B-VP look_I-VP1 at_B-PP1 some_B-NP places_I-NP1 we_B-NP1 might_B-VP want_I-VP1 to_B-VP advertise_I-VP1 COMMA_O ''_O where_B-ADVP1 MarketWatch.com_B-NP1 is_B-VP1 not_O advertising_B-NP1 now_B-ADVP1 COMMA_O she_B-NP1 added_B-VP1 ._O
+
+As_B-PP1 a_B-NP result_I-NP1 COMMA_O MarketWatch.com_B-NP1 is_B-VP planning_I-VP1 to_B-VP become_I-VP1 a_B-NP Word_I-NP1 of_B-PP1 Net_B-NP subscriber_I-NP1 COMMA_O Chaboudy_B-NP1 said_B-VP1 COMMA_O adding_B-VP1 with_B-PP1 a_B-NP laugh_I-NP1 COMMA_O ``_O Of_B-PP1 course_B-NP1 COMMA_O we_B-NP1 always_B-VP negotiate_I-VP1 the_B-NP price_I-NP1 ._O ''_O
+
+Speaking_B-VP1 of_B-PP1 money_B-NP1 COMMA_O Sanders_B-NP1 said_B-VP1 that_B-SBAR1 Word_B-NP1 of_B-PP1 Net_B-NP1 had_B-VP1 ``_O raised_B-VP1 $_B-NP 2_I-NP million_I-NP1 to_B-PP1 date_B-NP1 '_O '_O from_B-PP1 investors_B-NP1 COMMA_O adding_B-VP1 that_B-SBAR1 additional_B-NP money_I-NP1 was_B-VP being_I-VP sought_I-VP1 ._O
+
+Among_B-PP1 the_B-NP clients_I-NP1 of_B-PP1 Word_B-NP1 of_B-PP1 Net_B-NP1 COMMA_O he_B-NP1 listed_B-VP1 DirecTV_B-NP1 COMMA_O Forbes_B-NP1 COMMA_O Park_B-NP Place_I-NP Entertainment_I-NP COMMA_I-NP Tickets.com_I-NP COMMA_I-NP Sony_I-NP COMMA_I-NP Universal_I-NP and_I-NP Variety_I-NP1 ._O
+
+NYT-11-07-00_B-NP 1907EST_I-NP1
+

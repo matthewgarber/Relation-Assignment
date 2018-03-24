@@ -1,0 +1,74 @@
+NYT20001129.2040.0383_B-NP NEWS_I-NP STORY_I-NP1 2000-11-29_B-NP 20:52:00_I-NP1
+
+A4944_B-NP &Cx1f_I-NP1 ;_O tta-z_B-NP u_I-NP p_I-NP1 BC-R-ELN-FLA-CONTEST-ART_B-NP 11-29_I-NP 0817_I-NP1
+
+BC-R-ELN-FLA-CONTEST-ART-NYT_B-NP1
+
+GORE_B-NP LAWYERS_I-NP1 WANT_B-VP1 FLORIDA_B-NP HIGH_I-NP COURT_I-NP1 TO_B-VP HANDLE_I-VP1 RECOUNT_B-NP1 COMMA_O AND_O
+
+QUICKLY_B-ADVP1 &LR_B-ADJP1 ;_O &QL_B-NP1 ;_O (_B-LST Repeating_I-LST1 ;_O this_B-NP1 is_B-VP1 now_B-ADVP1 a_B-NP New_I-NP York_I-NP Times_I-NP front-page_I-NP story_I-NP )_I-NP &QL_I-NP1 ;_O (_O ART_B-NP ADV_I-NP1 :_O Graphic_B-NP1 is_B-VP being_I-VP sent_I-VP1 to_B-VP NYT_I-VP1 graphic_B-NP clients_I-NP1 ._O
+
+Nonsubscribers_B-NP1 can_B-VP purchase_I-VP1 one-time_B-NP rights_I-NP1 by_B-PP1 calling_B-VP1 888-603-1036_B-NP or_I-NP 888-346-9867_I-NP ._I-NP )_I-NP &QL_I-NP1 ;_O &UR_B-NP1 ;_O By_B-NP DAVID_I-NP FIRESTONE_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP1 N.Y_B-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O
+
+TALLAHASSEE_B-NP COMMA_I-NP Fla._I-NP __I-NP Lawyers_I-NP1 for_B-PP1 Vice_B-NP President_I-NP Al_I-NP Gore_I-NP1 said_B-VP1 Wednesday_B-NP1 their_B-NP only_I-NP chance_I-NP1 for_B-PP1 victory_B-NP1 in_B-PP1 his_B-NP contest_I-NP1 of_B-PP1 the_B-NP Florida_I-NP election_I-NP1 would_B-VP be_I-VP shattered_I-VP1 if_B-SBAR1 they_B-NP1 have_B-VP1 to_B-VP wait_I-VP1 until_B-PP1 Saturday_B-NP1 to_B-VP begin_I-VP1 counting_B-VP1 disputed_B-NP ballots_I-NP1 COMMA_O and_O they_B-NP1 began_B-VP1 an_B-NP appeal_I-NP1 to_B-PP1 the_B-NP Florida_I-NP Supreme_I-NP Court_I-NP1 to_B-VP do_I-VP1 the_B-NP counting_I-NP1 itself_B-NP1 COMMA_O immediately_B-ADVP1 ._O
+
+The_B-NP appeal_I-NP1 was_B-VP filed_I-VP1 with_B-PP1 the_B-NP District_I-NP Court_I-NP1 of_B-PP1 Appeal_B-NP1 late_B-NP Wednesday_I-NP afternoon_I-NP1 COMMA_O and_O will_B-VP be_I-VP submitted_I-VP1 to_B-PP1 the_B-NP state_I-NP1 's_B-NP highest_I-NP court_I-NP1 early_B-NP Thursday_I-NP1 COMMA_O Gore_B-NP1 's_B-NP lawyers_I-NP1 said_B-VP1 ._O
+
+It_B-NP1 essentially_B-ADVP1 asks_B-VP1 the_B-NP Supreme_I-NP Court_I-NP1 to_B-VP take_I-VP1 over_B-PRT1 Gore_B-NP1 's_B-NP contest_I-NP lawsuit_I-NP1 from_B-PP1 the_B-NP slow-moving_I-NP trial_I-NP court_I-NP1 COMMA_O to_B-VP count_I-VP1 the_B-NP ballots_I-NP1 itself_B-NP1 COMMA_O and_O eventually_B-ADVP1 to_B-VP declare_I-VP1 Gore_B-NP1 the_B-NP winner_I-NP1 if_B-SBAR1 he_B-NP1 wins_B-VP1 the_B-NP recount_I-NP1 ._O
+
+But_O lawyers_B-NP1 for_B-PP1 Gov._B-NP George_I-NP W._I-NP Bush_I-NP1 said_B-VP1 they_B-NP1 had_B-VP1 no_B-NP intention_I-NP1 of_B-PP1 allowing_B-VP1 any_B-NP hand_I-NP1 counting_B-VP1 to_B-VP begin_I-VP1 without_B-PP1 a_B-NP vigorous_I-NP legal_I-NP fight_I-NP1 ._O
+
+To_B-PP1 that_B-NP end_I-NP1 COMMA_O they_B-NP1 persuaded_B-VP1 Circuit_B-NP Judge_I-NP N._I-NP Sanders_I-NP Sauls_I-NP1 to_B-VP order_I-VP1 1.1_B-NP million_I-NP ballots_I-NP1 __B-VP1 every_B-NP vote_I-NP1 cast_B-VP1 in_B-PP1 Miami-Dade_B-NP and_I-NP Palm_I-NP Beach_I-NP counties_I-NP1 __B-VP brought_I-VP1 up_B-PRT1 from_B-PP1 south_B-NP Florida_I-NP1 and_O placed_B-VP1 in_B-PP1 the_B-NP court_I-NP1 's_B-NP custody_I-NP1 ._O
+
+That_B-NP1 represents_B-VP1 83_B-NP times_I-NP the_I-NP number_I-NP1 of_B-PP1 disputed_B-NP ballots_I-NP1 that_B-SBAR1 the_B-NP judge_I-NP1 had_B-VP agreed_I-VP1 on_B-PP1 Tuesday_B-NP1 to_B-VP transport_I-VP1 to_B-PP1 Tallahassee_B-NP1 at_B-PP1 the_B-NP Gore_I-NP team_I-NP1 's_B-NP request_I-NP1 ._O
+
+And_O it_B-NP1 could_B-VP take_I-VP1 weeks_O if_B-CONJP not_I-CONJP1 months_B-NP1 to_B-VP count_I-VP1 them_B-NP1 all_B-NP1 COMMA_O the_B-NP point_I-NP1 that_B-SBAR1 Barry_B-NP Richard_I-NP1 COMMA_O Bush_B-NP1 's_B-NP chief_I-NP trial_I-NP lawyer_I-NP1 here_B-ADVP1 COMMA_O said_B-VP1 he_B-NP1 was_B-VP trying_I-VP1 to_B-VP make_I-VP1 in_B-PP1 requesting_B-VP1 that_B-SBAR1 the_B-NP ballots_I-NP1 be_B-VP transported_I-VP1 here_B-ADVP1 ._O
+
+``_O We_B-NP1 did_B-VP1 it_B-NP1 to_B-VP make_I-VP1 a_B-NP point_I-NP1 COMMA_O ''_O Richard_B-NP1 said_B-VP1 in_B-PP1 an_B-NP interview_I-NP1 ._O
+
+``_O If_B-SBAR1 you_B-NP1 recount_B-VP1 any_B-NP ballots_I-NP1 COMMA_O you_B-NP1 have_B-VP1 to_B-VP recount_I-VP1 all_B-NP1 of_B-PP1 them_B-NP1 ._O
+
+Now_B-ADVP1 COMMA_O we_B-NP1 do_B-VP n't_I-VP think_I-VP1 any_B-NP ballots_I-NP1 should_B-VP be_I-VP counted_I-VP1 COMMA_O because_B-SBAR1 the_B-NP manual_I-NP recount_I-NP1 of_B-PP1 ballots_B-NP1 is_B-VP finished_I-VP1 ._O
+
+But_O in_B-PP1 the_B-NP event_I-NP1 the_B-NP court_I-NP1 determines_B-VP1 that_B-SBAR1 some_B-NP ballots_I-NP1 should_B-VP be_I-VP counted_I-VP1 COMMA_O we_B-NP1 wanted_B-VP1 them_B-NP1 here_B-ADVP1 so_B-SBAR1 they_B-NP1 could_B-VP all_I-VP be_I-VP counted_I-VP1 ._O ''_O
+
+Aware_B-ADJP1 that_B-SBAR1 they_B-NP1 could_B-VP not_I-VP stop_I-VP1 the_B-NP movement_I-NP1 of_B-PP1 all_B-NP the_I-NP ballots_I-NP1 COMMA_O Gore_B-NP1 's_B-NP lawyers_I-NP1 barely_B-ADVP1 objected_B-VP1 to_B-PP1 the_B-NP move_I-NP1 COMMA_O asking_B-VP1 only_B-SBAR that_I-SBAR1 the_B-NP disputed_I-NP ballots_I-NP1 that_B-NP1 might_B-VP contain_I-VP1 hidden_B-NP Gore_I-NP votes_I-NP1 be_B-VP separated_I-VP1 from_B-PP1 the_B-NP mass_I-NP1 ._O
+
+``_O I_B-NP1 know_B-VP1 when_B-ADVP1 it_B-NP1 's_B-VP1 futile_B-ADJP1 COMMA_O ''_O said_B-VP1 David_B-NP Boies_I-NP1 COMMA_O Gore_B-NP1 's_B-NP chief_I-NP trial_I-NP lawyer_I-NP1 COMMA_O to_B-PP1 Sauls_B-NP1 ._O
+
+Nonetheless_B-ADVP1 COMMA_O Gore_B-NP1 's_B-NP lawyers_I-NP1 were_B-VP1 furious_B-ADJP1 at_B-PP1 the_B-NP move_I-NP1 COMMA_O aware_B-ADJP1 that_B-SBAR1 it_B-NP1 represents_B-VP1 yet_B-NP another_I-NP enormous_I-NP barrier_I-NP1 to_B-PP1 their_B-NP hopes_I-NP1 for_B-PP1 an_B-NP immediate_I-NP count_I-NP1 of_B-PP1 the_B-NP 14COMMA000_I-NP disputed_I-NP ballots_I-NP1 in_B-PP1 the_B-NP two_I-NP counties_I-NP1 and_O a_B-NP quick_I-NP decision_I-NP1 from_B-PP1 the_B-NP judge_I-NP1 that_B-NP1 Gore_B-NP1 really_B-ADVP1 won_B-VP1 the_B-NP election_I-NP1 ._O
+
+Even_B-SBAR if_I-SBAR1 the_B-NP Florida_I-NP Supreme_I-NP Court_I-NP1 should_B-VP swiftly_I-VP agree_I-VP1 to_B-PP1 their_B-NP request_I-NP and_I-NP orders_I-NP1 the_B-NP counting_I-NP1 to_B-VP begin_I-VP1 by_B-PP1 Friday_B-NP1 COMMA_O that_B-NP1 would_B-VP still_I-VP put_I-VP1 them_B-NP1 three_B-NP days_I-NP1 behind_B-PP1 their_B-NP original_I-NP timetable_I-NP1 ._O
+
+And_O facing_B-VP1 a_B-NP Dec_I-NP1 ._O
+
+12_B-NP deadline_I-NP1 for_B-PP1 the_B-NP state_I-NP1 to_B-VP name_I-VP1 electors_B-NP1 for_B-PP1 the_B-NP Electoral_I-NP College_I-NP1 COMMA_O Gore_B-NP1 has_B-VP1 absolutely_B-ADVP1 no_B-NP days_I-NP1 to_B-VP spare_I-VP1 ._O
+
+``_O It_B-NP1 's_B-VP1 a_B-NP stunt_I-NP1 COMMA_O ''_O said_B-VP1 Kendall_B-NP Coffey_I-NP1 COMMA_O one_B-NP1 of_B-PP1 Gore_B-NP1 's_B-NP election_I-NP lawyers_I-NP1 COMMA_O as_B-SBAR1 he_B-NP1 stormed_B-VP1 out_B-ADVP1 of_B-PP1 Sauls_B-NP1 '_B-NP courtroom_I-NP1 Wednesday_B-NP1 COMMA_O referring_B-VP1 to_B-PP1 the_B-NP request_I-NP1 for_B-PP1 all_B-NP the_I-NP ballots_I-NP1 ._O
+
+``_O They_B-NP1 're_B-VP trying_I-VP1 to_B-VP bog_I-VP1 down_B-PRT1 the_B-NP case_I-NP1 COMMA_O the_B-NP system_I-NP1 COMMA_O the_B-NP clerk_I-NP1 's_B-NP office_I-NP1 and_O everywhere_B-ADVP else_I-ADVP1 they_B-NP1 can_B-VP1 ._O ''_O
+
+The_B-NP decision_I-NP1 by_B-PP1 Gore_B-NP1 's_B-NP lawyers_I-NP1 to_B-VP appeal_I-VP1 the_B-NP case_I-NP1 shows_B-VP1 how_B-ADJP perilous_I-ADJP1 their_B-NP situation_I-NP1 is_B-VP1 ._O
+
+By_B-PP1 appealing_B-VP1 COMMA_O the_B-NP lawyers_I-NP1 were_B-VP forced_I-VP1 to_B-VP put_I-VP1 on_B-PP1 paper_B-NP1 their_B-NP fear_I-NP1 that_B-SBAR1 their_B-NP case_I-NP1 could_B-VP be_I-VP1 over_B-PRT1 if_B-SBAR1 they_B-NP1 cannot_B-VP begin_I-VP1 counting_B-VP1 ballots_B-NP1 until_B-PP1 Saturday_B-NP1 ._O
+
+The_B-NP decision_I-NP1 to_B-VP wait_I-VP1 until_B-SBAR1 a_B-NP Saturday_I-NP hearing_I-NP1 ``_O is_B-VP1 effectively_B-ADVP1 a_B-NP final_I-NP order_I-NP1 denying_B-VP1 all_B-NP relief_I-NP1 sought_B-VP1 by_B-PP1 plaintiffs_B-NP1 because_B-SBAR1 the_B-NP action_I-NP1 now_B-ADJP pending_I-ADJP1 below_B-ADVP1 must_B-VP be_I-VP completed_I-VP1 before_B-PP1 Dec_B-NP1 ._O
+
+12_B-NP COMMA_I-NP 2000_I-NP1 COMMA_O in_B-PP1 order_B-NP1 to_B-VP offer_I-VP1 any_B-NP relief_I-NP1 COMMA_O ''_O said_B-VP1 the_B-NP notice_I-NP1 filed_B-VP1 with_B-PP1 the_B-NP Court_I-NP1 of_B-PP1 Appeal_B-NP1 ._O
+
+It_B-NP1 adds_B-VP1 COMMA_O ``_O the_B-NP court_I-NP1 must_B-VP allow_I-VP1 sufficient_B-NP time_I-NP1 to_B-VP complete_I-VP1 an_B-NP accurate_I-NP and_I-NP fair_I-NP count_I-NP1 of_B-PP1 the_B-NP contested_I-NP ballots_I-NP1 COMMA_O which_B-NP1 is_B-VP1 essential_B-ADJP1 for_B-PP1 the_B-NP proper_I-NP resolution_I-NP1 of_B-PP1 the_B-NP contest_I-NP action_I-NP1 ._O ''_O
+
+But_O the_B-NP decision_I-NP1 to_B-VP bring_I-VP1 up_B-PRT1 all_B-NP the_I-NP ballots_I-NP1 means_B-VP1 that_B-SBAR1 they_B-NP1 will_B-VP not_I-VP be_I-VP assembled_I-VP1 in_B-PP1 Tallahassee_B-NP1 until_B-PP1 late_B-NP Friday_I-NP1 COMMA_O a_B-NP day_I-NP1 later_B-ADVP1 than_B-SBAR1 planned_B-VP1 ._O
+
+And_O even_B-ADVP then_I-ADVP1 COMMA_O the_B-NP hurdles_I-NP1 are_B-VP1 enormous_B-ADJP1 ._O
+
+There_B-NP1 will_B-VP have_I-VP1 to_B-VP be_I-VP1 another_B-NP hearing_I-NP1 before_B-PP1 the_B-NP Florida_I-NP Supreme_I-NP Court_I-NP1 COMMA_O and_O Gore_B-NP1 's_B-NP lawyers_I-NP1 will_B-VP have_I-VP1 to_B-VP refute_I-VP1 three_B-NP arguments_I-NP1 to_B-VP be_I-VP raised_I-VP1 by_B-PP1 the_B-NP Bush_I-NP team_I-NP1 :_O There_B-NP1 should_B-VP be_I-VP1 no_B-NP more_I-NP counting_I-NP1 at_B-ADVP all_I-ADVP1 ;_O if_B-SBAR1 there_B-NP1 is_B-VP1 any_B-NP counting_I-NP1 COMMA_O it_B-NP1 will_B-VP have_I-VP1 to_B-VP include_I-VP1 all_B-NP 1.16_I-NP million_I-NP ballots_I-NP1 ;_O and_O if_B-SBAR1 there_B-NP1 is_B-VP1 any_B-NP counting_I-NP1 of_B-PP1 disputed_B-NP ballots_I-NP1 COMMA_O dimples_B-NP1 cannot_B-ADVP1 be_B-VP counted_I-VP1 as_B-PP1 votes_B-NP1 ._O
+
+If_B-SBAR1 these_B-NP issues_I-NP1 are_B-VP heard_I-VP1 before_B-PP1 Sanders_B-NP1 COMMA_O there_B-NP1 will_B-VP have_I-VP1 to_B-VP be_I-VP1 briefs_B-NP COMMA_I-NP witnesses_I-NP COMMA_I-NP and_I-NP evidence_I-NP1 on_B-PP1 each_B-NP point_I-NP1 COMMA_O which_B-NP1 could_B-VP take_I-VP1 days_B-NP1 ._O
+
+If_B-SBAR1 the_B-NP Supreme_I-NP Court_I-NP1 agrees_B-VP1 to_B-VP short-circuit_I-VP1 the_B-NP process_I-NP1 COMMA_O there_B-NP1 will_B-VP still_I-VP have_I-VP1 to_B-VP be_I-VP1 lengthy_B-NP briefs_I-NP1 filed_B-VP1 COMMA_O and_O the_B-NP court_I-NP1 may_B-VP need_I-VP1 to_B-VP wait_I-VP1 several_B-NP days_I-NP1 before_B-PP1 finding_B-VP1 time_B-NP1 for_B-PP1 yet_B-NP another_I-NP momentous_I-NP hearing_I-NP1 in_B-PP1 its_B-NP schedule_I-NP1 ._O
+
+NYT-11-29-00_B-NP 2052EST_I-NP1
+

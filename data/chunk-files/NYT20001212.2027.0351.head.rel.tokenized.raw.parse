@@ -1,0 +1,32 @@
+NYT20001212.2027.0351_B-NP NEWS_I-NP STORY_I-NP1 2000-12-12_B-NP 20:47:00_I-NP1
+
+A7989_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP1 f_B-NP1 BC-CREDITCARD-HACKER-NYT_B-NP 12-12_I-NP1 0264_B-NP1
+
+BC-CREDITCARD-HACKER-NYT_B-NP1
+
+STOLEN_B-NP CREDIT_I-NP DATA_I-NP1 PUT_B-VP1 ONLINE_B-NP1
+
+&UR_B-NP1 ;_O c.2000_B-NP N.Y_I-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O
+
+A_B-NP computer_I-NP intruder_I-NP1 scooped_B-VP1 55COMMA000_B-NP credit_I-NP card_I-NP numbers_I-NP1 this_B-NP week_I-NP1 from_B-PP1 Creditcards.com_B-NP1 COMMA_O a_B-NP company_I-NP1 that_B-NP1 serves_B-VP1 dozens_B-NP1 of_B-PP1 small_B-NP and_I-NP medium-sized_I-NP merchants_I-NP1 COMMA_O and_O published_B-VP1 the_B-NP information_I-NP1 on_B-PP1 the_B-NP Internet_I-NP1 after_B-PP1 unsuccessfully_B-VP demanding_I-VP1 payment_B-NP1 to_B-VP keep_I-VP1 the_B-NP data_I-NP1 secret_B-ADJP1 ._O
+
+A_B-NP spokesman_I-NP1 for_B-PP1 the_B-NP company_I-NP1 COMMA_O Laurent_B-NP Jean_I-NP1 COMMA_O said_B-VP1 Tuesday_B-NP1 COMMA_O ``_O We_B-NP1 are_B-VP1 aware_B-ADJP1 of_B-PP1 the_B-NP issues_I-NP1 and_O understand_B-VP1 their_B-NP severity_I-NP1 COMMA_O and_O also_B-VP are_I-VP1 in_B-PP1 contact_B-NP1 with_B-PP1 the_B-NP FBI_I-NP1 ._O ''_O
+
+The_B-NP bureau_I-NP1 confirmed_B-VP1 that_B-SBAR1 it_B-NP1 was_B-VP investigating_I-VP1 the_B-NP incident_I-NP1 COMMA_O which_B-NP1 was_B-VP reported_I-VP1 Tuesday_B-NP1 by_B-PP1 Cnet.com_B-NP1 ._O
+
+A_B-NP person_I-NP1 close_B-ADJP1 to_B-PP1 the_B-NP investigation_I-NP1 said_B-VP1 the_B-NP intruder_I-NP1 contacted_B-VP1 the_B-NP company_I-NP1 after_B-PP1 breaking_B-VP1 into_B-PP1 the_B-NP site_I-NP1 on_B-PP1 Monday_B-NP1 COMMA_O and_O published_B-VP1 the_B-NP data_I-NP1 on_B-PP1 the_B-NP Internet_I-NP1 after_B-PP1 a_B-NP demand_I-NP1 for_B-PP1 money_B-NP1 was_B-VP rebuffed_I-VP1 ._O
+
+According_B-PP1 to_B-PP1 the_B-NP company_I-NP1 's_B-NP Web_I-NP site_I-NP1 COMMA_O Creditcards.com_B-NP clients_I-NP1 include_B-VP1 the_B-NP online_I-NP fitness_I-NP site_I-NP Premier_I-NP Solutions_I-NP1 COMMA_O Rock_B-NP1 the_B-NP Vote_I-NP1 COMMA_O Christian_B-NP Concert_I-NP Authority_I-NP1 and_O Spy_B-NP Gate_I-NP1 ._O
+
+``_O We_B-NP1 make_B-VP1 your_B-NP business_I-NP1 go_B-VP1 Ka-Chingg_B-NP1 COMMA_O ''_O its_B-NP Web_I-NP site_I-NP1 promises_B-VP1 COMMA_O referring_B-VP1 to_B-PP1 its_B-NP main_I-NP electronic_I-NP commerce_I-NP product_I-NP1 ._O
+
+The_B-NP Creditcards.com_I-NP case_I-NP1 is_B-VP1 one_B-NP1 of_B-PP1 several_B-NP recent_I-NP attempts_I-NP1 to_B-VP extort_I-VP1 money_B-NP1 from_B-PP1 Web_B-NP sites_I-NP1 by_B-PP1 threatening_B-VP1 to_B-VP reveal_I-VP1 their_B-NP most_I-NP sensitive_I-NP information_I-NP1 ._O
+
+An_B-NP online_I-NP security_I-NP expert_I-NP1 said_B-VP1 such_B-NP attacks_I-NP1 could_B-VP largely_I-VP be_I-VP avoided_I-VP1 if_B-SBAR1 companies_B-NP1 kept_B-VP1 sensitive_B-NP data_I-NP1 on_B-PP1 computers_B-NP1 separate_B-ADJP1 from_B-PP1 those_B-NP1 running_B-VP1 their_B-NP Web_I-NP sites_I-NP1 ._O
+
+``_O Your_B-NP credit_I-NP card_I-NP1 is_B-VP1 only_B-ADVP1 as_B-ADJP secure_I-ADJP1 as_B-PP1 the_B-NP Web_I-NP site_I-NP1 it_B-NP1 's_B-VP going_I-VP1 on_B-PRT1 COMMA_O ''_O said_B-VP1 the_B-NP expert_I-NP1 COMMA_O B.K._B-NP DeLong_I-NP1 of_B-PP1 Attrition.org_B-NP1 COMMA_O a_B-NP nonprofit_I-NP computer_I-NP security_I-NP site_I-NP1 ._O
+
+NYT-12-12-00_B-NP 2047EST_I-NP1
+

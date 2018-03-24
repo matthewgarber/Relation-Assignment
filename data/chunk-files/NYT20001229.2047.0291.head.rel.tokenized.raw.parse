@@ -1,0 +1,66 @@
+NYT20001229.2047.0291_B-NP NEWS_I-NP STORY_I-NP1 2000-12-29_B-NP 21:14:00_I-NP1
+
+A4901_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP p_I-NP1 BC-ELN-VOTE-TOTAL-ART-NY_B-NP 12-29_I-NP 0680_I-NP1
+
+BC-ELN-VOTE-TOTAL-ART-NYT_B-NP1
+
+GORE_B-NP1 'S_B-NP LEAD_I-NP1 IN_B-PP1 THE_B-NP POPULAR_I-NP VOTE_I-NP1 NOW_B-ADVP1 EXCEEDS_B-VP1 500COMMA000_B-NP1
+
+(_O ART_B-NP ADV_I-NP1 :_O Graphic_B-NP1 is_B-VP being_I-VP sent_I-VP1 to_B-PP1 NYT_B-NP graphic_I-NP clients_I-NP1 ._O
+
+Nonsubscribers_B-NP1 can_B-VP purchase_I-VP1 one-time_B-NP rights_I-NP1 by_B-PP1 calling_B-VP1 888-603-1036_B-NP or_I-NP 888-346-9867_I-NP ._I-NP )_I-NP &QL_I-NP1 ;_O &UR_B-NP1 ;_O By_B-NP DAVID_I-NP STOUT_I-NP &QC_I-NP1 ;_O &LR_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP1 N.Y_B-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &QC_I-NP1 ;_O &LR_B-NP1 ;_O &QL_B-NP1 ;_O
+
+WASHINGTON_B-NP __I-NP Vice_I-NP President_I-NP1 Al_B-NP Gore_I-NP1 's_B-NP nationwide_I-NP lead_I-NP1 in_B-PP1 the_B-NP popular_I-NP vote_I-NP1 has_B-VP grown_I-VP1 by_B-PP1 about_B-NP 200COMMA000_I-NP1 COMMA_O to_B-PP1 more_B-NP than_I-NP half_I-NP a_I-NP million_I-NP1 COMMA_O since_B-PP1 Dec_B-NP1 ._O
+
+18_B-NP1 COMMA_O when_B-ADVP1 the_B-NP Electoral_I-NP College_I-NP1 sealed_B-VP1 his_B-NP fate_I-NP1 and_O made_B-VP1 Gov._B-NP George_I-NP W._I-NP Bush_I-NP1 the_B-NP 43rd_I-NP president_I-NP1 of_B-PP1 the_B-NP United_I-NP States_I-NP1 ._O
+
+A_B-NP state_I-NP -by-state_I-NP survey_I-NP1 by_B-PP1 The_B-NP Associated_I-NP Press_I-NP1 of_B-PP1 the_B-NP final_I-NP certified_I-NP results_I-NP1 put_B-VP1 Gore_B-NP1 's_B-NP popular-vote_I-NP edge_I-NP1 at_B-PP1 539COMMA947_B-NP1 COMMA_O up_B-ADVP1 considerably_B-ADVP1 from_B-PP1 the_B-NP lead_I-NP1 of_B-PP1 about_B-NP 337COMMA000_I-NP1 that_B-NP1 was_B-VP widely_I-VP reported_I-VP1 in_B-PP1 the_B-NP first_I-NP several_I-NP weeks_I-NP1 after_B-PP1 the_B-NP election_I-NP1 ._O
+
+The_B-NP totals_I-NP1 were_B-VP1 50COMMA996COMMA116_B-NP1 for_B-PP1 Gore_B-NP1 and_O 50COMMA456COMMA169_B-NP1 for_B-PP1 Bush_B-NP1 ._O
+
+Much_B-NP1 of_B-PP1 the_B-NP increase_I-NP1 came_B-VP1 in_B-PP1 California_B-NP1 COMMA_O New_B-NP York_I-NP1 COMMA_O and_O other_B-NP COMMA_I-NP smaller_I-NP states_I-NP1 that_B-NP1 went_B-VP1 for_B-PP1 Gore_B-NP1 COMMA_O said_B-VP1 Curtis_B-NP B._I-NP Gans_I-NP1 of_B-PP1 the_B-NP Committee_I-NP1 for_B-PP1 the_B-NP Study_I-NP1 of_B-PP1 the_B-NP American_I-NP Electorate_I-NP1 COMMA_O a_B-NP nonpartisan_I-NP research_I-NP group_I-NP1 that_B-NP1 has_B-VP followed_I-VP1 presidential_B-NP elections_I-NP1 for_B-PP1 a_B-NP quarter-century_I-NP1 ._O
+
+Election_B-NP officials_I-NP1 in_B-PP1 California_B-NP1 and_O New_B-NP York_I-NP1 said_B-VP1 Friday_B-NP1 that_B-SBAR1 the_B-NP bigger_I-NP numbers_I-NP1 for_B-PP1 Gore_B-NP1 were_B-VP1 not_O hard_B-ADJP1 to_B-VP explain_I-VP1 ._O
+
+Gore_B-VP carried_I-VP1 both_B-NP big_I-NP states_I-NP1 easily_B-ADVP1 ._O
+
+Both_B-NP states_I-NP1 had_B-VP1 big_B-NP absentee_I-NP -ballot_I-NP totals_I-NP1 that_B-NP1 could_B-VP not_I-VP be_I-VP counted_I-VP1 immediately_B-ADVP1 and_O COMMA_O because_B-SBAR1 absentee_B-NP votes_I-NP1 generally_B-ADVP1 do_B-VP not_I-VP vary_I-VP1 sharply_B-ADVP1 from_B-PP1 Election_B-NP Night_I-NP returns_I-NP1 COMMA_O it_B-NP1 was_B-VP1 predictable_B-ADJP1 that_B-SBAR1 the_B-NP absentees_I-NP1 would_B-VP widen_I-VP1 the_B-NP vice_I-NP president_I-NP1 's_B-NP lead_I-NP1 ._O
+
+Gans_B-NP1 said_B-VP1 that_B-SBAR1 in_B-PP1 1996_B-NP1 COMMA_O President_B-NP Clinton_I-NP1 's_B-NP lead_I-NP1 over_B-PP1 Bob_B-NP Dole_I-NP1 grew_B-VP1 by_B-PP1 some_B-NP 200COMMA000_I-NP votes_I-NP1 from_B-PP1 election_B-NP night_I-NP1 until_B-SBAR1 all_B-NP absentee_I-NP ballots_I-NP1 were_B-VP counted_I-VP1 and_O all_B-NP the_I-NP votes_I-NP1 certified_B-VP1 COMMA_O a_B-NP fact_I-NP1 all_B-VP but_I-VP forgotten_I-VP1 except_B-PP1 by_B-PP1 political_B-NP trivia_I-NP buffs_I-NP1 ._O
+
+``_O But_O it_B-NP1 did_B-VP n't_I-VP matter_I-VP1 COMMA_O ''_O Gans_B-NP1 said_B-VP1 COMMA_O in_B-PP1 a_B-NP race_I-NP1 that_B-NP1 the_B-NP incumbent_I-NP1 won_B-VP1 by_B-PP1 more_B-NP than_I-NP 8_I-NP million_I-NP popular_I-NP votes_I-NP1 and_B-PP1 by_B-PP1 a_B-NP 379-159_I-NP advantage_I-NP1 in_B-PP1 the_B-NP all-important_I-NP Electoral_I-NP College_I-NP1 ._O
+
+In_B-PP1 the_B-NP 1960_I-NP election_I-NP1 John_B-NP F._I-NP Kennedy_I-NP1 had_B-VP1 the_B-NP electoral_I-NP vote_I-NP1 edge_B-NP1 and_O a_B-NP 114COMMA673-vote_I-NP margin_I-NP1 in_B-PP1 the_B-NP popular_I-NP vote_I-NP1 over_B-PP1 Richard_B-NP Nixon_I-NP1 ._O
+
+A_B-NP total_I-NP1 of_B-PP1 68.8_B-NP million_I-NP votes_I-NP1 were_B-VP cast_I-VP1 for_B-PP1 president_B-NP1 ._O
+
+Eight_B-NP years_I-NP1 later_B-ADVP1 Nixon_B-NP1 won_B-VP1 the_B-NP Electoral_I-NP College_I-NP1 and_O a_B-NP popular-vote_I-NP margin_I-NP1 of_B-PP1 510COMMA645_B-NP1 out_B-PP1 of_B-PP1 73.2_B-NP million_I-NP votes_I-NP1 cast_B-VP1 for_B-PP1 president_B-NP1 ._O
+
+The_B-NP 2000_I-NP election_I-NP1 COMMA_O of_B-PP1 course_B-NP1 COMMA_O will_B-VP be_I-VP remembered_I-VP1 as_B-PP1 the_B-NP first_I-NP1 in_B-PP1 112_B-NP years_I-NP1 in_B-PP1 which_B-NP1 the_B-NP leader_I-NP1 in_B-PP1 the_B-NP popular_I-NP vote_I-NP1 lost_B-VP1 the_B-NP White_I-NP House_I-NP1 because_B-SBAR1 his_B-NP opponent_I-NP1 prevailed_B-VP1 in_B-PP1 the_B-NP Electoral_I-NP College_I-NP1 ._O
+
+Bush_B-NP1 got_B-VP1 271_B-NP electoral_I-NP votes_I-NP1 COMMA_O one_B-NP1 more_B-ADJP1 than_B-SBAR1 he_B-NP1 needed_B-VP1 for_B-PP1 a_B-NP majority_I-NP1 and_O five_B-NP1 more_B-ADJP1 than_B-PP1 Gore_B-NP1 COMMA_O who_B-NP1 lost_B-VP1 one_B-NP vote_I-NP1 in_B-PP1 the_B-NP Electoral_I-NP College_I-NP1 when_B-ADVP1 a_B-NP Washington_I-NP COMMA_I-NP D.C._I-NP COMMA_I-NP elector_I-NP1 left_B-VP1 her_B-NP ballot_I-NP blank_I-NP1 to_B-VP protest_I-VP1 the_B-NP District_I-NP1 of_B-PP1 Columbia_B-NP1 's_B-NP lack_I-NP1 of_B-PP1 voting_B-NP power_I-NP1 in_B-PP1 Congress_B-NP1 ._O
+
+Gore_B-NP1 won_B-VP1 New_B-NP York_I-NP1 state_B-UCP1 COMMA_O 4COMMA107COMMA697-2COMMA403COMMA374_B-NP1 COMMA_O or_O by_B-PP1 some_B-NP 1.7_I-NP million_I-NP votes_I-NP1 ._O
+
+Lee_B-NP Daghlian_I-NP1 COMMA_O the_B-NP chief_I-NP spokesman_I-NP1 for_B-PP1 the_B-NP state_I-NP1 's_B-NP Board_I-NP1 of_B-PP1 Elections_B-NP1 COMMA_O said_B-VP1 Friday_B-NP1 that_B-SBAR1 about_B-NP 360COMMA000_I-NP absentee_I-NP ballots_I-NP1 were_B-VP requested_I-VP1 COMMA_O and_O that_B-SBAR1 about_B-NP 260COMMA000_I-NP1 were_B-VP returned_I-VP1 in_B-PP1 time_B-NP1 to_B-VP be_I-VP counted_I-VP1 ._O
+
+In_B-PP1 New_B-NP York_I-NP1 COMMA_O absentee_B-NP ballots_I-NP1 must_B-VP be_I-VP postmarked_I-VP1 no_B-ADVP later_I-ADVP1 than_B-PP1 the_B-NP day_I-NP1 before_B-PP1 the_B-NP election_I-NP1 and_O received_B-VP1 no_B-ADVP later_I-ADVP1 than_B-PP1 a_B-NP week_I-NP1 after_B-PP1 the_B-NP election_I-NP1 ._O
+
+Daghlian_B-NP1 said_B-VP1 absentee_B-NP balloting_I-NP1 was_B-VP1 about_B-NP 20_I-NP percent_I-NP1 higher_B-ADVP1 this_B-NP year_I-NP1 than_B-PP1 in_B-PP1 1996_B-NP1 ._O
+
+He_B-NP1 speculated_B-VP1 that_B-SBAR1 the_B-NP presence_I-NP1 of_B-PP1 Sen._B-NP Joseph_I-NP Lieberman_I-NP1 of_B-PP1 Connecticut_B-NP1 on_B-PP1 the_B-NP Democratic_I-NP ticket_I-NP1 might_B-VP have_I-VP caused_I-VP1 more_B-NP1 American_B-NP Jews_I-NP1 to_B-VP mail_I-VP1 ballots_B-NP1 from_B-PP1 Israel_B-NP1 ._O
+
+It_B-NP1 was_B-VP1 clear_B-ADJP1 on_B-PP1 Election_B-NP Night_I-NP1 that_B-SBAR1 Gore_B-NP1 had_B-VP carried_I-VP1 California_B-NP1 in_B-PP1 a_B-NP landslide_I-NP1 COMMA_O so_O it_B-NP1 was_B-VP expected_I-VP1 that_B-SBAR1 the_B-NP nearly_I-NP 1.5_I-NP million_I-NP absentee_I-NP ballots_I-NP1 that_B-NP1 arrived_B-VP1 in_B-PP1 time_B-NP1 to_B-VP be_I-VP accepted_I-VP1 would_B-VP sharply_I-VP augment_I-VP1 his_B-NP victory_I-NP1 __B-ADVP1 and_O they_B-NP1 did_B-VP1 ._O
+
+The_B-NP final_I-NP certified_I-NP totals_I-NP1 in_B-PP1 California_B-NP1 were_B-VP1 5COMMA861COMMA203_B-NP1 for_B-PP1 Gore_B-NP1 and_O 4COMMA567COMMA429_B-NP1 for_B-PP1 Bush_B-NP1 ._O
+
+Alfie_B-NP Charles_I-NP1 COMMA_O a_B-NP spokesman_I-NP1 for_B-PP1 the_B-NP California_I-NP secretary_I-NP1 of_B-PP1 state_B-NP1 COMMA_O Bill_B-NP Jones_I-NP1 COMMA_O said_B-VP1 the_B-NP percentage_I-NP1 of_B-PP1 Californians_B-NP1 voting_B-VP1 by_B-PP1 absentee_B-NP ballot_I-NP1 has_B-VP been_I-VP increasing_I-VP1 COMMA_O and_O that_B-SBAR1 about_B-NP one-quarter_I-NP1 do_B-VP1 now_B-ADVP1 ._O
+
+(_O Californians_B-NP1 COMMA_O unlike_B-PP1 people_B-NP1 in_B-PP1 some_B-NP states_I-NP1 COMMA_O can_B-VP vote_I-VP1 absentee_B-NP1 without_B-PP1 showing_B-VP1 a_B-NP compelling_I-NP reason_I-NP1 ._O
+
+Their_B-NP ballots_I-NP1 must_B-VP arrive_I-VP1 by_B-PP1 Election_B-NP Day_I-NP1 to_B-VP be_I-VP counted_I-VP1 ._O )_O
+
+NYT-12-29-00_B-NP 2114EST_I-NP1
+

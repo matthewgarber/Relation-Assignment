@@ -1,0 +1,44 @@
+NYT20001017.1908.0279_B-NP NEWS_I-NP STORY_I-NP1 2000-10-17_B-NP 19:56:20_I-NP1
+
+A7744_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP f_I-NP BC-DEL-BUSINESS-TAX-NYT_I-NP &LR_I-NP1 ;_O 10-17_B-NP 0462_I-NP1
+
+BC-DEL-BUSINESS-TAX-NYT_B-NP1
+
+JUDGE_B-VP1 RULES_B-NP1 AGAINST_B-PP1 COMPANY_B-NP1 IN_B-PP1 TAX_B-NP SCHEME_I-NP CASE_I-NP1
+
+&UR_B-NP1 ;_O By_B-NP DAVID_I-NP CAY_I-NP JOHNSTON_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP N.Y_I-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &QC_I-NP1 ;_O &LR_B-NP1 ;_O &QL_B-NP1 ;_O
+
+A_B-NP federal_I-NP judge_I-NP1 in_B-PP1 Delaware_B-NP1 COMMA_O in_B-PP1 a_B-NP decision_I-NP1 made_B-VP1 public_B-ADJP1 on_B-PP1 Tuesday_B-NP1 COMMA_O held_B-VP1 that_B-SBAR1 one_B-NP company_I-NP1 's_B-NP corporate_I-NP tax_I-NP shelter_I-NP1 was_B-VP1 a_B-NP sham_I-NP1 and_O noted_B-VP1 that_B-SBAR1 85_B-NP other_I-NP large_I-NP corporations_I-NP1 used_B-VP1 the_B-NP same_I-NP deduction_I-NP1 to_B-VP avoid_I-VP1 paying_B-VP1 $_B-NP 6_I-NP billion_I-NP1 in_B-PP1 corporate_B-NP income_I-NP taxes_I-NP1 ._O
+
+U.S._B-NP District_I-NP Court_I-NP1 Judge_B-NP Murray_I-NP Schwartz_I-NP1 in_B-PP1 Wilmington_B-NP1 COMMA_O Del._B-NP1 COMMA_O ruled_B-VP1 that_B-SBAR1 Camelot_B-NP Music_I-NP1 could_B-VP not_I-VP deduct_I-VP1 interest_B-NP1 on_B-PP1 loans_B-NP1 it_B-NP1 took_B-VP1 out_B-PRT1 against_B-PP1 life_B-NP insurance_I-NP1 on_B-PP1 its_B-NP 1COMMA430_I-NP employees_I-NP1 in_B-PP1 1990_B-NP1 through_B-PP1 1993_B-NP1 ._O
+
+Camelot_B-NP Music_I-NP1 is_B-VP owned_I-VP1 by_B-PP1 Trans_B-NP World_I-NP Entertainment_I-NP1 COMMA_O which_B-NP1 bought_B-VP1 the_B-NP company_I-NP1 last_B-NP year_I-NP1 for_B-PP1 $_B-NP 451.9_I-NP million_I-NP1 ._O
+
+The_B-NP decision_I-NP1 could_B-VP affect_I-VP1 many_B-NP1 of_B-PP1 the_B-NP other_I-NP 85_I-NP companies_I-NP1 COMMA_O which_B-NP1 the_B-NP judge_I-NP1 did_B-VP not_I-VP identify_I-VP1 by_B-PP1 name_B-NP1 COMMA_O because_B-SBAR1 his_B-NP ruling_I-NP1 applies_B-VP1 to_B-PP1 every_B-NP company_I-NP1 organized_B-VP1 in_B-PP1 Delaware_B-NP1 COMMA_O whose_B-NP corporate-governance_I-NP laws_I-NP1 have_B-VP made_I-VP1 it_B-NP1 a_B-NP major_I-NP center_I-NP1 for_B-PP1 large_B-NP companies_I-NP1 to_B-VP have_I-VP1 their_B-NP nominal_I-NP headquarters_I-NP1 ._O
+
+American_B-NP Electric_I-NP Power_I-NP1 COMMA_O an_B-NP electric_I-NP utility_I-NP1 in_B-PP1 Columbus_B-NP1 COMMA_O Ohio_B-NP1 COMMA_O has_B-VP1 a_B-NP case_I-NP1 involving_B-VP1 almost_B-NP identical_I-NP issues_I-NP1 scheduled_B-VP1 to_B-VP go_I-VP1 to_B-PP1 trial_B-NP1 in_B-PP1 two_B-NP weeks_I-NP1 ._O
+
+Pat_B-NP D._I-NP Hemlepp_I-NP1 COMMA_O a_B-NP spokesman_I-NP1 for_B-PP1 the_B-NP company_I-NP1 COMMA_O said_B-VP1 that_B-SBAR1 $_B-NP 240_I-NP million_I-NP1 in_B-PP1 taxes_B-NP1 were_B-VP1 at_B-PP1 issue_B-NP1 ._O
+
+Camelot_B-NP1 took_B-VP1 out_B-PRT1 life_B-NP insurance_I-NP1 from_B-PP1 the_B-NP Hartford_I-NP Group_I-NP1 beginning_B-VP1 in_B-PP1 1990_B-NP1 on_B-PP1 its_B-NP 1COMMA430_I-NP workers_I-NP1 ._O
+
+The_B-NP company_I-NP1 paid_B-VP1 for_B-PP1 the_B-NP insurance_I-NP1 COMMA_O taking_B-VP1 a_B-NP deduction_I-NP1 for_B-PP1 this_B-NP expense_I-NP1 COMMA_O and_O then_B-ADVP1 borrowed_B-VP1 back_B-PRT1 the_B-NP premium_I-NP1 through_B-PP1 a_B-NP loan_I-NP1 against_B-PP1 the_B-NP insurance_I-NP policy_I-NP1 ._O
+
+On_B-PP1 its_B-NP corporate_I-NP income_I-NP tax_I-NP returns_I-NP1 the_B-NP company_I-NP1 took_B-VP1 $_B-NP 13.8_I-NP million_I-NP1 of_B-PP1 deductions_B-NP1 in_B-PP1 1990_B-NP1 through_B-PP1 1993_B-NP tax_I-NP returns_I-NP1 for_B-PP1 interest_B-NP1 it_B-NP1 paid_B-VP1 on_B-PP1 the_B-NP loans_I-NP1 ._O
+
+Schwartz_B-NP1 said_B-VP1 that_B-SBAR1 there_B-NP1 was_B-VP1 no_O build_B-VP1 up_B-PRT1 in_B-PP1 the_B-NP cash_I-NP value_I-NP1 of_B-PP1 the_B-NP insurance_I-NP policies_I-NP1 and_O because_B-PP of_I-PP1 the_B-NP way_I-NP1 the_B-NP loans_I-NP1 were_B-VP structured_I-VP1 there_B-ADVP1 was_B-VP1 no_B-NP reasonable_I-NP prospect_I-NP1 that_B-SBAR1 the_B-NP company_I-NP1 would_B-VP profit_I-VP1 from_B-PP1 buying_B-VP1 the_B-NP insurance_I-NP1 ._O
+
+He_B-NP1 called_B-VP1 the_B-NP arrangement_I-NP1 ``_O a_B-NP factual_I-NP sham_I-NP1 '_O '_O that_B-NP1 ``_O lacked_B-VP1 objective_B-NP economic_I-NP substance_I-NP1 and_O a_B-NP subjective_I-NP business_I-NP purpose_I-NP1 other_B-ADJP1 than_B-PP1 the_B-NP tax_I-NP benefits_I-NP1 flowing_B-VP1 from_B-PP1 the_B-NP interest_I-NP deductions_I-NP1 ._O ''_O
+
+The_B-NP judge_I-NP1 said_B-VP1 the_B-NP deal_I-NP1 ``_B-VP crossed_I-VP1 the_B-NP line_I-NP1 '_O '_O on_B-PP1 permissible_B-NP deductions_I-NP1 by_B-PP1 such_B-NP a_I-NP wide_I-NP margin_I-NP1 that_B-SBAR1 the_B-NP Internal_I-NP Revenue_I-NP Service_I-NP1 was_B-VP1 right_B-ADJP1 to_B-VP impose_I-VP1 penalties_B-NP1 for_B-PP1 filing_B-VP1 in_B-PRT1 an_B-NP inaccurate_I-NP tax_I-NP return_I-NP1 ._O
+
+John_B-NP Sullivan_I-NP1 COMMA_O Trans_B-NP World_I-NP Entertainment_I-NP1 's_B-NP chief_I-NP financial_I-NP officer_I-NP1 COMMA_O said_B-VP1 that_B-SBAR1 if_B-SBAR1 the_B-NP decision_I-NP1 stood_B-VP1 it_B-NP1 would_B-VP cost_I-VP1 the_B-NP company_I-NP1 about_B-NP $_I-NP 8_I-NP million_I-NP1 plus_B-PP1 interest_B-NP1 ._O
+
+``_O I_B-NP1 'm_B-VP1 surprised_B-ADJP1 by_B-PP1 the_B-NP ruling_I-NP1 COMMA_O ''_O Sullivan_B-NP1 said_B-VP1 COMMA_O adding_B-VP1 that_B-SBAR1 he_B-NP1 expected_B-VP1 the_B-NP company_I-NP1 would_B-VP appeal_I-VP1 the_B-NP decision_I-NP1 ._O
+
+The_B-NP Camelot_I-NP Music_I-NP and_I-NP American_I-NP Electric_I-NP Power_I-NP cases_I-NP1 are_B-VP1 similar_O to_B-PP1 the_B-NP corporate-owned_I-NP life_I-NP insurance_I-NP policy_I-NP1 tax_B-NP shelter_I-NP1 of_B-PP1 Winn-Dixie_B-NP Stores_I-NP1 COMMA_O a_B-NP big_I-NP supermarket_I-NP chain_I-NP1 COMMA_O that_B-SBAR1 a_B-NP tax_I-NP court_I-NP judge_I-NP1 demolished_B-VP1 last_B-NP year_I-NP1 in_B-PP1 an_B-NP 81-page_I-NP opinion_I-NP1 ._O
+
+NYT-10-17-00_B-NP 1956EDT_I-NP1
+

@@ -1,0 +1,48 @@
+NYT20001122.2009.0341_B-NP NEWS_I-NP STORY_I-NP1 2000-11-22_B-NP 20:58:00_I-NP1
+
+A8464_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP a_I-NP BC-MASS-NURSE-TRIAL-NYT_I-NP &LR_I-NP1 ;_O 11-22_B-NP 0494_I-NP1
+
+BC-MASS-NURSE-TRIAL-NYT_B-NP1
+
+EX-NURSE_B-NP1 ON_B-PP1 TRIAL_B-NP1 IN_B-PP1 SUSPICIOUS_B-NP PATIENT_I-NP DEATHS_I-NP1
+
+&UR_B-NP1 ;_O By_B-NP CAREY_I-NP1 GOLDBERG_B-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP N.Y_I-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &QC_I-NP1 ;_O &LR_B-NP1 ;_O &QL_B-NP1 ;_O
+
+SPRINGFIELD_B-NP1 COMMA_O Mass._B-NP1 __B-VP1 ``_O There_B-NP1 was_B-VP1 a_B-NP coldness_I-NP1 in_B-PP1 Ward_B-NP C_I-NP1 COMMA_O ''_O the_B-NP prosecutor_I-NP1 began_B-VP1 his_B-NP wintry_I-NP tale_I-NP1 of_B-PP1 white-coated_B-NP murder_I-NP1 this_B-NP week_I-NP1 ._O
+
+``_O It_B-NP1 was_B-VP1 a_B-NP deep_I-NP COMMA_I-NP eerie_I-NP COMMA_I-NP unsettling_I-NP feeling_I-NP1 that_B-SBAR1 something_B-NP1 terribly_B-ADJP COMMA_I-ADJP terribly_I-ADJP wrong_I-ADJP1 was_B-VP happening_I-VP1 COMMA_O ''_O Assistant_B-NP U.S_I-NP1 ._O
+
+Attorney_B-NP William_I-NP Welch_I-NP II_I-NP1 went_B-VP1 on_B-PRT1 ._O
+
+Patients_B-NP1 were_B-VP succumbing_I-VP1 to_B-PP1 sudden_B-NP cardiac_I-NP arrest_I-NP1 at_B-PP1 an_B-NP alarming_I-NP and_I-NP suspicious_I-NP rate_I-NP1 ._O
+
+Finally_B-ADVP1 COMMA_O he_B-NP1 said_B-VP1 COMMA_O in_B-PP1 February_B-NP 1996_I-NP1 COMMA_O ``_O three_B-NP registered_I-NP nurses_I-NP1 came_B-VP1 forward_B-ADVP1 to_B-VP report_I-VP1 a_B-NP patient_I-NP1 's_B-NP1 COMMA_O a_B-NP health_I-NP care_I-NP1 professional_B-NP1 's_B-NP1 COMMA_O a_B-NP hospital_I-NP1 's_B-NP worst_I-NP nightmare_I-NP1 :_O There_B-NP1 was_B-VP1 a_B-NP killer_I-NP1 amongst_B-PP1 them_B-NP1 ._O ''_O
+
+That_B-NP killer_I-NP1 COMMA_O prosecutors_B-NP1 charge_B-VP1 COMMA_O is_B-VP1 Kristen_B-NP Gilbert_I-NP1 COMMA_O 33_B-NP1 COMMA_O a_B-NP former_I-NP nurse_I-NP1 COMMA_O who_B-NP1 is_B-VP1 on_B-PP1 trial_B-NP1 in_B-PP1 federal_B-NP court_I-NP1 here_B-ADVP1 COMMA_O accused_B-VP1 of_B-PP1 murdering_B-VP1 four_B-NP patients_I-NP1 and_O trying_B-VP1 to_B-VP kill_I-VP1 three_B-NP others_I-NP1 by_B-PP1 poisoning_B-NP1 them_B-NP1 with_B-PP1 epinephrine_B-NP1 COMMA_O a_B-NP stimulant_I-NP1 that_B-NP1 sent_B-VP1 their_B-NP hearts_I-NP1 racing_B-VP1 out_B-PP1 of_B-PP1 control_B-NP1 ._O
+
+Massachusetts_B-NP1 is_B-VP1 one_B-NP1 of_B-PP1 12_B-NP states_I-NP1 that_B-NP1 lack_B-VP1 the_B-NP death_I-NP penalty_I-NP1 COMMA_O but_O Gilbert_B-NP1 's_B-NP1 is_B-VP1 a_B-NP capital_I-NP case_I-NP1 nonetheless_B-ADVP1 COMMA_O because_B-SBAR1 the_B-NP alleged_I-NP crimes_I-NP1 occurred_B-VP1 on_B-PP1 federal_B-NP property_I-NP __I-NP1 the_B-NP Veterans_I-NP Affairs_I-NP Medical_I-NP Center_I-NP1 in_B-PP1 Northampton_B-NP1 COMMA_O Mass._B-NP1 And_O so_B-SBAR1 the_B-NP case_I-NP1 is_B-VP being_I-VP tried_I-VP1 in_B-PP1 federal_B-NP court_I-NP1 COMMA_O where_B-ADVP1 prosecutors_B-NP1 can_B-VP1 COMMA_O and_O say_B-VP1 they_B-NP1 will_B-VP1 COMMA_O seek_B-VP1 the_B-NP death_I-NP penalty_I-NP1 ._O
+
+In_B-PP1 an_B-NP opening_I-NP argument_I-NP1 on_B-PP1 Monday_B-NP1 COMMA_O the_B-NP defense_I-NP lawyer_I-NP1 COMMA_O David_B-NP P._I-NP Hoose_I-NP1 COMMA_O emphasized_B-VP1 that_B-SBAR1 no_B-NP one_I-NP1 had_B-VP seen_I-VP1 Gilbert_B-NP poison_I-NP1 the_B-NP patients_I-NP1 ._O
+
+He_B-NP1 said_B-VP1 that_B-SBAR1 the_B-NP patients_I-NP1 were_B-VP1 very_B-ADJP sick_I-ADJP1 and_O that_B-SBAR1 the_B-NP prosecution_I-NP1 's_B-NP claims_I-NP1 that_B-NP1 evidence_B-NP1 of_B-PP1 epinephrine_B-NP poisoning_I-NP1 was_B-VP found_I-VP1 in_B-PP1 the_B-NP exhumed_I-NP bodies_I-NP1 of_B-PP1 patients_B-NP1 were_B-VP based_I-VP1 on_B-PP1 shoddy_B-NP science_I-NP1 ._O
+
+The_B-NP case_I-NP1 is_B-VP1 really_B-ADVP1 about_B-PP1 ``_O an_B-NP investigation_I-NP1 that_B-NP1 started_B-VP1 with_B-PP1 a_B-NP conclusion_I-NP1 and_O then_O worked_B-VP1 backwards_O to_B-VP fill_I-VP1 in_B-PRT1 the_B-NP gaps_I-NP1 COMMA_O ''_O he_B-NP1 said_B-VP1 ._O
+
+``_O And_O the_B-NP proposition_I-NP1 they_B-NP1 started_B-VP1 with_B-PP1 was_B-VP1 that_B-SBAR1 people_B-NP1 were_B-VP injected_I-VP1 with_B-PP1 epinephrine_B-NP1 COMMA_O and_O Kristen_B-NP Gilbert_I-NP1 did_B-VP1 it_B-NP1 ._O ''_O
+
+As_B-SBAR1 Welch_B-NP1 depicted_B-VP1 her_B-NP1 COMMA_O Gilbert_B-NP1 reveled_B-VP1 in_B-PRT1 the_B-NP excitement_I-NP and_I-NP attention_I-NP1 of_B-PP1 the_B-NP emergency_I-NP calls_I-NP1 made_B-VP1 whenever_B-ADVP1 a_B-NP life-threatening_I-NP situation_I-NP1 arose_B-VP1 COMMA_O and_O went_B-VP1 out_B-ADVP1 of_B-PP1 her_B-NP way_I-NP1 to_B-VP create_I-VP1 emergencies_B-NP1 by_B-PP1 injecting_B-VP1 patients_B-NP1 with_B-PP1 epinephrine_B-NP1 ._O
+
+She_B-NP1 had_B-VP1 a_B-NP particular_I-NP reason_I-NP1 to_B-VP crave_I-VP1 that_B-NP spotlight_I-NP1 COMMA_O he_B-NP1 said_B-VP1 :_O Though_B-ADJP married_I-ADJP1 and_O the_B-NP mother_I-NP1 of_B-PP1 two_B-NP boys_I-NP1 COMMA_O she_B-NP1 began_B-VP1 an_B-NP affair_I-NP1 in_B-PP1 late_B-NP 1995_I-NP1 with_B-PP1 one_B-NP1 of_B-PP1 the_B-NP hospital_I-NP1 's_B-NP security_I-NP police_I-NP1 COMMA_O James_B-NP Perrault_I-NP1 COMMA_O and_O he_B-NP1 would_B-VP be_I-VP summoned_I-VP1 to_B-VP help_I-VP1 whenever_B-ADVP1 an_B-NP emergency_I-NP call_I-NP1 was_B-VP made_I-VP1 ._O
+
+Welch_B-NP1 also_B-ADVP1 said_B-VP1 Gilbert_B-NP1 had_B-VP confessed_I-VP1 to_B-PP1 Perrault_B-NP1 COMMA_O who_B-NP1 would_B-VP testify_I-VP1 ._O
+
+Welch_B-NP1 described_B-VP1 a_B-NP pivotal_I-NP moment_I-NP1 on_B-PP1 Feb_B-NP1 ._O
+
+15_B-NP COMMA_I-NP 1996_I-NP1 COMMA_O when_B-ADVP1 a_B-NP suspicious_I-NP colleague_I-NP1 of_B-PP1 Gilbert_B-NP1 's_B-NP1 COMMA_O Kathy_B-NP Rix_I-NP1 COMMA_O counted_B-VP1 three_B-NP ampules_I-NP1 in_B-PP1 the_B-NP intensive_I-NP care_I-NP unit_I-NP1 's_B-NP medicine_I-NP cabinet_I-NP1 at_B-PP1 4_B-NP p.m_I-NP1 ._O ;_O an_B-NP hour_I-NP1 later_B-ADVP1 COMMA_O after_B-PP1 an_B-NP emergency_I-NP call_I-NP1 that_B-NP1 involved_B-VP1 Gilbert_B-NP1 COMMA_O she_B-NP1 counted_B-VP1 again_B-ADVP1 and_O found_B-VP1 none_B-NP1 COMMA_O and_O then_B-VP saw_I-VP1 three_B-NP broken_I-NP ampules_I-NP1 in_B-PP1 the_B-NP needle_I-NP disposal_I-NP bucket_I-NP1 ._O
+
+``_O She_B-NP1 felt_B-VP1 sick_B-ADJP1 to_B-PP1 her_B-NP stomach_I-NP1 and_O her_B-NP knees_I-NP1 about_B-PP1 buckled_B-ADJP1 COMMA_O ''_O Welch_B-NP1 said_B-VP1 COMMA_O ``_O because_B-SBAR1 she_B-NP1 now_B-ADVP1 knew_B-VP1 what_B-NP1 had_B-VP been_I-VP happening_I-VP1 on_B-PP1 Ward_B-NP C_I-NP1 ._O ''_O
+
+NYT-11-22-00_B-NP 2058EST_I-NP1
+

@@ -1,0 +1,72 @@
+NYT20001123.1511.0062_B-NP NEWS_I-NP STORY_I-NP1 2000-11-23_B-NP 17:17:00_I-NP1
+
+A9034_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP f_I-NP1 BC-QUESTIONS-AD-COLUMN-N_B-NP 11-23_I-NP 0790_I-NP1
+
+BC-QUESTIONS-AD-COLUMN-NYT_B-NP1
+
+ADVERTISING_B-NP1 :_O FOLLOW_B-VP1 THE_B-NP QUESTIONS_I-NP1 INTO_B-PP1 A_B-NP `_I-NP CHAD_I-NP COMMA_I-NP CHAD_I-NP COMMA_I-NP CHAD_I-NP COMMA_I-NP CHAD_I-NP1
+
+WORLD_B-NP1 '_B-NP &LR_I-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O By_B-NP STUART_I-NP ELLIOTT_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP1 N.Y_B-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O
+
+It_B-NP1 's_B-VP1 time_B-NP1 again_B-ADVP1 to_B-VP ask_I-VP1 20_B-NP questions_I-NP1 about_B-PP1 advertising_B-NP1 COMMA_O marketing_B-NP1 and_O the_B-NP media_I-NP1 ._O
+
+__B-NP Will_I-NP Americans_I-NP1 ever_B-ADVP1 refer_B-VP1 to_B-PP1 the_B-NP day_I-NP1 before_B-PP1 Thanksgiving_B-NP1 as_B-PP1 ``_O Thanksgiving_B-NP Wednesday_I-NP1 COMMA_O ''_O as_O ABC_B-NP1 did_B-VP1 repeatedly_B-ADVP1 this_B-NP week_I-NP1 in_B-PP1 commercials_B-NP1 promoting_B-PP1 its_B-NP Wednesday_I-NP sitcoms_I-NP1 ``_O The_B-NP Drew_I-NP Carey_I-NP Show_I-NP1 '_B-NP1 '_O and_O ``_O Spin_B-VP1 City_B-NP1 ''_O ?_O
+
+__B-SBAR If_I-SBAR1 a_B-NP Hollywood_I-NP studio_I-NP1 makes_B-VP1 a_B-NP movie_I-NP1 about_B-PP1 the_B-NP Florida_I-NP election_I-NP standoff_I-NP1 COMMA_O would_O the_B-NP title_I-NP1 be_B-VP1 ``_O It_B-NP1 's_B-VP1 a_B-NP Chad_I-NP COMMA_I-NP Chad_I-NP COMMA_I-NP Chad_I-NP COMMA_I-NP Chad_I-NP World_I-NP1 ''_O ?_O
+
+__B-ADVP1 How_B-ADVP1 many_B-NP readers_I-NP1 of_B-PP1 The_B-NP Wall_I-NP Street_I-NP Journal_I-NP1 noticed_B-VP1 that_B-SBAR1 an_B-NP article_I-NP1 on_B-PP1 Wednesday_B-NP1 carrying_B-VP1 the_B-NP headline_I-NP1 ``_O Genetically_B-NP Altered_I-NP Protein_I-NP1 Is_B-VP Found_I-VP1 in_B-PP1 Still_B-NP More_I-NP Corn_I-NP1 '_B-NP1 '_O ran_B-VP1 adjacent_B-ADVP1 to_B-PP1 an_B-NP advertisement_I-NP1 for_B-PP1 a_B-NP golf_I-NP tournament_I-NP1 on_B-PP1 Fox_B-NP Sports_I-NP1 sponsored_B-VP1 by_B-PP1 Sun_B-NP Microsystems_I-NP1 that_B-SBAR1 featured_B-VP1 a_B-NP fanciful_I-NP photograph_I-NP1 of_B-PP1 a_B-NP gigantic_I-NP ear_I-NP1 of_B-PP1 corn_B-NP1 as_B-ADJP big_I-ADJP1 as_B-PP1 a_B-NP Buick_I-NP1 ?_O
+
+__B-NP1 Does_B-VP1 n't_O a_B-NP new_I-NP television_I-NP commercial_I-NP1 for_B-SBAR1 Fidelity_B-NP Investments_I-NP1 COMMA_O centered_B-VP1 on_B-PP1 a_B-NP telephone_I-NP conversation_I-NP1 between_B-PP1 a_B-NP female_I-NP employee_I-NP1 and_O a_B-NP male_I-NP customer_I-NP1 COMMA_O resemble_B-VP1 a_B-NP Citibank_I-NP campaign_I-NP1 from_B-PP1 the_B-NP late_I-NP 1980s_I-NP1 that_B-NP1 was_B-VP so_I-VP brilliantly_I-VP parodied_I-VP1 as_B-PP1 the_O ``_O First_B-NP Citiwide_I-NP Change_I-NP Bank_I-NP1 '_B-NP '_I-NP commercials_I-NP1 on_B-PP1 ``_O Saturday_B-NP Night_I-NP Live_I-NP1 ''_O ?_O
+
+__B-NP1 Did_B-VP1 shoppers_B-NP1 at_B-PP1 the_B-NP New_I-NP York_I-NP supermarket_I-NP chain_I-NP1 Gristede_B-NP1 's_B-NP rush_I-NP1 to_B-VP take_I-VP1 advantage_B-NP1 of_B-PP1 a_B-NP recent_I-NP sale_I-NP1 on_B-PP1 the_B-NP ``_I-NP BIG_I-NP 150-count_I-NP box_I-NP1 '_O '_O of_B-PP1 Scotties_B-NP facial_I-NP tissues_I-NP1 COMMA_O or_O did_B-VP1 they_B-NP1 recall_B-VP1 that_B-SBAR1 Scotties_B-NP1 has_B-VP usually_I-VP come_I-VP1 in_B-PP1 a_B-NP 175-count_I-NP box_I-NP1 ?_O
+
+__B-ADVP1 Can_O Ocean_B-NP Spray_I-NP Cranberries_I-NP1 get_B-VP1 a_B-NP refund_I-NP1 on_B-PP1 a_B-NP full-page_I-NP ad_I-NP1 that_B-NP1 ran_B-VP1 in_B-PP1 newspapers_B-NP1 on_B-PP1 Nov_B-NP1 ._O
+
+8_B-NP1 and_O carried_B-VP1 the_B-NP headline_I-NP1 ``_O Now_B-ADVP1 That_B-SBAR1 the_B-NP Election_I-NP1 Is_B-VP1 Over_B-ADJP1 COMMA_O You_B-NP1 Can_B-VP Focus_I-VP1 on_B-PP1 Some_B-NP Real_I-NP News_I-NP1 ''_O ?_O
+
+__B-NP1 Was_B-VP1 it_B-NP1 a_B-NP coincidence_I-NP1 that_B-PP1 an_B-NP ad_I-NP1 for_B-PP1 the_B-NP Carnation_I-NP Coffee-mate_I-NP line_I-NP1 of_B-PP1 coffee_B-NP creamers_I-NP1 in_B-PP1 the_B-NP recent_I-NP issue_I-NP1 of_B-SBAR1 In_B-PP1 Style_B-NP1 Entertaining_B-NP 2000_I-NP magazine_I-NP1 ran_B-VP1 opposite_B-PP1 an_B-NP article_I-NP1 about_B-PP1 ``_O great_B-NP trends_I-NP1 '_O '_O in_B-PP1 party-giving_B-NP1 that_B-NP1 began_B-VP1 by_B-PP1 describing_B-VP1 carnations_B-NP1 as_B-PP1 ``_O the_B-NP chic_I-NP flower_I-NP1 of_B-PP1 the_B-NP moment_I-NP1 ''_O ?_O
+
+__B-ADVP1 Should_O an_B-NP English_I-NP teacher_I-NP1 have_B-VP been_I-VP consulted_I-VP1 before_B-SBAR1 the_B-NP Tropicana_I-NP division_I-NP1 of_B-PP1 PepsiCo_B-NP1 produced_B-VP1 posters_B-NP1 that_B-NP1 described_B-VP1 its_B-NP Pure_I-NP Premium_I-NP orange_I-NP juice_I-NP1 as_B-PP1 being_B-VP1 ``_O as_B-ADJP packed_I-ADJP1 with_B-PP1 Vitamin_B-NP C_I-NP1 as_B-PP1 a_B-NP bus_I-NP1 on_B-PP1 a_B-NP rainy_I-NP day_I-NP1 ''_O ?_O
+
+__B-NP Will_I-NP Jack_I-NP Nicholson_I-NP1 COMMA_O Helen_B-NP Hunt_I-NP1 COMMA_O Greg_B-NP Kinnear_I-NP1 and_O James_B-NP L._I-NP Brooks_I-NP1 complain_B-VP1 about_B-PP1 an_B-NP ad_I-NP1 from_B-PP1 Campbell_B-NP Soup_I-NP Co_I-NP1 ._O
+
+for_O Campbell_B-NP1 's_B-NP Cream_I-NP1 of_B-PP1 Mushroom_B-NP soup_I-NP1 that_B-NP1 carried_B-VP1 the_B-NP slogan_I-NP1 ``_B-NP As_I-NP m_I-NP1 'm_B-VP1 !_O
+
+m_B-NP1 'm_B-VP1 !_O
+
+good_B-ADJP1 !_O
+
+as_B-SBAR1 it_B-NP1 gets_B-VP1 ''_O ?_O
+
+__B-ADVP1 Now_B-SBAR that_I-SBAR1 the_B-NP Roundabout_I-NP Theater_I-NP Company_I-NP1 is_B-VP calling_I-VP1 its_B-NP new_I-NP facility_I-NP1 in_B-PP1 Times_B-NP Square_I-NP1 the_B-NP American_I-NP Airlines_I-NP Theater_I-NP1 COMMA_O will_O the_B-NP ushers_I-NP1 give_B-VP1 out_B-PRT1 peanuts_B-NP1 instead_B-PP of_I-PP1 Playbills_B-NP1 ?_O
+
+__O Why_B-ADVP1 did_O the_B-NP Reader_I-NP1 's_B-NP Digest_I-NP Association_I-NP1 go_B-VP1 to_B-PP1 the_B-NP trouble_I-NP1 of_B-PP1 airbrushing_B-VP1 the_B-NP identifying_I-NP information_I-NP1 from_B-PP1 a_B-NP label_I-NP1 on_B-PP1 a_B-NP pair_I-NP1 of_B-PP1 jeans_B-NP1 worn_B-VP1 by_B-PP1 a_B-NP man_I-NP1 in_B-PP1 a_B-NP photograph_I-NP1 featured_B-VP1 in_B-PP1 an_B-NP ad_I-NP1 for_B-PP1 Reader_B-NP1 's_B-NP Digest_I-NP magazine_I-NP1 COMMA_O but_O leave_B-VP1 the_B-NP red_I-NP tab_I-NP1 on_B-PP1 the_B-NP back_I-NP pocket_I-NP1 that_B-NP1 tells_B-VP1 everyone_B-NP1 the_B-NP pants_I-NP1 are_B-VP1 Levi_B-NP1 's_B-NP1 ?_O
+
+__B-NP Do_I-NP television_I-NP commercials_I-NP1 for_B-PP1 prescription_B-NP drugs_I-NP1 disclose_B-VP1 that_B-SBAR1 side_B-NP effects_I-NP1 in_B-PP1 tests_B-NP1 were_B-VP1 no_B-ADJP worse_I-ADJP1 ``_O than_B-PP1 a_B-NP sugar_I-NP pill_I-NP1 '_B-NP1 '_O because_B-SBAR1 research_B-NP1 found_B-VP1 that_B-SBAR1 consumers_B-NP1 were_B-VP1 n't_O familiar_B-ADJP1 with_B-PP1 the_B-NP word_I-NP ``_I-NP placebo_I-NP1 ''_O ?_O
+
+__O What_B-NP1 was_B-VP1 in_B-PP1 the_B-NP zeitgeist_I-NP1 that_B-NP1 led_B-VP1 two_B-NP disparate_I-NP advertisers_I-NP1 __B-VP1 Empire_B-NP Blue_I-NP Cross_I-NP Blue_I-NP Shield_I-NP1 and_O the_B-NP MSN_I-NP network_I-NP1 of_B-PP1 Microsoft_B-NP __I-NP1 to_B-VP introduce_I-VP1 about_B-PP1 the_B-NP same_I-NP time_I-NP1 campaigns_B-NP1 centered_B-VP1 on_B-PP1 butterflies_B-NP1 ?_O
+
+__O And_O what_B-NP1 was_B-VP1 in_B-PP1 the_B-NP zeitgeist_I-NP1 that_B-NP1 led_B-VP1 two_B-NP automotive_I-NP marketers_I-NP1 __B-VP1 Land_B-NP Rover_I-NP and_I-NP Volvo_I-NP1 __B-VP1 to_B-VP introduce_I-VP1 about_B-PP1 the_B-NP same_I-NP time_I-NP1 commercials_B-NP1 centered_B-VP1 on_B-PP1 drivers_B-NP1 rescuing_B-VP1 animals_B-NP1 on_B-PP1 rainy_B-NP roads_I-NP1 ?_O
+
+__B-NP Are_I-NP folks_I-NP1 old_B-NP enough_I-NP1 to_B-VP remember_I-VP1 the_B-NP heyday_I-NP1 of_B-PP1 the_B-NP radio_I-NP and_I-NP television_I-NP personality_I-NP1 Arthur_B-NP Godfrey_I-NP1 reminded_B-VP1 of_B-PP1 his_B-NP longtime_I-NP1 greeting_B-VP1 COMMA_O ``_O How_B-ADVP1 are_O ya_B-NP1 ?_O COMMA_O ''_O every_B-NP time_I-NP1 they_B-NP1 hear_B-VP1 the_B-NP name_I-NP1 of_B-PP1 the_B-NP new_I-NP Lucent_I-NP Technologies_I-NP spinoff_I-NP company_I-NP1 COMMA_O Avaya_B-NP Communication_I-NP1 ?_O
+
+__O How_B-NP appealing_I-NP1 was_O a_B-NP recent_I-NP offer_I-NP1 made_B-VP1 by_B-PP1 Sprint_B-NP Communications_I-NP Co_I-NP1 ._O
+
+to_B-VP give_I-VP1 buyers_B-NP1 of_B-PP1 a_B-NP Sprint_I-NP PCS_I-NP telephone_I-NP1 and_O a_B-NP calling_I-NP plan_I-NP1 a_B-NP free_I-NP ``_I-NP pre-owned_I-NP phone_I-NP1 ''_O ?_O
+
+__B-NP1 Was_B-VP1 it_B-NP1 an_B-NP inside_I-NP joke_I-NP1 that_B-SBAR1 the_B-NP name_I-NP1 of_B-PP1 the_B-NP character_I-NP1 played_B-VP1 by_B-PP1 John_B-NP Corbett_I-NP1 on_B-PP1 ``_O Sex_B-NP1 and_O the_B-NP City_I-NP1 COMMA_O ''_O Aidan_B-NP Shaw_I-NP1 COMMA_O was_B-VP1 almost_B-ADJP identical_I-ADJP1 to_B-PP1 the_B-NP name_I-NP1 of_B-PP1 a_B-NP longtime_I-NP star_I-NP1 of_B-PP1 gay_B-NP sex_I-NP films_I-NP1 COMMA_O Aiden_B-NP Shaw_I-NP1 ?_O
+
+__O How_B-NP many_I-NP tickets_I-NP1 did_O the_B-NP Houston_I-NP Grand_I-NP Opera_I-NP1 sell_B-VP1 after_B-PP1 mailing_B-VP1 out_B-PRT1 a_B-NP promotional_I-NP brochure_I-NP1 featuring_B-VP1 photographs_B-NP1 of_B-PP1 cattle_B-NP1 with_B-PP1 headlines_B-NP1 like_B-SBAR1 ``_O It_B-NP1 's_B-VP1 udderly_B-NP fantastic_I-NP entertainment_I-NP1 !_O ''_O
+
+and_O ``_O Great_B-NP opera_I-NP1 ._O
+
+No_B-NP bull_I-NP1 ._O ''_O ?_O
+
+__O If_B-SBAR1 CBS_B-NP1 shows_B-VP1 the_B-NP first_I-NP episode_I-NP1 of_B-PP1 ``_O Survivor_B-NP1 II_B-NP1 '_B-NP1 '_O after_B-PP1 its_B-NP broadcast_I-NP1 of_B-PP1 Super_B-NP Bowl_I-NP XXXV_I-NP1 COMMA_O will_O the_B-NP network_I-NP1 someday_B-ADVP1 show_B-VP1 the_B-NP first_I-NP episode_I-NP1 of_B-PP1 ``_O Survivor_B-NP XXXV_I-NP1 '_B-NP1 '_O after_B-PP1 its_B-NP broadcast_I-NP1 of_B-PP1 Super_B-NP Bowl_I-NP LXVIII_I-NP1 ?_O
+
+__B-NP1 Will_B-VP cheerful_I-VP1 chorus_B-NP members_I-NP1 dressed_B-VP1 in_B-PP1 V-neck_B-NP sweaters_I-NP1 interrupt_B-VP1 their_B-NP serenades_I-NP1 to_B-VP online_I-VP shopping_I-VP1 long_B-ADVP enough_I-ADVP1 to_B-VP tell_I-VP1 an_B-NP advertising_I-NP columnist_I-NP1 COMMA_O ``_O You_B-NP1 ask_B-VP1 a_B-NP lot_I-NP1 of_B-PP1 questions_B-NP1 for_B-PP1 someone_B-NP1 from_B-PP1 Brooklyn_B-NP1 ''_O ?_O
+
+NYT-11-23-00_B-NP 1717EST_I-NP1
+

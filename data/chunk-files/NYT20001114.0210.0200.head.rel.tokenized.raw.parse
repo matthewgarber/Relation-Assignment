@@ -1,0 +1,122 @@
+NYT20001114.0210.0200_B-NP NEWS_I-NP STORY_I-NP1 2000-11-14_B-NP 15:53:00_I-NP1
+
+A8685_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP d_I-NP BC-SIMPLE-COOKING-NYT_I-NP &LR_I-NP1 ;_O 11-14_B-NP 0619_I-NP1
+
+BC-SIMPLE-COOKING-NYT_B-NP1
+
+PUDDING_B-NP1 COMMA_O SWEET_B-ADJP1 AND_O NOT_B-ADJP1
+
+&UR_B-NP1 ;_O By_B-NP MARK_I-NP HULBERT_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP N.Y_I-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O
+
+NEW_B-NP YORK_I-NP __I-NP Bread_I-NP pudding_I-NP1 is_B-VP1 one_B-NP1 of_B-PP1 the_B-NP most_I-NP traditional_I-NP American_I-NP dishes_I-NP1 ;_O cookbooks_B-NP1 from_B-PP1 the_B-NP 18th_I-NP century_I-NP1 have_B-VP1 recipes_B-NP1 for_B-PP1 it_B-NP1 that_B-NP1 are_B-VP1 more_B-ADVP or_I-ADVP less_I-ADVP1 the_B-NP same_I-NP1 as_B-PP1 what_B-NP1 we_B-NP1 make_B-VP1 today_B-NP1 ._O
+
+But_O bread_B-NP pudding_I-NP1 is_B-VP1 also_B-ADVP1 a_B-NP minimalist_I-NP sort_I-NP1 of_B-PP1 dish_B-NP1 COMMA_O no_B-NP more_I-NP than_I-NP dry_I-NP bread_I-NP1 mixed_B-VP1 together_B-PRT1 with_B-PP1 milk_B-UCP and_I-UCP eggs_I-UCP1 and_O whatever_B-NP flavor_I-NP1 strikes_B-VP1 the_B-NP cook_I-NP1 COMMA_O and_O then_O baked_B-ADJP1 until_B-SBAR1 it_B-NP1 is_B-VP1 rich_B-ADJP and_I-ADJP custardy_I-ADJP1 ._O
+
+It_B-NP1 can_B-VP be_I-VP1 savory_B-ADJP or_I-ADJP sweet_I-ADJP1 COMMA_O and_O either_B-NP1 makes_B-VP1 a_B-NP simple_I-NP COMMA_I-NP interesting_I-NP substitute_I-NP1 for_B-PP1 a_B-NP standard_I-NP part_I-NP1 of_B-PP1 the_B-NP Thanksgiving_I-NP meal_I-NP1 ._O
+
+Savory_B-NP bread_I-NP pudding_I-NP1 is_B-VP1 a_B-NP luxurious_I-NP side_I-NP dish_I-NP1 that_B-NP1 can_B-VP be_I-VP served_I-VP1 in_B-PP1 place_B-NP1 of_B-PP1 stuffing_B-NP1 ._O
+
+Or_O it_B-NP1 can_B-VP be_I-VP1 the_B-NP extra_I-NP stuffing_I-NP1 that_B-SBAR1 everyone_B-NP1 always_B-ADVP1 wants_B-VP1 (_O but_O not_O dry_B-ADJP1 like_B-SBAR1 the_B-NP usual_I-NP kind_I-NP1 baked_B-PP outside_I-PP1 a_B-NP turkey_I-NP1 can_B-VP be_I-VP1 )_O ._O
+
+My_B-NP basic_I-NP recipe_I-NP1 combines_B-VP1 the_B-NP cubed_I-NP bread_I-NP COMMA_I-NP eggs_I-NP and_I-NP milk_I-NP1 with_B-PP1 a_B-NP couple_I-NP1 of_B-PP1 cheeses_B-NP1 ._O
+
+(_O If_B-SBAR1 you_B-NP1 're_B-VP1 desperate_B-ADJP1 for_B-PP1 oven_B-NP space_I-NP1 COMMA_O bake_B-VP1 it_B-NP1 and_O then_O heat_B-VP1 it_B-NP1 just_B-ADVP1 before_B-PP1 serving_B-NP1 COMMA_O or_O serve_B-VP1 it_B-NP1 at_B-PP1 room_B-NP temperature_I-NP1 ._O )_O You_B-NP1 can_B-VP make_I-VP1 it_B-NP1 without_B-PP1 the_B-NP mushrooms_I-NP1 COMMA_O too_B-ADVP1 ._O
+
+The_B-NP pudding_I-NP1 can_B-VP also_I-VP be_I-VP varied_I-VP1 by_B-PP1 adding_B-VP1 a_B-NP pinch_I-NP1 of_B-PP1 thyme_B-NP or_I-NP sage_I-NP1 COMMA_O chopped_B-VP1 nuts_B-NP1 or_O cooked_B-VP1 chestnuts_B-NP1 COMMA_B-NP or_I-NP about_I-NP1 a_B-NP cup_I-NP1 of_B-PP1 grated_B-NP sweet_I-NP potato_I-NP or_I-NP chopped_I-NP scallions_I-NP1 ._O
+
+If_B-SBAR1 you_B-NP1 want_B-VP1 a_B-NP pudding_I-NP1 that_B-NP1 tastes_B-VP1 more_B-PP like_I-PP1 stuffing_B-VP1 COMMA_O just_B-ADVP1 add_B-VP1 chopped_B-NP celery_I-NP COMMA_I-NP onions_I-NP COMMA_I-NP carrots_I-NP and_I-NP herbs_I-NP1 ._O
+
+Sweet_B-NP bread_I-NP pudding_I-NP1 is_B-VP made_I-VP1 the_B-NP same_I-NP way_I-NP1 COMMA_O but_O with_B-PP1 fewer_B-NP ingredients_I-NP1 ._O
+
+I_B-NP1 use_B-VP1 maple_B-NP syrup_I-NP1 instead_B-CONJP of_I-CONJP1 sugar_B-NP1 for_B-PP1 the_B-NP extra_I-NP flavor_I-NP and_I-NP moisture_I-NP1 ._O
+
+You_B-NP1 can_B-VP add_I-VP1 more_B-NP spices_I-NP1 COMMA_O including_B-PP1 a_B-NP small_I-NP grating_I-NP1 of_B-PP1 nutmeg_B-NP1 COMMA_O chopped_B-NP crystallized_I-NP ginger_I-NP1 COMMA_O raisins_B-NP1 or_O prunes_B-NP1 soaked_B-VP1 in_B-PP1 Armagnac_B-NP1 ._O
+
+The_B-NP kind_I-NP1 of_B-PP1 bread_B-NP1 you_B-NP1 choose_B-VP1 makes_B-VP1 a_B-NP difference_I-NP1 ._O
+
+Fluffy_B-NP packaged_I-NP white_I-NP bread_I-NP1 disappears_B-VP1 ;_O the_B-NP crusts_I-NP1 of_B-PP1 crisp_B-NP baguettes_I-NP1 and_O peasant_B-NP breads_I-NP1 never_B-ADVP1 become_B-VP1 tender_B-ADJP1 ._O
+
+For_B-PP1 savory_B-NP pudding_I-NP1 COMMA_O stick_B-VP1 to_B-PP1 long_B-NP COMMA_I-NP wide_I-NP inexpensive_I-NP loaves_I-NP1 COMMA_O usually_B-VP called_I-VP1 Italian_B-NP bread_I-NP1 ;_O for_B-PP1 sweet_B-NP pudding_I-NP1 COMMA_O stale_B-NP hallah_I-NP1 is_B-VP1 best_B-ADJP1 ._O
+
+And_O make_B-VP1 sure_B-ADJP1 the_B-NP bread_I-NP1 is_B-VP thoroughly_I-VP and_I-VP evenly_I-VP soaked_I-VP1 before_B-SBAR1 it_B-NP1 's_B-VP1 baked_B-ADJP1 ;_O I_B-NP1 like_B-VP1 to_B-VP submerge_I-VP1 the_B-NP bread_I-NP1 with_B-PP1 a_B-NP weighted_I-NP plate_I-NP1 before_B-PP1 baking_B-VP1 ._O
+
+Then_B-ADVP1 you_B-NP1 do_B-VP n't_I-VP even_I-VP have_I-VP1 to_B-VP stir_I-VP1 ._O
+
+&UR_B-NP1 ;_O SWEET_B-NP BREAD_I-NP PUDDING_I-NP1 &LR_B-NP1 ;_O
+
+&UR_B-NP1 ;_O Time_B-NP1 :_O 1_B-NP hour_I-NP1 COMMA_O largely_B-NP unattended_I-NP &LR_I-NP1 ;_O
+
+4_B-NP tablespoons_I-NP butter_I-NP1
+
+6_B-NP cups_I-NP1 white_B-NP bread_I-NP1 COMMA_O cut_B-VP or_I-VP torn_I-VP1 into_B-PP1 1-inch_B-NP chunks_I-NP1
+
+2_B-ADJP cups_I-ADJP half-and-half_I-ADJP1
+
+4_B-NP eggs_I-NP1
+
+}_O cup_B-NP maple_I-NP syrup_I-NP or_I-NP sugar_I-NP1
+
+{_B-NP teaspoon_I-NP cinnamon_I-NP1
+
+Pinch_B-VP1 salt_B-NP1 ._O
+
+1_B-NP1 ._O
+
+Butter_B-VP1 an_B-NP 8-inch_I-NP souffle_I-NP1 or_O baking_B-VP1 dish_B-NP1 COMMA_O and_O add_B-VP1 bread_B-NP1 ._O
+
+Cut_B-VP1 remaining_B-NP butter_I-NP1 into_B-PP1 bits_B-NP1 COMMA_O and_O combine_B-VP1 with_B-PP1 all_B-NP other_I-NP ingredients_I-NP1 ;_O pour_B-VP1 over_B-PRT1 bread_B-NP1 ._O
+
+Submerge_B-VP1 bread_B-NP1 with_B-PP1 weighted_B-NP plate_I-NP1 COMMA_O and_O turn_B-VP1 oven_B-NP to_I-NP 350_I-NP degrees_I-NP1 ._O
+
+2_B-NP1 ._O
+
+When_B-ADVP1 oven_B-NP1 is_B-VP1 hot_B-ADJP1 COMMA_O remove_B-VP1 the_B-NP plate_I-NP1 and_O bake_B-VP1 until_B-SBAR1 pudding_B-NP1 is_B-VP just_I-VP set_I-VP1 COMMA_O 35_B-NP to_I-NP 45_I-NP minutes_I-NP1 ._O
+
+Serve_B-VP1 with_B-PP or_I-PP without_I-PP1 whipped_B-NP cream_I-NP1 ._O
+
+Yield_B-NP1 :_O 6_B-NP or_I-NP more_I-NP servings_I-NP1 ._O
+
+Variation_B-NP1 :_O To_B-VP make_I-VP1 chocolate_B-NP bread_I-NP pudding_I-NP1 COMMA_O melt_B-VP1 2_B-NP ounces_I-NP1 chopped_B-VP1 bittersweet_B-NP chocolate_I-NP1 in_B-PP1 the_B-NP milk_I-NP1 COMMA_O let_B-VP1 cool_B-VP1 slightly_B-ADVP1 and_O add_B-VP1 to_B-PP1 mixture_B-NP1 ._O
+
+&UR_B-NP1 ;_O SAVORY_B-NP BREAD_I-NP PUDDING_I-NP1 &LR_B-NP1 ;_O
+
+&UR_B-NP1 ;_O Time_B-NP1 :_O 1_B-NP hour_I-NP1 COMMA_O largely_B-NP unattended_I-NP &LR_I-NP1 ;_O
+
+2_B-NP tablespoons_I-NP butter_I-NP1 or_O olive_B-NP oil_I-NP1 COMMA_O plus_B-PP1 more_B-NP1 for_B-PP1 greasing_B-VP1 the_B-NP pan_I-NP1
+
+6_B-NP cups_I-NP1 dense_B-ADJP white_I-ADJP bread_I-ADJP1 COMMA_O cut_B-VP or_I-VP torn_I-VP1 into_B-PP1 1-inch_B-NP chunks_I-NP1
+
+2_B-NP cups_I-NP milk_I-NP1
+
+4_B-NP eggs_I-NP1
+
+Salt_B-NP1 and_O fresh_B-NP black_I-NP pepper_I-NP1
+
+2_B-NP ounces_I-NP1 grated_B-VP1 Parmesan_B-NP1
+
+4_B-NP ounces_I-NP freshly_I-NP1 grated_B-VP1 semisoft_B-NP cheese_I-NP1 COMMA_O like_B-PP1 Emmenthal_B-NP1
+
+1_B-NP cup_I-NP1 sliced_B-VP1 shiitake_B-NP mushroom_I-NP caps_I-NP1 ._O
+
+1_B-NP1 ._O
+
+Butter_B-NP or_I-NP oil_I-NP1 an_B-NP 8-inch_I-NP souffle_I-NP or_I-NP baking_I-NP dish_I-NP1 COMMA_O and_O put_B-VP1 bread_B-NP1 in_B-PP1 it_B-NP1 ._O
+
+Combine_B-VP1 everything_B-NP1 but_B-PP1 shiitakes_B-NP1 COMMA_O and_O pour_B-VP1 over_B-PRT1 bread_B-NP1 ._O
+
+Submerge_B-VP1 bread_B-NP1 with_B-PP1 a_B-NP weighted_I-NP plate_I-NP1 COMMA_O and_O turn_B-VP1 oven_B-NP to_I-NP 350_I-NP degrees_I-NP1 ._O
+
+Heat_B-VP1 2_B-NP tablespoons_I-NP butter_I-NP1 or_O oil_B-NP1 in_B-PP1 a_B-NP saute_I-NP1 pan_B-VP1 COMMA_O add_B-VP1 shiitakes_B-NP1 and_O saute_B-VP1 until_B-PP1 tender_B-NP COMMA_I-NP about_I-NP 10_I-NP minutes_I-NP1 ._O
+
+2_B-NP1 ._O
+
+Remove_B-VP1 plate_B-NP1 COMMA_O and_O stir_B-VP1 in_B-PP1 mushrooms_B-NP1 ._O
+
+Bake_B-VP1 until_B-SBAR1 pudding_B-NP1 is_B-VP just_I-VP set_I-VP1 COMMA_O 35_B-NP to_I-NP 45_I-NP minutes_I-NP1 ._O
+
+Yield_B-NP1 :_O At_B-NP least_I-NP 6_I-NP servings_I-NP1 ._O
+
+NYT-11-14-00_B-NP 1553EST_I-NP1
+

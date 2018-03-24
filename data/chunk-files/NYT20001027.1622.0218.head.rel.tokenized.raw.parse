@@ -1,0 +1,44 @@
+NYT20001027.1622.0218_B-NP NEWS_I-NP STORY_I-NP1 2000-10-27_B-NP 16:29:10_I-NP1
+
+A8589_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP f_I-NP BC-MICROSOFT-THEFT-NYT_I-NP &LR_I-NP1 ;_O 10-27_B-NP 0437_I-NP1
+
+BC-MICROSOFT-THEFT-NYT_B-NP1
+
+MICROSOFT_B-NP1 SAYS_B-VP1 HACKERS_B-NP1 VIEWED_B-VP1 SOURCE_B-NP CODES_I-NP1
+
+&UR_B-NP1 ;_O By_B-NP JOHN_I-NP MARKOFF_I-NP and_I-NP JOHN_I-NP SCHWARTZ_I-NP1 &LR_B-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP N.Y_I-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O
+
+Computer_B-NP intruders_I-NP1 broke_B-VP1 into_B-PP1 Microsoft_B-NP Corp._I-NP1 and_O were_B-VP1 able_B-ADJP1 to_B-VP view_I-VP1 some_B-NP1 of_B-PP1 the_B-NP company_I-NP1 's_B-NP source_I-NP code_I-NP1 COMMA_O the_B-NP basic_I-NP program_I-NP instructions_I-NP1 COMMA_O for_B-PP1 a_B-NP future_I-NP software_I-NP product_I-NP1 COMMA_O the_B-NP company_I-NP1 said_B-VP1 Friday_B-NP1 ._O
+
+But_O the_B-NP unknown_I-NP culprits_I-NP1 COMMA_O who_B-NP1 had_B-VP1 access_B-NP1 to_B-PP1 some_B-NP1 of_B-PP1 the_B-NP company_I-NP1 's_B-NP computers_I-NP1 for_B-PP1 an_B-NP undetermined_I-NP period_I-NP1 COMMA_O were_B-VP1 not_O able_B-ADJP1 to_B-VP view_I-VP or_I-VP steal_I-VP1 the_B-NP company_I-NP1 's_B-NP crucial_I-NP source_I-NP code_I-NP1 for_B-PP1 its_B-NP Windows_I-NP or_I-NP Office_I-NP software_I-NP1 COMMA_O a_B-NP company_I-NP spokesman_I-NP1 said_B-VP1 Friday_B-NP afternoon_I-NP1 ._O
+
+``_O The_B-NP situation_I-NP1 appears_B-VP1 to_B-VP be_I-VP1 narrower_B-ADJP1 than_B-SBAR1 originally_B-ADVP1 thought_B-VP1 COMMA_O ''_O said_B-VP1 the_B-NP spokesman_I-NP1 COMMA_O Mark_B-NP Murray_I-NP1 ._O
+
+``_O The_B-NP investigation_I-NP1 shows_B-VP1 no_B-NP evidence_I-NP1 that_B-SBAR1 the_B-NP intruder_I-NP1 gained_B-VP1 any_B-NP access_I-NP1 to_B-PP1 our_B-NP Windows_I-NP1 or_O Office_B-NP products_I-NP1 ._O ''_O
+
+The_B-NP company_I-NP1 said_B-VP1 Friday_B-NP1 that_B-SBAR1 it_B-NP1 had_B-VP contacted_I-VP1 the_B-NP FBI_I-NP1 to_B-VP help_I-VP1 track_B-VP1 the_B-NP perpetrators_I-NP1 ._O
+
+The_B-NP Wall_I-NP Street_I-NP Journal_I-NP1 said_B-VP1 the_B-NP break-in_I-NP1 was_B-VP discovered_I-VP1 on_B-PP1 Wednesday_B-NP1 and_O had_B-VP enabled_I-VP1 the_B-NP intruders_I-NP1 to_B-VP send_I-VP1 information_B-NP1 back_B-ADVP1 to_B-PP1 a_B-NP computer_I-NP address_I-NP1 in_B-PP1 Russia_B-NP1 ._O
+
+``_O We_B-NP1 've_B-VP received_I-VP1 information_B-NP1 from_B-PP1 Microsoft_B-NP1 that_B-SBAR1 we_B-NP1 are_B-VP evaluating_I-VP1 at_B-PP1 this_B-NP time_I-NP1 COMMA_O and_O it_B-NP1 's_B-VP1 premature_B-ADJP1 to_B-VP say_I-VP1 anything_B-NP1 else_B-ADJP1 COMMA_O ''_O said_B-VP1 Roberta_B-NP Burroughs_I-NP1 COMMA_O spokeswoman_B-NP1 for_B-PP1 the_B-NP Seattle_I-NP field_I-NP office_I-NP1 of_B-PP1 the_B-NP FBI_I-NP1 ._O
+
+Speaking_B-VP1 earlier_B-ADVP1 to_B-PP1 Microsoft_B-NP programmers_I-NP and_I-NP reporters_I-NP1 at_B-PP1 a_B-NP seminar_I-NP1 in_B-PP1 Stockholm_B-NP1 COMMA_O Sweden_B-NP1 COMMA_O Steven_B-NP Ballmer_I-NP1 COMMA_O the_B-NP company_I-NP1 's_B-NP chief_I-NP executive_I-NP1 COMMA_O said_B-VP1 COMMA_O ``_O It_B-NP1 is_B-VP1 clear_B-ADJP1 that_B-SBAR1 hackers_B-NP1 did_B-VP see_I-VP1 some_B-NP1 of_B-PP1 our_B-NP source_I-NP code_I-NP1 COMMA_O ''_O Reuters_B-NP and_I-NP The_I-NP Associated_I-NP Press_I-NP1 reported_B-VP1 ._O
+
+Ballmer_B-NP1 said_B-VP1 the_B-NP burglars_I-NP1 had_B-VP not_I-VP changed_I-VP1 any_B-NP software_I-NP1 COMMA_O allaying_B-VP1 fears_B-NP1 that_B-SBAR1 a_B-NP virus_I-NP1 might_B-VP be_I-VP hidden_I-VP1 inside_B-PP1 future_B-NP releases_I-NP1 of_B-PP1 Microsoft_B-NP products_I-NP1 ._O
+
+``_O I_B-NP1 can_B-VP assure_I-VP1 you_B-NP1 that_B-SBAR1 we_B-NP1 know_B-VP1 that_B-SBAR1 there_B-NP1 has_B-VP been_I-VP1 no_B-NP compromise_I-NP1 of_B-PP1 the_B-NP integrity_I-NP1 of_B-PP1 the_B-NP source_I-NP code_I-NP1 COMMA_O that_B-SBAR1 it_B-NP1 has_B-VP not_I-VP been_I-VP modified_I-VP or_I-VP tampered_I-VP1 with_B-PP1 in_B-PP1 any_B-NP way_I-NP1 COMMA_O ''_O he_B-NP1 added_B-VP1 ._O
+
+Microsoft_B-NP1 has_B-VP shared_I-VP1 some_B-NP1 of_B-PP1 the_B-NP source_I-NP code_I-NP1 with_B-PP1 partner_B-NP companies_I-NP1 COMMA_O but_O in_B-PP1 general_B-NP1 it_B-NP1 vigorously_B-VP guards_I-VP1 that_B-NP information_I-NP1 from_B-PP1 outsiders_B-NP1 ._O
+
+Other_B-NP operating_I-NP systems_I-NP1 COMMA_O which_B-NP1 compete_B-VP1 with_B-PP1 Microsoft_B-NP1 's_B-NP1 COMMA_O are_B-VP based_I-VP1 on_B-PP1 open_B-NP source_I-NP1 code_B-NP1 COMMA_O which_B-NP1 allows_B-VP1 anyone_B-NP1 to_B-VP read_I-VP COMMA_I-VP and_I-VP alter_I-VP1 COMMA_O the_B-NP underlying_I-NP code_I-NP1 ._O
+
+But_O Microsoft_B-NP1 has_B-VP rebuffed_I-VP1 requests_B-NP1 to_B-VP open_I-VP1 some_B-NP or_I-NP all_I-NP1 of_B-PP1 it_B-NP s_I-NP operating_I-NP code_I-NP1 to_B-PP1 the_B-NP public_I-NP1 COMMA_O arguing_B-VP1 that_B-SBAR1 this_B-NP1 would_B-VP hurt_I-VP1 it_B-NP1 s_B-VP1 business_B-NP1 and_O curtail_B-VP1 it_B-NP1 s_B-VP1 incentives_B-NP1 to_B-VP develop_I-VP1 new_B-NP products_I-NP1 ._O
+
+The_B-NP Wall_I-NP Street_I-NP Journal_I-NP1 's_B-NP Web_I-NP site_I-NP1 reported_B-VP1 Friday_B-NP1 that_B-SBAR1 hackers_B-NP1 gained_B-VP1 access_B-NP1 with_B-PP1 a_B-NP software_I-NP program_I-NP1 called_B-VP1 QAZ_B-NP Trojan_I-NP1 ._O
+
+That_B-NP program_I-NP1 could_B-VP have_I-VP infected_I-VP1 one_B-NP1 of_B-PP1 the_B-NP company_I-NP1 's_B-NP computers_I-NP1 COMMA_O allowing_B-VP1 the_B-NP hackers_I-NP1 to_B-VP use_I-VP1 other_B-NP programs_I-NP1 to_B-VP gain_I-VP1 access_B-NP1 to_B-PP1 Microsoft_B-NP1 's_B-NP internal_I-NP corporate_I-NP network_I-NP1 ._O
+
+NYT-10-27-00_B-NP 1629EDT_I-NP1
+

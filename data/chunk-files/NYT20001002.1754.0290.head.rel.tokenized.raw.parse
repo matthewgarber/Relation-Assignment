@@ -1,0 +1,68 @@
+NYT20001002.1754.0290_B-NP NEWS_I-NP STORY_I-NP1 2000-10-02_B-NP 18:00:00_I-NP1
+
+A9953_B-NP &Cx1f_I-NP1 ;_O sci-z_B-NP u_I-NP a_I-NP BC-SCI-JELLYFISH-GULF-AR_I-NP 10-02_I-NP 0724_I-NP1
+
+BC-SCI-JELLYFISH-GULF-ART-NYT_B-NP1
+
+JELLYFISH_B-NP DAMAGE_I-NP1 IN_B-PP1 GULF_B-NP1 IS_B-VP RAISING_I-VP1 CONCERN_B-NP1 FOR_B-PP1 AQUATIC_B-NP LIFE_I-NP1
+
+(_O ART_B-NP ADV_I-NP1 :_O Photo_B-NP NYT1_I-NP1 is_B-VP being_I-VP sent_I-VP1 to_B-PP1 NYT_B-NP photo_I-NP clients_I-NP1 ._O
+
+Nonsubscribers_B-NP1 can_B-VP purchase_I-VP1 one-time_B-NP rights_I-NP1 by_B-PP1 calling_B-VP1 888-603-1036_B-NP or_I-NP 888-346-9867_I-NP ._I-NP )_I-NP &QL_I-NP1 ;_O &UR_B-NP1 ;_O By_B-NP BEN_I-NP RAINES_I-NP1 &QC_B-NP1 ;_O &LR_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP1 N.Y_B-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &QC_I-NP1 ;_O &LR_B-NP1 ;_O &QL_B-NP1 ;_O
+
+Swarms_B-NP1 of_B-PP1 jellyfish_B-NP1 consumed_B-VP1 so_B-NP many_I-NP fish_I-NP eggs_I-NP and_I-NP larvae_I-NP1 in_B-PP1 the_B-NP Gulf_I-NP1 of_B-PP1 Mexico_B-NP1 this_B-NP summer_I-NP1 that_B-SBAR1 some_B-NP scientists_I-NP1 are_B-VP talking_I-VP1 about_B-PP1 the_B-NP potential_I-NP1 for_B-PP1 serious_B-NP future_I-NP threats_I-NP1 to_B-PP1 commercial_B-NP and_I-NP recreational_I-NP fisheries_I-NP1 in_B-PP1 the_B-NP northern_I-NP Gulf_I-NP1 ._O
+
+The_B-NP jellyfish_I-NP1 COMMA_O a_B-NP native_I-NP species_I-NP1 and_O an_B-NP invading_I-NP one_I-NP1 COMMA_O appeared_B-VP1 in_B-PP1 prime_B-NP spawning_I-NP areas_I-NP1 just_B-SBAR as_I-SBAR1 breeding_B-NP season_I-NP1 for_B-PP1 many_B-NP1 of_B-PP1 the_B-NP Gulf_I-NP1 's_B-NP1 most_B-ADJP important_I-ADJP1 species_B-NP1 kicked_B-VP1 into_B-PP1 high_B-NP gear_I-NP1 ._O
+
+According_B-PP1 to_B-PP1 the_B-NP National_I-NP Marine_I-NP Fisheries_I-NP Service_I-NP1 COMMA_O the_B-NP number_I-NP1 of_B-PP1 jellyfish_B-NP1 in_B-PP1 the_B-NP Gulf_I-NP1 has_B-VP been_I-VP rising_I-VP1 for_B-PP1 at_B-NP least_I-NP 13_I-NP years_I-NP1 ._O
+
+Scientists_B-NP1 say_B-VP1 the_B-NP jellyfish_I-NP1 are_B-VP exploiting_I-VP1 three_B-NP major_I-NP human_I-NP -induced_I-NP changes_I-NP1 in_B-PP1 the_B-NP environment_I-NP1 :_O thousands_B-NP1 of_B-PP1 oil_B-NP rigs_I-NP1 and_O artificial_B-NP reefs_I-NP1 established_B-VP1 to_B-VP attract_I-VP1 game_B-NP fish_I-NP1 have_B-VP greatly_I-VP increased_I-VP1 the_B-NP breeding_I-NP habitat_I-NP1 for_B-PP1 jellyfish_B-NP1 COMMA_O which_B-NP1 need_B-VP1 a_B-NP hard_I-NP surface_I-NP1 for_B-PP1 spawning_B-NP1 ;_O nitrogen_B-NP pollution_I-NP1 from_B-PP1 farm_B-NP runoff_I-NP and_I-NP industrial_I-NP sources_I-NP1 feeds_B-VP1 plankton_B-NP blooms_I-NP1 COMMA_O providing_B-VP1 extra_B-NP food_I-NP1 for_B-PP1 jellyfish_B-NP1 ;_O and_O commercial_B-NP fishermen_I-NP1 take_B-VP1 great_B-NP numbers_I-NP1 of_B-PP1 menhaden_B-NP1 COMMA_O a_B-NP soft-finned_I-NP COMMA_I-NP bony_I-NP fish_I-NP1 that_B-NP1 competes_B-VP1 with_B-PP1 jellyfish_B-NP1 for_B-PP1 the_B-NP plankton_I-NP1 ._O
+
+Dr._B-NP Monty_I-NP Graham_I-NP1 COMMA_O a_B-NP researcher_I-NP1 at_B-PP1 the_B-NP Dauphin_I-NP Island_I-NP Sea_I-NP Lab_I-NP1 in_B-PP1 Alabama_B-NP1 COMMA_O worries_B-VP1 that_B-SBAR1 with_B-NP all_I-NP these_I-NP advantages_I-NP1 jellyfish_B-VP1 cannot_B-NP help_I-NP1 but_O multiply_B-VP1 at_B-PP1 an_B-NP astonishing_I-NP rate_I-NP1 ._O
+
+Making_B-VP1 matters_B-NP1 much_B-ADJP worse_I-ADJP1 COMMA_O he_B-NP1 said_B-VP1 COMMA_O is_B-VP1 the_B-NP advent_I-NP1 of_B-PP1 Phyllorhiza_B-NP punctata_I-NP1 COMMA_O or_O Australian_B-NP spotted_I-NP jellyfish_I-NP1 ._O
+
+The_B-NP giant_I-NP species_I-NP1 COMMA_O previously_B-ADJP unreported_I-ADJP1 in_B-PP1 the_B-NP Gulf_I-NP1 COMMA_O is_B-VP1 a_B-NP 25-pound_I-NP bruiser_I-NP1 of_B-PP1 a_B-NP jellyfish_I-NP native_I-NP1 to_B-PP1 the_B-NP Pacific_I-NP1 ._O
+
+Some_B-NP time_I-NP1 ago_B-ADVP1 the_B-NP basketball-size_I-NP jellyfish_I-NP1 established_B-VP1 themselves_B-NP1 in_B-PP1 the_B-NP Caribbean_I-NP1 ._O
+
+This_B-NP summer_I-NP1 COMMA_O after_B-PP1 apparently_B-ADVP1 riding_B-VP1 ocean_B-NP currents_I-NP1 north_B-ADVP1 COMMA_O they_B-NP1 concentrated_B-VP1 themselves_B-NP1 in_B-PP1 the_B-NP passes_I-NP1 between_B-PP1 the_B-NP barrier_I-NP islands_I-NP1 that_B-NP1 separate_B-VP1 the_B-NP Mississippi_I-NP Sound_I-NP1 from_B-PP1 the_B-NP Gulf_I-NP1 of_B-PP1 Mexico_B-NP1 ._O
+
+The_B-NP Australian_I-NP jellyfish_I-NP1 have_B-VP now_I-VP mostly_I-VP died_I-VP1 off_B-PRT1 in_B-PP1 the_B-NP Gulf_I-NP1 ._O
+
+But_O fishery_B-NP scientists_I-NP1 worry_B-VP1 that_B-SBAR1 they_B-NP1 may_B-VP already_I-VP have_I-VP affected_I-VP1 next_B-NP year_I-NP1 's_B-NP fish_I-NP populations_I-NP1 ._O
+
+And_O scientists_B-NP1 say_B-VP1 the_B-NP animals_I-NP1 were_B-VP spawning_I-VP1 prodigiously_B-ADVP1 COMMA_O broadcasting_B-VP1 millions_B-NP1 of_B-PP1 their_B-NP own_I-NP eggs_I-NP1 as_B-SBAR1 they_B-NP1 ate_B-VP1 the_B-NP eggs_I-NP and_I-NP larvae_I-NP1 of_B-PP1 native_B-NP species_I-NP1 ._O
+
+Popular_B-NP sport_I-NP fish_I-NP1 COMMA_O including_B-PP1 redfish_B-NP1 COMMA_O speckled_B-NP trout_I-NP1 COMMA_O white_B-NP trout_I-NP1 and_O Spanish_B-NP mackerel_I-NP1 COMMA_O as_B-CONJP well_I-CONJP as_I-CONJP1 commercially_B-NP important_I-NP species_I-NP1 like_B-PP1 crabs_B-NP1 and_O menhaden_B-NP1 COMMA_O spawn_B-VP1 just_B-ADVP1 outside_B-PP1 the_B-NP barrier_I-NP islands_I-NP1 ._O
+
+This_B-NP year_I-NP1 COMMA_O their_B-NP eggs_I-NP and_I-NP larvae_I-NP1 had_B-VP1 to_B-VP drift_I-VP1 with_B-PP1 tidal_B-NP currents_I-NP1 through_B-PP1 the_B-NP jellyfish-choked_I-NP passes_I-NP1 to_B-VP reach_I-VP1 the_B-NP estuaries_I-NP1 that_B-NP1 serve_B-VP1 as_B-PP1 nurseries_B-NP1 for_B-PP1 the_B-NP baby_I-NP fish_I-NP1 ._O
+
+``_O These_B-NP things_I-NP1 are_B-VP1 incredibly_B-ADJP efficient_I-ADJP1 at_B-PP1 turning_B-VP1 the_B-NP water_I-NP1 over_B-PRT1 COMMA_O cleaning_B-VP1 it_B-NP1 of_B-PP1 everything_B-NP1 in_B-PP1 it_B-NP1 COMMA_O ''_O Graham_B-NP1 said_B-VP1 ._O
+
+``_O We_B-NP1 're_B-VP finding_I-VP1 them_B-NP1 with_B-PP1 200_B-NP fish_I-NP eggs_I-NP1 in_B-PP1 their_B-NP guts_I-NP1 ._O ''_O
+
+The_B-NP newcomers_I-NP1 had_B-VP1 a_B-NP frighteningly_I-NP effective_I-NP feeding_I-NP pattern_I-NP1 that_B-NP1 involved_B-VP1 swimming_B-PP1 to_B-PP1 the_B-NP surface_I-NP1 COMMA_O then_B-VP diving_I-VP1 down_B-PRT1 to_B-PP1 the_B-NP bottom_I-NP1 COMMA_O scouring_B-VP1 the_B-NP water_I-NP1 of_B-PP1 virtually_B-NP every_I-NP living_I-NP thing_I-NP1 smaller_B-ADJP1 than_B-PP1 a_B-NP BB_I-NP pellet_I-NP1 ._O
+
+After_B-PP1 flowing_B-VP1 through_B-PP1 the_B-NP jellyfish_I-NP gantlet_I-NP1 COMMA_O scientists_B-NP1 said_B-VP1 COMMA_O the_B-NP water_I-NP1 was_B-VP1 almost_B-ADJP devoid_I-ADJP1 of_B-PP1 living_B-NP things_I-NP1 ._O
+
+``_O You_B-NP1 really_B-ADVP1 have_B-VP1 two_B-NP problems_I-NP1 in_B-PP1 terms_B-NP1 of_B-PP1 commercially_B-NP important_I-NP fish_I-NP1 COMMA_O ''_O said_B-VP1 Harriet_B-NP M._I-NP Perry_I-NP1 COMMA_O director_B-NP1 of_B-PP1 the_B-NP fisheries_I-NP section_I-NP1 of_B-PP1 the_B-NP Gulf_I-NP Coast_I-NP Research_I-NP Laboratory_I-NP1 in_B-PP1 Mississippi_B-NP1 ._O
+
+``_O First_B-NP the_I-NP jellies_I-NP1 are_B-VP ingesting_I-VP1 the_B-NP larvae_I-NP and_I-NP eggs_I-NP1 of_B-PP1 these_B-NP commercially_I-NP important_I-NP species_I-NP1 COMMA_O and_O then_B-ADVP1 the_B-NP fish_I-NP larvae_I-NP1 must_B-VP compete_I-VP1 with_B-PP1 these_B-NP incredibly_I-NP efficient_I-NP jellies_I-NP1 for_B-PP1 the_B-NP same_I-NP food_I-NP source_I-NP1 ._O ''_O
+
+Perry_B-NP1 said_B-VP1 she_B-NP1 worried_B-VP1 that_B-SBAR1 the_B-NP Phyllorhiza_I-NP1 might_B-VP become_I-VP1 permanent_B-NP residents_I-NP1 ._O
+
+Graham_B-NP1 said_B-VP1 he_B-NP1 feared_B-VP1 that_B-SBAR1 their_B-NP offspring_I-NP1 might_B-VP appear_I-VP1 in_B-PP1 larger_B-NP numbers_I-NP1 next_B-NP spring_I-NP1 ._O
+
+He_B-NP1 noted_B-VP1 COMMA_O though_B-ADVP1 COMMA_O that_B-SBAR1 the_B-NP newcomers_I-NP1 represented_B-VP1 a_B-NP small_I-NP threat_I-NP1 compared_B-PP1 with_B-PP1 the_B-NP monstrous_I-NP herds_I-NP1 of_B-PP1 native_B-NP moon_I-NP jellyfish_I-NP1 still_B-VP swarming_I-VP1 offshore_B-ADVP1 below_B-PP1 Alabama_B-NP COMMA_I-NP Mississippi_I-NP and_I-NP Louisiana_I-NP1 in_B-PP1 a_B-NP huge_I-NP swath_I-NP roughly_I-NP1 100_B-NP miles_I-NP1 long_B-ADJP1 and_O 30_B-NP miles_I-NP1 wide_B-ADJP1 ._O
+
+It_B-NP1 is_B-VP1 these_B-NP1 jellyfish_B-VP that_I-VP worry_I-VP1 Dr._B-NP Joanne_I-NP Lyczkowski-Shultz_I-NP1 COMMA_O a_B-NP larval_I-NP specialist_I-NP1 with_B-PP1 the_B-NP National_I-NP Marine_I-NP Fisheries_I-NP Service_I-NP1 ._O
+
+Lyczkowski-Shultz_B-NP1 said_B-VP1 the_B-NP long-term_I-NP picture_I-NP1 might_B-VP be_I-VP1 bleak_B-ADJP1 if_B-SBAR1 the_B-NP jellyfish_I-NP populations_I-NP1 continued_B-VP1 to_B-VP grow_I-VP1 at_B-PP1 their_B-NP current_I-NP pace_I-NP1 ._O
+
+``_O It_B-NP1 could_B-VP be_I-VP1 totally_B-ADJP devastating_I-ADJP1 COMMA_O ''_O she_B-NP1 said_B-VP1 ._O
+
+NYT-10-02-00_B-NP 1800EDT_I-NP1
+

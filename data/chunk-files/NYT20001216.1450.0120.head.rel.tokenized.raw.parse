@@ -1,0 +1,56 @@
+NYT20001216.1450.0120_B-NP NEWS_I-NP STORY_I-NP1 2000-12-16_B-NP 15:24:00_I-NP1
+
+A2255_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP a_I-NP BC-EXP-AMBULANCE-UNWANTE_I-NP 12-16_I-NP 0486_I-NP1
+
+BC-EXP-AMBULANCE-UNWANTED-NYT_B-NP1
+
+AS_B-SBAR1 HOSPITAL_B-NP CROWDING_I-NP1 GROWS_B-VP1 COMMA_O EMERGENCY_B-NP CARE_I-NP1 SUFFERS_B-VP1
+
+&UR_B-NP1 ;_O By_B-NP CAREY_I-NP1 GOLDBERG_B-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP N.Y_I-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &QC_I-NP1 ;_O &LR_B-NP1 ;_O &QL_B-NP1 ;_O
+
+BOSTON_B-NP __I-NP Michael_I-NP McNamara_I-NP1 's_B-NP ambulance_I-NP1 took_B-VP1 the_B-NP call_I-NP1 :_O an_B-NP 89-year-old_I-NP woman_I-NP1 with_B-PP1 cancer_B-NP1 COMMA_O abdominal_B-NP pain_I-NP1 COMMA_O possibly_B-NP a_I-NP broken_I-NP hip_I-NP1 after_B-PP1 a_B-NP fall_I-NP1 ._O
+
+Normally_B-ADVP1 COMMA_O McNamara_B-NP1 COMMA_O an_B-NP emergency_I-NP medical_I-NP technician_I-NP1 COMMA_O would_B-VP have_I-VP taken_I-VP1 her_B-NP1 to_B-PP1 Massachusetts_B-NP General_I-NP Hospital_I-NP1 COMMA_O to_B-PP1 the_B-NP doctors_I-NP1 who_B-NP1 care_B-VP1 for_B-PP1 her_B-NP1 ._O
+
+But_O COMMA_O he_B-NP1 had_B-VP1 to_B-VP tell_I-VP1 her_B-NP1 COMMA_O the_B-NP hospital_I-NP1 was_B-VP turning_I-VP1 down_B-PRT1 ambulances_B-NP1 at_B-PP1 the_B-NP moment_I-NP1 ._O
+
+He_B-NP1 had_B-VP told_I-VP1 several_B-NP other_I-NP patients_I-NP1 the_B-NP same_I-NP thing_I-NP1 that_B-NP afternoon_I-NP1 COMMA_O he_B-NP1 said_B-VP1 ._O
+
+And_O similar_B-NP things_I-NP1 on_B-PP1 many_B-NP other_I-NP days_I-NP1 as_B-ADVP well_I-ADVP1 ._O
+
+This_B-NP year_I-NP1 COMMA_O Massachusetts_B-NP General_I-NP1 COMMA_O considered_B-VP1 one_B-NP1 of_B-PP1 the_B-NP country_I-NP1 's_B-NP best_I-NP hospitals_I-NP1 COMMA_O has_B-VP been_I-VP1 ``_O on_B-PP1 diversion_B-NP1 '_B-NP1 '_O for_B-PP1 about_B-NP 45_I-NP hours_I-NP1 every_B-NP week_I-NP1 ;_O and_O on_B-PP1 average_B-NP1 COMMA_O two_B-NP1 of_B-PP1 the_B-NP city_I-NP1 's_B-NP emergency_I-NP rooms_I-NP1 close_B-VP1 to_B-PP1 ambulances_B-NP1 at_B-PP1 some_B-NP point_I-NP1 every_B-NP day_I-NP1 ._O
+
+For_B-PP1 years_B-NP1 it_B-NP1 was_B-VP1 all_B-ADVP but_I-ADVP1 unheard_B-ADJP of_I-ADJP1 in_B-PP1 most_B-NP cities_I-NP1 for_B-SBAR1 a_B-NP hospital_I-NP1 to_B-VP regularly_I-VP hang_I-VP1 out_B-PRT1 a_O ``_O No_B-NP Vacancy_I-NP1 '_B-NP '_I-NP sign_I-NP1 for_B-PP1 ambulance_B-NP crews_I-NP1 ._O
+
+But_O in_B-PP1 recent_B-NP months_I-NP1 COMMA_O in_B-PP1 cities_B-NP1 from_B-PP1 Boston_B-NP1 to_B-PP1 San_B-NP Francisco_I-NP1 COMMA_O Phoenix_B-NP1 to_B-PP1 Denver_B-NP1 COMMA_O it_B-NP1 has_B-VP become_I-VP1 common_B-ADJP1 COMMA_O to_B-PP1 the_B-NP alarm_I-NP1 of_B-PP1 doctors_B-NP COMMA_I-NP paramedics_I-NP and_I-NP patients_I-NP1 ._O
+
+Now_B-ADVP1 some_B-NP1 are_B-VP worrying_I-VP1 openly_B-ADVP1 that_B-SBAR1 patient_B-NP care_I-NP1 is_B-VP suffering_I-VP1 because_B-PP of_I-PP1 the_B-NP extra_I-NP minutes_I-NP1 spent_B-VP1 in_B-PP1 ambulances_B-NP1 and_B-PP1 because_B-PP of_I-PP1 the_B-NP emergency-room_I-NP crowding_I-NP1 that_B-NP1 causes_B-VP1 the_B-NP diversions_I-NP1 in_B-PP1 the_B-NP first_I-NP place_I-NP1 ._O
+
+``_O Virtually_B-NP every_I-NP major_I-NP metropolitan_I-NP area_I-NP1 COMMA_O and_O many_B-NP rural_I-NP areas_I-NP1 COMMA_O are_B-VP struggling_I-VP1 with_B-PP1 this_B-NP issue_I-NP1 COMMA_O ''_O said_B-VP1 Dr_B-NP1 ._O
+
+Arthur_B-NP Kellermann_I-NP1 COMMA_O chairman_B-NP1 of_B-PP1 emergency_B-NP medicine_I-NP1 at_B-PP1 Emory_B-NP University_I-NP School_I-NP1 of_B-PP1 Medicine_B-NP1 ._O
+
+``_O They_B-NP1 're_B-VP seeing_I-VP1 eight_B-NP or_I-NP 10_I-NP or_I-NP 12_I-NP hospitals_I-NP1 in_B-PP1 a_B-NP major_I-NP urban_I-NP market_I-NP1 simultaneously_B-ADVP1 on_B-PP1 EMS_B-NP diversion_I-NP1 because_B-SBAR1 COMMA_O say_B-INTJ1 COMMA_O they_B-NP1 have_B-VP1 no_B-NP inpatient_I-NP beds_I-NP1 or_O critical_B-NP care_I-NP beds_I-NP1 ._O ''_O
+
+The_B-NP problem_I-NP1 COMMA_O Kellermann_B-NP1 and_O other_B-NP emergency_I-NP doctors_I-NP1 said_B-VP1 COMMA_O is_B-VP1 not_O only_B-ADVP1 the_B-NP crowding_I-NP1 of_B-PP1 the_B-NP emergency_I-NP rooms_I-NP1 themselves_B-NP1 ;_O it_B-NP1 is_B-VP1 also_B-ADVP1 the_B-NP crowding_I-NP1 of_B-PP1 acute-care_B-NP hospital_I-NP beds_I-NP1 in_B-PP1 general_B-ADJP1 ._O
+
+A_B-NP survey_I-NP1 this_B-NP year_I-NP1 of_B-PP1 more_B-NP than_I-NP 60_I-NP emergency_I-NP department_I-NP directors_I-NP1 by_B-PP1 the_B-NP Massachusetts_I-NP College_I-NP1 of_B-PP1 Emergency_B-NP Physicians_I-NP1 found_B-VP1 that_B-SBAR1 more_B-NP than_I-NP 80_I-NP percent_I-NP1 of_B-PP1 them_B-NP1 had_B-VP been_I-VP forced_I-VP1 to_B-VP divert_I-VP1 ambulances_B-NP1 and_O about_O 38_B-NP percent_I-NP1 said_B-VP1 they_B-NP1 had_B-VP seen_I-VP1 ``_B-NP adverse_I-NP outcomes_I-NP1 '_O '_O as_B-PP1 a_B-NP result_I-NP1 of_B-PP1 crowding_B-NP1 ._O
+
+But_O some_B-NP1 remain_B-VP1 cautious_B-ADJP1 about_B-PP1 declaring_B-VP1 a_B-NP crisis_I-NP1 COMMA_O among_B-PP1 them_B-NP Dr_I-NP1 ._O
+
+Dennis_B-NP S._I-NP O'_I-NP Leary_I-NP1 COMMA_O president_B-NP1 of_B-PP1 the_B-NP Joint_I-NP Commission_I-NP1 on_B-PP1 Accreditation_B-NP1 of_B-PP1 Healthcare_B-NP Organizations_I-NP1 COMMA_O an_B-NP agency_I-NP1 that_B-NP1 certifies_B-VP1 hospital_B-NP quality_I-NP1 COMMA_O who_B-NP1 has_B-VP said_I-VP1 the_B-NP system_I-NP1 would_B-VP ``_I-VP muddle_I-VP1 through_B-ADVP1 '_O '_B-VP1 the_B-NP problem_I-NP1 ._O
+
+In_B-PP1 a_B-NP telephone_I-NP interview_I-NP1 COMMA_O O'_B-NP Leary_I-NP1 said_B-VP1 that_B-SBAR1 it_B-NP1 still_B-ADVP1 needed_B-VP1 to_B-VP be_I-VP scientifically_I-VP proved_I-VP1 that_B-SBAR1 the_B-NP increased_I-NP diversions_I-NP1 were_B-VP1 a_B-NP trend_I-NP1 and_O not_B-NP the_I-NP kind_I-NP1 of_B-PP1 sporadic_B-ADJP1 surges_B-VP1 that_B-SBAR1 have_B-VP mysteriously_I-VP appeared_I-VP1 and_O disappeared_B-VP1 before_B-ADVP1 ._O
+
+Dr_B-INTJ1 ._O
+
+Alan_B-NP Woodward_I-NP1 COMMA_O chief_B-NP1 of_B-PP1 emergency_B-NP services_I-NP1 at_B-PP1 Emerson_B-NP Hospital_I-NP1 in_B-PP1 Concord_B-NP1 COMMA_O begged_B-VP1 to_B-VP differ_I-VP1 ._O
+
+``_O Muddling_B-VP1 costs_B-NP lives_I-NP1 COMMA_O ''_O he_B-NP1 said_B-VP1 ._O
+
+He_B-NP1 said_B-VP1 O'_B-NP Leary_I-NP1 ``_O is_B-VP1 unaware_B-ADJP1 of_B-PP1 the_B-NP problem_I-NP1 and_O the_B-NP magnitude_I-NP1 to_B-PP1 which_B-NP1 it_B-NP1 's_B-VP grown_I-VP1 ._O ''_O
+
+NYT-12-16-00_B-NP 1524EST_I-NP1
+

@@ -1,0 +1,80 @@
+NYT20001008.2100.0120_B-NP NEWS_I-NP STORY_I-NP1 2000-10-08_B-NP 21:13:00_I-NP1
+
+A7398_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP p_I-NP BC-GORE-ART-515&AMP_I-NP1 ;_O ADD-NYT_B-NP &LR_I-NP1 ;_O 10-08_B-NP 0816_I-NP1
+
+BC-GORE-ART-515&AMP_B-NP ;_I-NP ADD-NYT_I-NP1
+
+GORE_B-NP CAMP_I-NP1 PLANS_B-VP1 TO_B-VP ASSAIL_I-VP1 BUSH_B-NP1 'S_B-NP RECORD_I-NP1
+
+(_O ART_B-NP ADV_I-NP1 :_O Photo_B-NP NYT12_I-NP1 is_B-VP being_I-VP sent_I-VP1 to_B-PP1 NYT_B-NP photo_I-NP clients_I-NP1 ._O
+
+Nonsubscribers_B-NP1 can_B-VP purchase_I-VP1 one-time_B-NP rights_I-NP1 by_B-PP1 calling_B-VP1 888-603-1036_B-NP or_I-NP 888-346-9867_I-NP ._I-NP )_I-NP &QL_I-NP1 ;_O &UR_B-NP1 ;_O By_B-NP KEVIN_I-NP SACK_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP1 N.Y_B-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O
+
+LONGBOAT_B-NP KEY_I-NP1 COMMA_O Fla._B-NP __I-NP1 As_B-PP1 Vice_B-NP President_I-NP Al_I-NP Gore_I-NP1 fends_B-VP off_I-VP intensified_I-VP1 attacks_B-NP1 on_B-PP1 his_B-NP credibility_I-NP1 COMMA_O his_B-NP campaign_I-NP and_I-NP Democratic_I-NP surrogates_I-NP1 are_B-VP planning_I-VP1 a_B-NP multimedia_I-NP offensive_I-NP1 this_B-NP week_I-NP1 that_B-NP1 assails_B-VP1 Bush_B-NP1 for_B-PP1 his_B-NP record_I-NP1 in_B-PP1 Texas_B-NP1 and_O his_B-NP occasional_I-NP1 slips_B-VP1 of_B-PP1 the_B-NP tongue_I-NP1 COMMA_O Gore_B-NP aides_I-NP1 said_B-VP1 Sunday_B-NP1 ._O
+
+The_B-NP Democratic_I-NP strategy_I-NP1 calls_B-VP1 for_B-SBAR1 Gore_B-NP1 to_B-VP delegate_I-VP1 the_B-NP attacks_I-NP1 to_B-PP1 his_B-NP aides_I-NP1 so_B-SBAR1 he_B-NP1 can_B-VP maintain_I-VP1 his_B-NP pledge_I-NP1 to_B-VP remain_I-VP1 above_B-PP1 the_B-NP fray_I-NP1 ._O
+
+Indeed_B-ADVP1 COMMA_O even_B-SBAR as_I-SBAR1 his_B-NP aides_I-NP1 were_B-VP finalizing_I-VP1 plans_B-NP1 for_B-PP1 their_B-NP assault_I-NP1 COMMA_O Gore_B-NP1 discussed_B-VP1 his_B-NP education_I-NP proposals_I-NP1 on_B-PP1 Sunday_B-NP afternoon_I-NP1 with_B-PP1 teachers_B-NP COMMA_I-NP students_I-NP and_I-NP parents_I-NP1 during_B-PP1 a_B-NP photo_I-NP opportunity_I-NP1 at_B-PP1 his_B-NP residence_I-NP1 in_B-PP1 Washington_B-NP1 ._O
+
+He_B-NP1 then_B-ADVP1 flew_B-VP1 to_B-PP1 this_B-NP beach_I-NP resort_I-NP1 near_B-PP1 Sarasota_B-NP1 for_B-PP1 three_B-NP days_I-NP1 of_B-PP1 preparation_B-NP1 for_B-PP1 Wednesday_B-NP night_I-NP1 's_B-NP debate_I-NP1 with_B-PP1 Bush_B-NP1 in_B-PP1 Winston-Salem_B-NP1 COMMA_O N.C._B-NP1 COMMA_O the_B-NP second_I-NP1 of_B-PP1 their_B-NP three_I-NP scheduled_I-NP encounters_I-NP1 ._O
+
+But_O Gore_B-NP1 's_B-NP surrogates_I-NP1 COMMA_O including_B-PP1 his_B-NP running_I-NP mate_I-NP1 COMMA_O Sen._B-NP Joseph_I-NP Lieberman_I-NP1 COMMA_O and_O the_B-NP Democratic_I-NP National_I-NP Committee_I-NP1 's_B-NP national_I-NP chairman_I-NP1 COMMA_O Joe_B-NP Andrew_I-NP1 COMMA_O will_B-VP apparently_I-VP feel_I-VP1 little_B-NP such_I-NP restraint_I-NP1 ._O
+
+And_O Gore_B-NP1 's_B-NP press_I-NP secretary_I-NP1 COMMA_O Chris_B-NP Lehane_I-NP1 COMMA_O made_B-VP1 it_B-NP1 clear_B-ADJP1 in_B-PP1 an_B-NP interview_I-NP1 that_B-SBAR1 Gore_B-NP aides_I-NP1 do_B-VP not_I-VP feel_I-VP1 bound_B-ADJP1 by_B-PP1 their_B-NP candidate_I-NP1 's_B-NP pledge_I-NP1 ._O
+
+``_O The_B-NP governor_I-NP1 will_B-VP be_I-VP held_I-VP1 to_B-PP1 presidential_B-NP standards_I-NP1 when_B-ADVP1 it_B-NP1 comes_B-VP1 to_B-PP1 describing_B-VP1 his_B-NP policy_I-NP views_I-NP1 COMMA_O ''_O Lehane_B-NP1 said_B-VP1 ._O
+
+``_O Thus_B-ADVP far_I-ADVP1 COMMA_O he_B-NP1 has_B-VP not_I-VP met_I-VP1 the_B-NP Quayle_I-NP standard_I-NP1 ._O ''_O
+
+That_B-NP1 was_B-VP1 a_B-NP reference_I-NP1 to_B-PP1 former_B-NP Vice_I-NP President_I-NP Dan_I-NP Quayle_I-NP1 COMMA_O who_B-NP1 was_B-VP renowned_I-VP1 for_B-PP1 his_B-NP verbal_I-NP slips_I-NP1 while_B-SBAR1 serving_B-VP1 under_B-PP1 Bush_B-NP1 's_B-NP father_I-NP1 ._O
+
+Similarly_B-ADVP1 COMMA_O Mark_B-NP D._I-NP Fabiani_I-NP1 COMMA_O Gore_B-NP1 's_B-NP deputy_I-NP campaign_I-NP manager_I-NP1 COMMA_O told_B-VP1 CNN_B-NP1 's_B-NP ``_I-NP Late_I-NP Edition_I-NP1 '_O '_O Sunday_B-NP1 that_B-SBAR1 Bush_B-NP1 ``_B-VP was_I-VP1 incoherent_B-NP __I-NP1 he_B-NP1 was_B-VP1 babbling_B-ADJP1 '_O '_O in_B-PP1 trying_B-VP1 to_B-VP explain_I-VP1 his_B-NP own_I-NP tax-cut_I-NP proposal_I-NP1 at_B-PP1 a_B-NP Saturday_I-NP campaign_I-NP stop_I-NP1 in_B-PP1 Florida_B-NP1 ._O
+
+Gore_B-NP aides_I-NP1 said_B-VP1 the_B-NP campaign_I-NP1 had_B-VP long_I-VP planned_I-VP1 to_B-VP focus_I-VP1 attention_B-NP1 on_B-PP1 Bush_B-NP1 's_B-NP record_I-NP1 in_B-PP1 the_B-NP four_I-NP weeks_I-NP1 before_B-PP1 the_B-NP Nov_I-NP1 ._O
+
+7_B-NP election_I-NP1 ._O
+
+But_O the_B-NP timing_I-NP1 takes_B-VP1 on_B-PRT1 additional_B-NP significance_I-NP1 because_B-PP of_I-PP1 the_B-NP continuing_I-NP closeness_I-NP1 of_B-PP1 the_B-NP race_I-NP1 after_B-PP1 the_B-NP candidates_I-NP1 '_B-NP first_I-NP debate_I-NP1 last_B-NP week_I-NP1 and_B-PP1 because_B-PP of_I-PP1 the_B-NP Bush_I-NP campaign_I-NP1 's_B-NP efforts_I-NP1 to_B-VP label_I-VP1 Gore_B-NP1 as_B-PP1 a_B-NP ``_I-NP serial_I-NP exaggerator_I-NP1 ._O ''_O
+
+Those_B-NP words_I-NP1 were_B-VP used_I-VP1 Sunday_B-NP1 by_B-PP1 Bush_B-NP1 's_B-NP chief_I-NP strategist_I-NP1 COMMA_O Karl_B-NP Rove_I-NP1 COMMA_O in_B-PP1 an_B-NP interview_I-NP1 on_B-PP1 CNN_B-NP1 ._O
+
+The_B-NP new_I-NP Gore_I-NP offensive_I-NP1 will_B-VP include_I-VP1 Democratic_B-NP National_I-NP Committee_I-NP television_I-NP advertisements_I-NP1 about_B-PP1 Bush_B-NP1 's_B-NP record_I-NP1 on_B-PP1 health_B-NP care_I-NP1 and_O the_B-NP environment_I-NP1 ._O
+
+Several_B-NP advertisements_I-NP1 tailored_B-VP1 to_B-PP1 individual_B-NP cities_I-NP and_I-NP states_I-NP1 have_B-VP started_I-VP1 being_B-VP broadcast_I-VP1 in_B-PP1 selected_B-NP markets_I-NP1 in_B-PP1 recent_B-NP days_I-NP1 ._O
+
+In_B-PP1 environmentally_B-NP conscious_I-NP Seattle_I-NP1 COMMA_O for_B-PP1 instance_B-NP1 COMMA_O one_B-NP commercial_I-NP1 describes_B-VP1 the_B-NP smog_I-NP1 in_B-PP1 Houston_B-NP1 and_O implores_B-VP1 viewers_B-NP1 to_B-VP1 ``_O take_B-VP1 a_B-NP deep_I-NP breath_I-NP1 and_O imagine_B-VP1 Seattle_B-NP1 with_B-PP1 Bush_B-NP1 's_B-NP1 Texas_B-ADJP -style_I-ADJP1 environmental_B-NP regulation_I-NP1 ._O ''_O
+
+An_B-NP advertisement_I-NP1 being_B-VP shown_I-VP1 in_B-PP1 Iowa_B-NP1 compares_B-VP1 Texas_B-NP1 '_B-NP national_I-NP standing_I-NP1 in_B-PP1 health_B-NP care_I-NP1 and_B-PP1 in_B-PP1 student_B-NP test_I-NP scores_I-NP1 with_B-PP1 Iowa_B-NP1 's_B-NP higher_I-NP rankings_I-NP1 ._O
+
+In_B-PP1 addition_B-NP1 COMMA_O Lieberman_B-NP1 will_B-VP be_I-VP dispatched_I-VP1 to_B-PP1 Texas_B-NP1 for_B-PP1 a_B-NP ``_I-NP failed_I-NP leadership_I-NP tour_I-NP1 '_O '_O this_B-NP week_I-NP1 COMMA_O and_O Andrew_B-NP1 will_B-VP hold_I-VP1 a_B-NP news_I-NP conference_I-NP1 on_B-PP1 the_B-NP subject_I-NP1 here_B-ADVP1 on_B-PP1 Monday_B-NP1 ._O
+
+Other_B-NP surrogates_I-NP1 COMMA_O including_B-PP1 members_B-NP1 of_B-PP1 Congress_B-NP1 COMMA_O also_B-ADVP1 will_B-VP be_I-VP used_I-VP1 COMMA_O said_B-VP1 Douglas_B-NP Hattaway_I-NP1 COMMA_O a_B-NP Gore_I-NP spokesman_I-NP1 ._O
+
+(_O STORY_B-NP1 CAN_B-VP END_I-VP1 HERE_B-ADVP1 __B-VP1 OPTIONAL_B-NP MATERIAL_I-NP FOLLOWS_I-NP1 )_O
+
+This_B-NP1 is_B-VP1 not_O a_B-NP new_I-NP role_I-NP1 for_B-PP1 Lieberman_B-NP1 ._O
+
+He_B-NP1 traveled_B-VP1 to_B-PP1 Houston_B-NP1 in_B-PP1 late_B-NP September_I-NP1 to_B-VP attack_I-VP1 Bush_B-NP1 's_B-NP environmental_I-NP record_I-NP1 at_B-PP1 a_B-NP park_I-NP1 in_B-PP1 the_B-NP shadow_I-NP1 of_B-PP1 an_B-NP oil_I-NP refinery_I-NP1 ._O
+
+Lieberman_B-NP1 provided_B-VP1 a_B-NP preview_I-NP1 Sunday_B-NP1 by_B-PP1 faulting_B-VP1 Bush_B-NP1 's_B-NP1 environmental_B-UCP and_I-UCP health-care_I-UCP1 records_B-NP1 in_B-PP1 an_B-NP interview_I-NP1 on_B-PP1 CNN_B-NP1 ._O
+
+``_O The_B-NP fact_I-NP1 is_B-VP1 that_B-SBAR1 George_B-NP Bush_I-NP1 's_B-NP record_I-NP1 on_B-PP1 the_B-NP environment_I-NP1 in_B-PP1 Texas_B-NP1 is_B-VP1 horrible_B-ADJP1 COMMA_O ''_O he_B-NP1 said_B-VP1 ._O
+
+``_O They_B-NP1 have_B-VP1 most_B-ADVP toxically_I-ADVP1 polluted_B-NP air_I-NP1 in_B-PP1 America_B-NP1 ._O
+
+Houston_B-NP1 is_B-VP1 the_B-NP dirtiest_I-NP city_I-NP1 ._O
+
+Kids_B-NP1 in_B-PP1 Houston_B-NP1 do_B-VP n't_I-VP know_I-VP1 whether_B-SBAR1 they_B-NP1 can_B-VP go_I-VP1 out_B-PRT1 to_B-VP play_I-VP1 every_B-NP day_I-NP1 until_B-SBAR1 the_B-NP school_I-NP officials_I-NP1 or_O the_B-NP local_I-NP officials_I-NP1 check_B-VP1 the_B-NP air_I-NP quality_I-NP1 ._O ''_O
+
+In_B-PP1 addition_B-NP1 to_B-PP1 drawing_B-VP1 attention_B-NP1 to_B-PP1 Bush_B-NP1 's_B-NP record_I-NP1 on_B-PP1 health_B-NP care_I-NP1 and_O the_B-NP environment_I-NP1 COMMA_O the_B-NP Gore_I-NP surrogates_I-NP1 are_B-VP also_I-VP expected_I-VP1 to_B-VP discuss_I-VP1 Bush_B-NP1 's_B-NP approval_I-NP1 of_B-PP1 legislation_B-NP1 permitting_B-VP1 the_B-NP carrying_I-NP1 of_B-PP1 concealed_B-NP weapons_I-NP1 in_B-PP1 churches_B-NP1 COMMA_O hospitals_B-NP1 and_O nursing_B-NP homes_I-NP1 COMMA_O Gore_B-NP aides_I-NP1 said_B-VP1 ._O
+
+The_B-NP Gore_I-NP campaign_I-NP1 COMMA_O according_B-PP1 to_B-PP1 aides_B-NP1 COMMA_O will_B-VP issue_I-VP1 regular_B-NP press_I-NP releases_I-NP1 highlighting_B-VP1 Bush_B-NP1 's_B-NP tortured_I-NP syntax_I-NP1 and_O will_B-VP feature_I-VP1 recent_B-NP examples_I-NP1 on_B-PP1 its_B-NP Web_I-NP site_I-NP1 COMMA_O like_B-PP1 his_B-NP disjointed_I-NP description_I-NP1 of_B-PP1 his_B-NP tax_I-NP plan_I-NP1 on_B-PP1 Saturday_B-NP1 ._O
+
+The_B-NP Democratic_I-NP National_I-NP Committee_I-NP1 is_B-VP issuing_I-VP1 similar_B-NP releases_I-NP1 by_B-PP1 fax_B-NP and_I-NP e-mail_I-NP messages_I-NP1 COMMA_O called_B-VP1 ``_O Bush_B-NP Lite_I-NP1 COMMA_O ''_O said_B-VP1 Jennifer_B-NP Backus_I-NP1 COMMA_O a_B-NP party_I-NP spokeswoman_I-NP1 ._O
+
+Lehane_B-NP1 COMMA_O adopting_B-VP1 a_B-NP snippet_I-NP1 of_B-PP1 the_B-NP vulgar_I-NP phrase_I-NP1 that_B-SBAR1 Bush_B-NP1 used_B-VP1 to_B-VP describe_I-VP1 a_B-NP reporter_I-NP1 last_B-NP month_I-NP1 COMMA_O said_B-VP1 that_B-SBAR1 ``_O Bush_B-NP1 has_B-VP shown_I-VP1 a_B-NP consistent_I-NP pattern_I-NP1 of_B-PP1 making_B-VP1 major-league_B-NP mistakes_I-NP1 '_O '_B-VP1 when_B-ADVP1 trying_B-VP1 to_B-VP explain_I-VP1 his_B-NP policies_I-NP1 ._O
+
+NYT-10-08-00_B-NP 2113EDT_I-NP1
+

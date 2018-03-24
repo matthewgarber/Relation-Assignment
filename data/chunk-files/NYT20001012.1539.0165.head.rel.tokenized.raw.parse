@@ -1,0 +1,50 @@
+NYT20001012.1539.0165_B-NP NEWS_I-NP STORY_I-NP1 2000-10-12_B-NP 17:15:00_I-NP1
+
+A2301_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP u_I-NP f_I-NP BC-FUNDS-DISCLOSURE-NYT_I-NP &LR_I-NP1 ;_O 10-12_B-NP 0552_I-NP1
+
+BC-FUNDS-DISCLOSURE-NYT_B-NP1
+
+MORNINGSTAR_B-NP CEO_I-NP1 SAYS_B-VP1 SEC_B-NP1 LAGS_B-VP1 IN_B-PP1 DISCLOSURE_B-NP RULES_I-NP1 FOR_B-PP1 MUTUAL_B-NP1
+
+FUNDS_B-NP &LR_I-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O By_B-NP DANNY_I-NP HAKIM_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP N.Y_I-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O
+
+WASHINGTON_B-NP __I-NP Advocates_I-NP1 for_B-PP1 more_B-NP frequent_I-NP disclosure_I-NP1 of_B-PP1 what_B-NP1 mutual_B-NP funds_I-NP1 hold_B-VP1 in_B-PP1 their_B-NP portfolios_I-NP1 sparred_B-VP1 with_B-PP1 a_B-NP top_I-NP Securities_I-NP and_I-NP Exchange_I-NP Commission_I-NP1 official_B-NP Thursday_I-NP1 at_B-PP1 a_B-NP panel_I-NP1 sponsored_B-VP1 by_B-PP1 a_B-NP fund_I-NP shareholder_I-NP advocacy_I-NP group_I-NP1 ._O
+
+Donald_B-NP Phillips_I-NP1 COMMA_O chief_B-NP executive_I-NP1 of_B-PP1 Morningstar_B-NP Inc_I-NP1 ._O COMMA_O which_B-NP1 tracks_B-VP1 mutual_B-NP funds_I-NP1 COMMA_O said_B-VP1 that_B-SBAR1 Arthur_B-NP Levitt_I-NP1 COMMA_O the_B-NP chairman_I-NP1 of_B-PP1 the_B-NP SEC_I-NP1 COMMA_O had_B-VP1 a_B-NP double_I-NP standard_I-NP1 toward_B-PP1 stockholders_B-NP1 and_O mutual_B-NP fund_I-NP shareholders_I-NP1 ._O
+
+``_O He_B-NP1 's_B-VP1 brilliant_B-ADJP1 when_B-ADVP1 he_B-NP1 talks_B-VP1 about_B-PP1 stocks_B-NP1 COMMA_O ''_O said_B-VP1 Phillips_B-NP1 COMMA_O adding_B-VP1 COMMA_O ``_O when_B-ADVP1 it_B-NP1 turns_B-VP1 to_B-VP fund_I-VP1 issues_B-NP1 COMMA_O he_B-NP1 falls_B-VP1 into_B-PP1 patronizing_B-VP1 platitudes_B-NP1 about_B-PP1 fund_B-NP investing_I-NP1 ._O ''_O
+
+Levitt_B-NP1 and_O the_B-NP SEC_I-NP1 are_B-VP requiring_I-VP1 companies_B-NP1 to_B-VP disclose_I-VP1 material_B-NP information_I-NP1 to_B-PP1 the_B-NP public_I-NP1 at_B-PP1 the_B-NP same_I-NP time_I-NP1 that_B-NP1 they_B-NP1 tell_B-VP1 analysts_B-NP1 and_O institutional_B-NP investors_I-NP1 ._O
+
+The_B-NP new_I-NP measure_I-NP1 COMMA_O Regulation_B-NP FD_I-NP1 COMMA_O is_B-VP set_I-VP1 to_B-VP take_I-VP1 effect_B-NP1 later_B-NP this_I-NP month_I-NP1 ._O
+
+But_O Phillips_B-NP1 said_B-VP1 that_B-SBAR1 the_B-NP SEC_I-NP1 had_B-VP not_I-VP applied_I-VP1 similar_B-NP rules_I-NP1 to_B-PP1 the_B-NP $_I-NP 7_I-NP trillion_I-NP mutual_I-NP fund_I-NP industry_I-NP1 and_O that_B-SBAR1 the_B-NP SEC_I-NP1 should_B-VP press_I-VP1 the_B-NP industry_I-NP1 to_B-VP disclose_I-VP1 more_B-ADVP frequently_I-ADVP1 which_B-NP1 stocks_B-NP funds_I-NP1 hold_B-VP1 ._O
+
+Under_B-PP1 current_B-NP regulations_I-NP1 COMMA_O mutual_B-NP funds_I-NP1 are_B-VP required_I-VP1 to_B-VP disclose_I-VP1 their_B-NP full_I-NP holdings_I-NP1 to_B-PP1 the_B-NP SEC_I-NP1 twice_B-ADVP1 a_B-NP year_I-NP1 ._O
+
+Phillips_B-NP1 thinks_B-VP1 portfolios_B-NP1 should_B-VP be_I-VP disclosed_I-VP1 monthly_B-ADVP1 COMMA_O 90_B-NP days_I-NP1 after_B-PP1 the_B-NP end_I-NP1 of_B-PP1 each_B-NP month_I-NP1 ._O
+
+Paul_B-NP F._I-NP Roye_I-NP1 COMMA_O the_B-NP director_I-NP1 of_B-PP1 the_B-NP SEC_I-NP1 's_B-NP division_I-NP1 of_B-PP1 investment_B-NP management_I-NP1 COMMA_O said_B-VP1 he_B-NP1 ``_O had_B-VP1 to_B-VP do_I-VP1 a_B-NP bit_I-NP1 of_B-PP1 an_B-NP Al_I-NP Gore_I-NP1 '_B-NP '_I-NP1 and_O defend_B-VP1 his_B-NP boss_I-NP1 '_B-NP record_I-NP1 ._O
+
+``_O The_B-NP chairman_I-NP1 is_B-VP1 committed_B-ADJP1 to_B-PP1 protecting_B-VP1 investors_B-NP1 COMMA_O ''_O he_B-NP1 said_B-VP1 COMMA_O adding_B-VP1 that_B-SBAR1 it_B-NP1 was_B-VP1 ``_O an_B-NP overstatement_I-NP1 '_O '_O to_B-VP say_I-VP1 that_B-SBAR1 all_B-NP investors_I-NP1 wanted_B-VP1 more_B-NP frequent_I-NP disclosure_I-NP1 of_B-PP1 mutual_B-NP fund_I-NP portfolios_I-NP1 ._O
+
+``_O There_B-NP1 's_B-VP1 a_B-NP group_I-NP1 of_B-PP1 investors_B-NP1 that_B-NP1 want_B-VP1 more_B-NP information_I-NP1 COMMA_O and_O there_B-NP1 's_B-VP1 also_B-ADVP1 a_B-NP group_I-NP1 of_B-PP1 investors_B-NP1 who_B-NP1 say_B-VP1 they_B-NP1 are_B-VP inundated_I-VP1 with_B-PP1 information_B-NP1 COMMA_O ''_O Roye_B-NP1 said_B-VP1 ._O
+
+Roye_B-NP1 suggested_B-VP1 that_B-SBAR1 large_B-NP COMMA_I-NP closely_I-NP watched_I-NP funds_I-NP1 like_B-PP1 Fidelity_B-NP1 's_B-NP1 $_B-ADJP1 104_O billion_O flagship_B-NP Magellan_I-NP fund_I-NP1 might_B-VP have_I-VP1 difficulty_B-NP1 trading_B-VP1 in_B-ADVP and_I-ADVP out_I-ADVP1 of_B-PP1 positions_B-NP1 with_B-PP1 too_B-NP frequent_I-NP disclosure_I-NP1 and_O that_B-SBAR1 funds_B-NP1 like_B-PP1 Fidelity_B-NP1 's_B-NP1 $_B-ADJP1 104_O billion_O flagship_B-NP Magellan_I-NP fund_I-NP1 might_B-VP have_I-VP1 difficulty_B-NP1 trading_B-VP1 in_B-ADVP and_I-ADVP out_I-ADVP1 of_B-PP1 positions_B-NP1 with_B-PP1 too_B-NP frequent_I-NP disclosure_I-NP1 and_O that_B-SBAR1 there_B-NP1 were_B-VP1 higher_B-NP priorities_I-NP1 like_B-PP1 making_B-VP1 fund_B-NP prospectuses_I-NP1 easier_B-ADJP1 to_B-VP read_I-VP1 and_O toughening_B-VP1 regulation_B-NP1 of_B-PP1 schemes_B-NP1 to_B-VP manipulate_I-VP1 funds_B-NP1 before_B-SBAR1 they_B-NP1 report_B-VP1 their_B-NP quarterly_I-NP performance_I-NP figures_I-NP1 ._O
+
+Roye_B-NP1 also_B-ADVP1 said_B-VP1 that_B-SBAR1 his_B-NP division_I-NP1 would_B-VP propose_I-VP1 a_B-NP rule_I-NP1 requiring_B-VP1 mutual_B-NP funds_I-NP1 to_B-VP have_I-VP1 80_B-NP percent_I-NP1 of_B-PP1 their_B-NP portfolios_I-NP1 invested_B-VP1 in_B-PP1 the_B-NP style_I-NP1 COMMA_O asset_B-NP class_I-NP1 or_O region_B-NP1 indicated_B-VP1 by_B-PP1 the_B-NP name_I-NP1 of_B-PP1 the_B-NP fund_I-NP1 COMMA_O so_B-SBAR that_I-SBAR1 a_B-NP European_I-NP investment_I-NP fund_I-NP1 COMMA_O for_B-PP1 example_B-NP1 COMMA_O would_B-VP have_I-VP1 to_B-VP be_I-VP1 80_B-NP percent_I-NP1 invested_B-VP1 in_B-PP1 Europe_B-NP1 ._O
+
+The_B-NP current_I-NP requirement_I-NP1 is_B-VP1 65_B-NP percent_I-NP1 ._O
+
+The_B-NP panel_I-NP discussion_I-NP1 COMMA_O whose_B-NP focus_I-NP1 was_B-VP1 on_B-PP1 the_B-NP disclosure_I-NP issue_I-NP1 COMMA_O was_B-VP sponsored_I-VP1 by_B-PP1 Fund_B-NP Democracy_I-NP1 COMMA_O a_B-NP fund_I-NP shareholder_I-NP advocacy_I-NP group_I-NP1 founded_B-VP1 by_B-PP1 Mercer_B-NP Bullard_I-NP1 COMMA_O a_B-NP former_I-NP lawyer_I-NP1 for_B-PP1 the_B-NP SEC_I-NP1 's_B-NP enforcement_I-NP division_I-NP1 ._O
+
+Phillips_B-NP and_I-NP Harold_I-NP R._I-NP Evensky_I-NP1 COMMA_O a_B-NP financial_I-NP planner_I-NP1 COMMA_O repeatedly_B-ADVP1 criticized_B-VP1 the_B-NP SEC_I-NP1 's_B-NP emphasis_I-NP1 on_B-PP1 simplification_B-NP1 over_B-PP1 portfolio_B-NP disclosure_I-NP1 ._O
+
+``_O You_B-NP1 need_B-VP1 to_B-VP make_I-VP1 the_B-NP information_I-NP1 available_B-ADJP1 COMMA_O ''_O Evensky_B-NP1 said_B-VP1 ._O
+
+``_O Can_O you_B-NP1 imagine_B-VP1 a_B-NP corporation_I-NP1 just_B-VP issuing_I-VP1 a_B-NP simple_I-NP prospectus_I-NP1 because_B-SBAR1 the_B-NP financials_I-NP1 are_B-VP1 too_B-ADJP complicated_I-ADJP1 ?_O ''_O
+
+NYT-10-12-00_B-NP 1715EDT_I-NP1
+

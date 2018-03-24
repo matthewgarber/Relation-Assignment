@@ -1,0 +1,82 @@
+NYT20001020.2025.0304_B-NP NEWS_I-NP STORY_I-NP1 2000-10-20_B-NP 20:27:00_I-NP1
+
+A1398_B-NP &Cx1f_I-NP1 ;_O taf-z_B-NP s_I-NP1 f_B-NP1 BC-MIDEAST-STOCKS-_B-NP $_I-NP ADV22_I-NP 10-20_I-NP 0718_I-NP1
+
+BC-MIDEAST-STOCKS-_B-NP1 $_B-ADJP ADV22-NYT_I-ADJP1
+
+INVESTORS_B-NP1 FEEL_B-VP1 EFFECTS_B-NP1 OF_B-PP1 MIDEAST_B-NP VIOLENCE_I-NP1
+
+(_O For_B-PP1 release_B-NP1 Sunday_B-NP1 COMMA_O Oct_B-NP1 ._O
+
+22_B-NP )_I-NP &QL_I-NP1 ;_O &UR_B-NP1 ;_O By_B-NP JOSEPH_I-NP B_I-NP1 ._O
+
+TREASTER_B-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O &UR_B-NP1 ;_O c.2000_B-NP1 N.Y_B-NP1 ._O
+
+Times_B-NP News_I-NP Service_I-NP &LR_I-NP1 ;_O &QC_B-NP1 ;_O &QL_B-NP1 ;_O
+
+In_B-PP1 just_B-NP two_I-NP weeks_I-NP1 this_B-NP month_I-NP1 COMMA_O as_B-SBAR1 investors_B-NP1 worried_B-VP1 whether_B-SBAR1 the_B-NP violence_I-NP1 in_B-PP1 the_B-NP Middle_I-NP East_I-NP1 would_B-VP escalate_I-VP1 into_B-PP1 war_B-NP1 COMMA_O the_B-NP stock_I-NP market_I-NP1 in_B-PP1 Israel_B-NP1 fell_B-VP1 16_B-NP percent_I-NP1 ._O
+
+In_B-PP1 Egypt_B-NP1 COMMA_O the_B-NP market_I-NP1 dropped_B-VP1 20_B-NP percent_I-NP1 ._O
+
+But_O for_B-PP1 most_B-NP American_I-NP investors_I-NP1 COMMA_O many_B-NP1 of_B-PP1 whom_B-NP1 buy_B-VP1 their_B-NP stocks_I-NP1 through_B-PP1 mutual_B-NP funds_I-NP1 COMMA_O the_B-NP impact_I-NP1 was_B-VP1 more_B-ADJP diffuse_I-ADJP1 COMMA_B-ADJP though_I-ADJP1 still_B-ADJP strong_I-ADJP1 ._O
+
+While_B-SBAR1 few_B-NP investors_I-NP1 own_B-VP1 funds_B-NP1 containing_B-VP1 many_B-NP Middle_I-NP Eastern_I-NP companies_I-NP1 COMMA_O partly_B-ADVP1 because_B-SBAR1 there_B-NP1 are_B-VP1 not_O that_B-NP many_I-NP1 around_B-SBAR1 to_B-VP buy_I-VP1 COMMA_O they_B-NP1 nonetheless_B-ADVP1 felt_B-VP1 the_B-NP effects_I-NP1 of_B-PP1 the_B-NP region_I-NP1 's_B-NP volatility_I-NP1 ._O
+
+Wall_B-NP Street_I-NP1 and_O other_B-NP global_I-NP markets_I-NP1 were_B-VP1 concerned_B-ADJP1 that_B-SBAR1 the_B-NP violence_I-NP1 would_B-VP translate_I-VP1 into_B-PP1 higher_B-NP oil_I-NP prices_I-NP1 __B-VP1 which_B-NP1 it_B-NP1 did_B-VP1 COMMA_O briefly_B-ADVP1 __B-NP1 and_O that_B-SBAR1 those_B-NP prices_I-NP1 COMMA_O in_B-PP1 turn_B-NP1 COMMA_O could_B-VP lead_I-VP1 to_B-PP1 inflation_B-NP1 and_O higher_B-NP interest_I-NP rates_I-NP1 ._O
+
+That_B-NP line_I-NP1 of_B-PP1 thinking_B-NP1 played_B-VP1 a_B-NP big_I-NP role_I-NP1 in_B-PP1 the_B-NP 379-point_I-NP drop_I-NP1 in_B-PP1 the_B-NP Dow_I-NP Jones_I-NP industrial_I-NP average_I-NP1 and_O the_B-NP 93-point_I-NP drop_I-NP1 in_B-PP1 the_B-NP Nasdaq_I-NP composite_I-NP index_I-NP1 on_B-PP1 Oct_B-NP1 ._O
+
+12_B-NP __I-NP1 the_B-NP day_I-NP1 that_B-NP1 a_B-NP Palestinian_I-NP mob_I-NP1 mauled_B-VP1 two_B-NP Israeli_I-NP soldiers_I-NP1 COMMA_O Israel_B-NP1 retaliated_B-VP1 with_B-PP1 rocket_B-NP attacks_I-NP1 and_O terrorists_B-NP1 blew_B-VP1 a_B-NP hole_I-NP1 in_B-PP1 a_B-NP United_I-NP States_I-NP warship_I-NP1 in_B-PP1 Yemen_B-NP1 ._O
+
+Last_B-NP week_I-NP1 COMMA_O Israeli_B-NP and_I-NP Palestinian_I-NP leaders_I-NP1 agreed_B-VP1 to_B-PP1 the_B-NP terms_I-NP1 of_B-PP1 a_B-NP cease-fire_I-NP1 after_B-PP1 clashes_B-NP1 in_B-PP1 the_B-NP West_I-NP Bank_I-NP1 and_O the_B-NP Gaza_I-NP Strip_I-NP1 ._O
+
+``_O For_B-PP1 American_B-NP investors_I-NP1 COMMA_O the_B-NP oil_I-NP effect_I-NP1 was_B-VP1 much_B-ADJP more_I-ADJP significant_I-ADJP1 than_B-PP1 the_B-NP direct_I-NP effect_I-NP1 on_B-PP1 Middle_B-NP East_I-NP companies_I-NP1 COMMA_O ''_O said_B-VP1 Grace_B-NP Pineda_I-NP1 COMMA_O who_B-NP1 manages_B-VP1 the_B-NP $_I-NP 132_I-NP million_I-NP Developing_I-NP Capital_I-NP Markets_I-NP fund_I-NP1 for_B-PP1 Merrill_B-NP Lynch_I-NP1 ._O
+
+The_B-NP fund_I-NP1 has_B-VP1 about_B-NP 5_I-NP percent_I-NP1 of_B-PP1 its_B-NP money_I-NP1 in_B-PP1 Israel_B-NP1 and_O about_B-NP 0.5_I-NP percent_I-NP1 in_B-PP1 Egypt_B-NP1 ._O
+
+From_B-PP1 late_B-NP September_I-NP1 COMMA_O when_B-ADVP1 the_B-NP latest_I-NP trouble_I-NP1 erupted_B-VP1 in_B-PP1 the_B-NP Middle_I-NP East_I-NP1 COMMA_O through_B-PP1 last_B-NP week_I-NP1 COMMA_O the_B-NP broad_I-NP markets_I-NP1 and_O several_B-NP categories_I-NP1 of_B-PP1 mutual_B-NP funds_I-NP1 lost_B-VP1 ground_B-NP1 in_B-PP1 the_B-NP United_I-NP States_I-NP1 ._O
+
+In_B-PP1 the_B-NP most_I-NP violent_I-NP period_I-NP1 COMMA_O Oct_B-NP1 ._O
+
+5_B-NP1 through_B-PP1 12_B-NP1 COMMA_O equity_B-NP income_I-NP funds_I-NP1 were_B-VP1 down_B-ADVP1 4.80_B-NP percent_I-NP1 COMMA_O according_B-PP1 to_B-PP1 Lipper_B-NP Inc_I-NP1 ._O
+
+Growth_B-NP funds_I-NP1 were_B-VP1 off_B-ADVP1 7.79_B-NP percent_I-NP1 COMMA_O and_O growth-and-income_B-NP funds_I-NP1 6.12_B-NP percent_I-NP1 ._O
+
+Those_B-NP funds_I-NP1 generally_B-ADVP1 do_B-VP not_I-VP contain_I-VP1 shares_B-NP1 of_B-PP1 Middle_B-NP Eastern_I-NP companies_I-NP1 COMMA_O yet_O the_B-NP trouble_I-NP1 in_B-PP1 the_B-NP region_I-NP1 was_B-VP1 among_B-PP1 several_B-NP factors_I-NP1 __B-VP1 along_B-ADVP1 with_B-PP1 a_B-NP general_I-NP sell-off_I-NP1 in_B-PP1 technology_B-NP and_I-NP telecommunications_I-NP stocks_I-NP1 __B-NP1 that_B-NP1 brought_B-VP1 down_B-PRT1 prices_B-NP1 ._O
+
+Emerging-markets_B-NP funds_I-NP1 declined_B-VP1 7.17_B-NP percent_I-NP1 over_B-PP1 that_B-NP period_I-NP1 ._O
+
+Although_B-SBAR1 many_B-NP1 of_B-PP1 those_B-NP funds_I-NP1 invest_B-VP1 in_B-PP1 Middle_B-NP Eastern_I-NP companies_I-NP1 COMMA_O the_B-NP ripple_I-NP effect_I-NP1 of_B-PP1 the_B-NP threat_I-NP1 to_B-PP1 oil_B-NP1 affected_B-VP1 them_B-NP1 most_B-ADVP1 COMMA_O analysts_B-NP and_I-NP fund_I-NP managers_I-NP1 said_B-VP1 ._O
+
+And_O those_B-NP funds_I-NP1 '_B-NP investments_I-NP1 in_B-PP1 the_B-NP region_I-NP1 are_B-VP1 still_B-ADVP1 relatively_B-ADJP small_I-ADJP1 COMMA_O usually_B-ADVP1 less_B-NP than_I-NP 10_I-NP percent_I-NP1 of_B-PP1 the_B-NP portfolios_I-NP1 ._O
+
+``_O Most_B-NP1 of_B-PP1 the_B-NP markets_I-NP1 in_B-PP1 the_B-NP Middle_I-NP East_I-NP1 are_B-VP1 insignificant_B-ADJP1 in_B-PP1 terms_B-NP1 of_B-PP1 the_B-NP amount_I-NP1 of_B-PP1 capital_B-NP1 invested_B-VP1 in_B-PP1 them_B-NP1 from_B-PP1 the_B-NP United_I-NP States_I-NP1 COMMA_O ''_O said_B-VP1 Mark_B-NP Madden_I-NP1 COMMA_O manager_B-NP1 of_B-PP1 the_B-NP $_I-NP 250_I-NP million_I-NP Pioneer_I-NP Emerging_I-NP Markets_I-NP fund_I-NP1 ._O ''_O
+
+Madden_B-NP1 invests_B-VP1 mainly_B-ADVP1 in_B-PP1 Mexico_B-NP1 COMMA_O Brazil_B-NP1 and_O Korea_B-NP1 ._O
+
+About_B-NP 5_I-NP percent_I-NP1 of_B-PP1 his_B-NP portfolio_I-NP1 is_B-VP1 in_B-PP1 Israel_B-NP1 and_O less_B-NP than_I-NP 1_I-NP percent_I-NP1 is_B-VP1 in_B-PP1 Egypt_B-NP1 ._O
+
+Except_B-PP1 during_B-PP1 such_B-NP tense_I-NP times_I-NP1 in_B-PP1 the_B-NP Middle_I-NP East_I-NP1 COMMA_O analysts_B-NP and_I-NP fund_I-NP managers_I-NP1 said_B-VP1 COMMA_O fluctuations_B-NP1 in_B-PP1 the_B-NP United_I-NP States_I-NP1 markets_B-NP1 COMMA_O the_B-NP biggest_I-NP and_I-NP most_I-NP dynamic_I-NP1 in_B-PP1 the_B-NP world_I-NP1 COMMA_O are_B-VP1 more_B-ADJP likely_I-ADJP1 to_B-VP influence_I-VP1 share_B-NP prices_I-NP1 in_B-PP1 the_B-NP Middle_I-NP East_I-NP1 than_B-PP1 vice_B-NP1 versa_B-ADVP1 ._O
+
+``_O The_B-NP first_I-NP thing_I-NP1 overseas_B-NP traders_I-NP1 want_B-VP1 to_B-VP know_I-VP1 when_B-ADVP1 they_B-NP1 come_B-VP1 in_B-PRT1 in_B-PP1 the_B-NP morning_I-NP1 is_B-VP1 COMMA_O `_O What_B-NP1 did_O the_B-NP Nasdaq_I-NP1 and_O the_B-NP Dow_I-NP1 do_B-VP1 ?_O ''_O '_O
+
+said_B-VP1 Howard_B-NP Klein_I-NP1 COMMA_O an_B-NP institutional_I-NP broker_I-NP1 specializing_B-VP1 in_B-PP1 emerging_B-NP markets_I-NP1 at_B-PP1 SG_B-NP Cowen_I-NP Securities_I-NP1 in_B-PP1 New_B-NP York_I-NP1 ._O
+
+Traders_B-NP1 in_B-PP1 Israel_B-NP1 in_B-PP1 particular_B-ADJP1 have_B-VP1 their_B-NP eyes_I-NP1 on_B-PP1 the_B-NP Nasdaq_I-NP1 ._O
+
+Their_B-NP country_I-NP1 is_B-VP1 also_B-ADVP1 home_B-NP1 to_B-PP1 global_B-NP technology_I-NP1 COMMA_O telecommunications_B-NP1 and_O pharmaceutical_B-NP companies_I-NP1 COMMA_O which_B-NP1 depend_B-VP1 on_B-PP1 economic_B-NP currents_I-NP1 in_B-PP1 the_B-NP United_I-NP States_I-NP1 and_O Europe_B-NP1 much_B-ADJP more_I-ADJP1 than_B-PP1 on_B-PP1 developments_B-NP1 in_B-PP1 the_B-NP Middle_I-NP East_I-NP1 ._O
+
+Shares_B-NP1 of_B-PP1 many_B-NP Israeli_I-NP companies_I-NP1 are_B-VP sold_I-VP1 as_B-PP1 American_B-NP Depository_I-NP Receipts_I-NP1 on_B-PP1 the_B-NP Nasdaq_I-NP1 ._O
+
+Only_B-NP a_I-NP handful_I-NP1 of_B-PP1 small_B-NP funds_I-NP1 concentrate_B-VP1 on_B-PP1 the_B-NP Middle_I-NP East_I-NP1 ._O
+
+One_B-NP1 of_B-PP1 them_B-NP1 COMMA_O the_B-NP $_I-NP 25_I-NP million_I-NP American_I-NP Israel_I-NP Index_I-NP1 mutual_B-NP fund_I-NP1 COMMA_O is_B-VP made_I-VP1 up_B-PRT1 exclusively_B-PP of_I-PP1 Israeli_B-NP companies_I-NP1 COMMA_O 16_B-NP1 traded_B-VP1 on_B-PP1 the_B-NP Tel_I-NP Aviv_I-NP1 exchange_B-NP1 and_O 19_B-NP1 on_B-PP1 the_B-NP Nasdaq_I-NP1 ._O
+
+Like_B-PP1 more_B-NP broadly_I-NP based_I-NP mutual_I-NP funds_I-NP1 COMMA_O its_B-NP shares_I-NP1 fell_B-VP1 during_B-PP1 the_B-NP recent_I-NP turmoil_I-NP1 ._O
+
+But_O its_B-NP investors_I-NP1 remained_B-VP1 confident_B-ADJP1 ._O
+
+In_B-PP1 the_B-NP last_I-NP few_I-NP weeks_I-NP1 COMMA_O money_B-NP1 flowing_B-VP1 into_B-PP1 the_B-NP fund_I-NP1 far_B-VP exceeded_I-VP1 redemptions_B-NP1 ._O
+
+NYT-10-20-00_B-NP 2027EDT_I-NP1
+
