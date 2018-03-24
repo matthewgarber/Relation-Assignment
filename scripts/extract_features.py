@@ -95,6 +95,4 @@ if __name__ == '__main__':
     features_filepath = sys.argv[1]
     dataset_filepath = sys.argv[2]
     extract_features(features_filepath, dataset_filepath)
-    extract_features('features/rel-trainset.feats.gold',
-                     'data/rel-trainset.gold')
 
